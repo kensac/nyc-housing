@@ -1,0 +1,186 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5043879",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/837-maple-street-brooklyn/7r",
+  "borough": "brooklyn",
+  "neighborhood": "East Flatbush",
+  "address": "837 Maple Street",
+  "unit": "7R",
+  "zip": "11203",
+  "bbl": "3045880098",
+  "bin": "3099127",
+  "geocode_match": "837 MAPLE STREET, Brooklyn, NY, USA",
+  "latitude": 40.662198,
+  "longitude": -73.932042,
+  "rent": 2300,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-05-15T04:46:25.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-05-14",
+  "transit": {
+    "nearest_station": "Crown Hts-Utica Av",
+    "nearest_lines": [
+      "3",
+      "4"
+    ],
+    "nearest_distance_mi": 0.45,
+    "nearest_walk_min": 9,
+    "all_nearby_lines": [
+      "3",
+      "4"
+    ],
+    "stations": [
+      {
+        "station": "Crown Hts-Utica Av",
+        "lines": [
+          "3",
+          "4"
+        ],
+        "distance_mi": 0.45,
+        "walk_min": 9
+      },
+      {
+        "station": "Sutter Av-Rutland Rd",
+        "lines": [
+          "3"
+        ],
+        "distance_mi": 0.504,
+        "walk_min": 10
+      },
+      {
+        "station": "Kingston Av",
+        "lines": [
+          "3"
+        ],
+        "distance_mi": 0.713,
+        "walk_min": 14
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 4,
+      "ecb_active": 0,
+      "ecb_penalty_total": 12500,
+      "ecb_balance_due": 0,
+      "dob_total": 1,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "39511298J",
+        "bin": "3099127",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Construction",
+        "description": "I OBSERVED THAT THE YODOCKS IN THE STREET WERE NOT FILLED WITH WATER/SAND, AND THEY WERE NOT INTERLOCKED AS PER MANUFACTURES SPECIFICATIONS. THIS ALLOWED PEDESTRIANS TO BREACH THE LINE OF SAFETY BY WALKING THRO",
+        "infraction_code": "1F1",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20230106",
+        "hearing_status": "DISMISSED",
+        "respondent": "TARGET CONSTRUCTION LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39511297H",
+        "bin": "3099127",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "INSPECTION OF A BUILDING AT THE 7TH STORY, I OBSERVED THAT THERE WAS MISSING OVER HEAD PROTECTION AT EXPOSURE #4 FOR THE REAR SIDE YARD. THE SSP INDICATED THAT OHP WAS TO BE IN PLACE, TO PREVENT INJURY TO PERSO",
+        "infraction_code": "209",
+        "penalty_imposed": 5000,
+        "amount_paid": 5039,
+        "balance_due": 0,
+        "issue_date": "20230106",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "TARGET CONSTRUCTION LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35670502K",
+        "bin": "3099127",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "FAILURE TO PERFORM SPECIAL INSPECTION & VERIFICATIONS FOR CONCRETE CONSTRUCTION AS REQUIRED BY SECTION & TABLE 1704.4.AS NOTED AT TIME OF INSPECTION AT ACTIVE JOB SITE OBSERVED CONCRETE BEEN PLACED AT ROOF LEVE",
+        "infraction_code": "2B5",
+        "penalty_imposed": 2500,
+        "amount_paid": 2517,
+        "balance_due": 0,
+        "issue_date": "20230118",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "TARGET CONSTRUCTION LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39511299L",
+        "bin": "3099127",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "A 7 STORY BUILDING UNDER CONSTRUCTION, HAS AN UNEVEN SIDEWALK WITH LARGE ROCKY PILED DRIED CONCRETE, AND WOODEN POST EMBEDDED IN THE GROUND. THIS CREATED A POTENTIAL TRIP HAZARD FOR ALL THOSE WALKING OR PUSHING",
+        "infraction_code": "209",
+        "penalty_imposed": 5000,
+        "amount_paid": 5039,
+        "balance_due": 0,
+        "issue_date": "20230106",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "TARGET CONSTRUCTION LLC"
+      }
+    ],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "3625/20",
+        "bin": "3099127",
+        "category": "V%*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "UB-UNSAFE BUILDINGS NONE",
+        "type_code": "UB",
+        "description": null,
+        "issue_date": "20200317",
+        "disposition_comments": "OK TO DISMISS. PRECEPT#15693 CLOSED & SURVEY FEE PAID"
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3045880098-7r.json"
+}

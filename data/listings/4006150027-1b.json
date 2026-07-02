@@ -1,0 +1,299 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5085064",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/30_25-31-street-astoria/1b",
+  "borough": "queens",
+  "neighborhood": "Astoria",
+  "address": "30-25 31st Street",
+  "unit": "1B",
+  "zip": "11102",
+  "bbl": "4006150027",
+  "bin": "4008482",
+  "geocode_match": "30-25 31 STREET, Astoria, NY, USA",
+  "latitude": 40.766084,
+  "longitude": -73.921729,
+  "rent": 2800,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-26T18:53:15.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-06-26",
+  "transit": {
+    "nearest_station": "30 Av",
+    "nearest_lines": [
+      "N",
+      "W"
+    ],
+    "nearest_distance_mi": 0.046,
+    "nearest_walk_min": 1,
+    "all_nearby_lines": [
+      "N",
+      "W"
+    ],
+    "stations": [
+      {
+        "station": "30 Av",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.046,
+        "walk_min": 1
+      },
+      {
+        "station": "Broadway",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.33,
+        "walk_min": 7
+      },
+      {
+        "station": "Astoria Blvd",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.351,
+        "walk_min": 7
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 7,
+      "hpd_open": 0,
+      "hpd_class_a": 1,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 6,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2022-11-15T00:00:00.000",
+      "ecb_total": 0,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 6,
+      "dob_open": 5
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "10951579",
+        "bbl": "4006150027",
+        "bin": "4008482",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "SECTION27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE ?27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2015-10-15T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2015-10-29T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "11514651",
+        "bbl": "4006150027",
+        "bin": "4008482",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2016-11-16T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2018-01-17T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "12112777",
+        "bbl": "4006150027",
+        "bin": "4008482",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2017-11-30T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2018-01-17T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "12691105",
+        "bbl": "4006150027",
+        "bin": "4008482",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2018-10-22T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2019-11-04T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "13398416",
+        "bbl": "4006150027",
+        "bin": "4008482",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2019-10-31T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2019-11-04T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "14229405",
+        "bbl": "4006150027",
+        "bin": "4008482",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2021-04-14T00:00:00.000",
+        "nov_issued_date": "2021-04-14T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2021-06-03T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "15538871",
+        "bbl": "4006150027",
+        "bin": "4008482",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2022-11-15T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2022-12-07T00:00:00.000"
+      }
+    ],
+    "ecb": [],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "STR01",
+        "bin": "4008482",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "CS-SITE SAFETY NONE",
+        "type_code": "CS",
+        "description": null,
+        "issue_date": "19921229",
+        "disposition_comments": "DELETED BY DPU ON 01/06/93 BECAUSE ENTERED WRONG SHOULD BE UNSERVED E.C.B."
+      },
+      {
+        "source": "DOB",
+        "violation_id": "STR01",
+        "bin": "4008482",
+        "category": "VP*-VIOLATION UNSERVED ECB- DISMISSED",
+        "is_open": false,
+        "violation_type": "CS-SITE SAFETY NONE",
+        "type_code": "CS",
+        "description": null,
+        "issue_date": "19921229",
+        "disposition_comments": "COM"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "26171",
+        "bin": "4008482",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "20050131",
+        "disposition_comments": null
+      },
+      {
+        "source": "DOB",
+        "violation_id": "25297",
+        "bin": "4008482",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "20090101",
+        "disposition_comments": null
+      },
+      {
+        "source": "DOB",
+        "violation_id": "20767",
+        "bin": "4008482",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "LBLVIO-LOW PRESSURE BOILER BOILER REQUIRED",
+        "type_code": "LBLVIO",
+        "description": null,
+        "issue_date": "20091231",
+        "disposition_comments": null
+      },
+      {
+        "source": "DOB",
+        "violation_id": "14186",
+        "bin": "4008482",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "LBLVIO-LOW PRESSURE BOILER BOILER REQUIRED",
+        "type_code": "LBLVIO",
+        "description": "VIOLATION ISSUED FOR FAILURE TO FILE ANNUAL BOILER 2013 INSPECTION REPORT",
+        "issue_date": "20150303",
+        "disposition_comments": null
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4006150027-1b.json"
+}

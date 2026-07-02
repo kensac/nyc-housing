@@ -1,0 +1,101 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5089338",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/67_32-182-street-fresh_meadows/2b",
+  "borough": "queens",
+  "neighborhood": "Fresh Meadows",
+  "address": "67-32 182nd Street",
+  "unit": "2B",
+  "zip": "11365",
+  "bbl": "4071100020",
+  "bin": "4153139",
+  "geocode_match": "67-32 182 STREET, Fresh Meadows, NY, USA",
+  "latitude": 40.734681,
+  "longitude": -73.790065,
+  "rent": 2400,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-07-01T18:14:01.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": 750,
+  "building_type": "HOUSE",
+  "status": "ACTIVE",
+  "available_date": "2026-07-01",
+  "transit": {
+    "nearest_station": "Jamaica-179 St",
+    "nearest_lines": [
+      "F"
+    ],
+    "nearest_distance_mi": 1.538,
+    "nearest_walk_min": 31,
+    "all_nearby_lines": [
+      "F"
+    ],
+    "stations": [
+      {
+        "station": "Jamaica-179 St",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 1.538,
+        "walk_min": 31
+      },
+      {
+        "station": "169 St",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 1.644,
+        "walk_min": 33
+      },
+      {
+        "station": "Parsons Blvd",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 1.972,
+        "walk_min": 39
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 0,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4071100020-2b.json"
+}

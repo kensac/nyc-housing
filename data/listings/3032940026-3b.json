@@ -1,0 +1,105 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5085361",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/972-bushwick-avenue-brooklyn/3b",
+  "borough": "brooklyn",
+  "neighborhood": "Bushwick",
+  "address": "972 Bushwick Avenue",
+  "unit": "3B",
+  "zip": "11221",
+  "bbl": "3032940026",
+  "bin": "3000000",
+  "geocode_match": "972 BUSHWICK AVENUE, Brooklyn, NY, USA",
+  "latitude": 40.69201,
+  "longitude": -73.92331,
+  "rent": 2880,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": -20,
+  "price_changed_at": "2026-06-28T07:29:16.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-06-26",
+  "transit": {
+    "nearest_station": "Gates Av",
+    "nearest_lines": [
+      "J",
+      "Z"
+    ],
+    "nearest_distance_mi": 0.129,
+    "nearest_walk_min": 3,
+    "all_nearby_lines": [
+      "J",
+      "Z",
+      "M"
+    ],
+    "stations": [
+      {
+        "station": "Gates Av",
+        "lines": [
+          "J",
+          "Z"
+        ],
+        "distance_mi": 0.129,
+        "walk_min": 3
+      },
+      {
+        "station": "Kosciuszko St",
+        "lines": [
+          "J"
+        ],
+        "distance_mi": 0.251,
+        "walk_min": 5
+      },
+      {
+        "station": "Central Av",
+        "lines": [
+          "M"
+        ],
+        "distance_mi": 0.439,
+        "walk_min": 9
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 0,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3032940026-3b.json"
+}

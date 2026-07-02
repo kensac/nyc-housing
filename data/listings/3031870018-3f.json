@@ -1,0 +1,200 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5089266",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/298-troutman-street-brooklyn/3f",
+  "borough": "brooklyn",
+  "neighborhood": "Bushwick",
+  "address": "298 Troutman Street",
+  "unit": "3F",
+  "zip": "11237",
+  "bbl": "3031870018",
+  "bin": "3072550",
+  "geocode_match": "298 TROUTMAN STREET, Brooklyn, NY, USA",
+  "latitude": 40.703913,
+  "longitude": -73.925219,
+  "rent": 2600,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-07-01T17:15:23.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-08-01",
+  "transit": {
+    "nearest_station": "Jefferson St",
+    "nearest_lines": [
+      "L"
+    ],
+    "nearest_distance_mi": 0.214,
+    "nearest_walk_min": 4,
+    "all_nearby_lines": [
+      "L"
+    ],
+    "stations": [
+      {
+        "station": "Jefferson St",
+        "lines": [
+          "L"
+        ],
+        "distance_mi": 0.214,
+        "walk_min": 4
+      },
+      {
+        "station": "DeKalb Av",
+        "lines": [
+          "L"
+        ],
+        "distance_mi": 0.303,
+        "walk_min": 6
+      },
+      {
+        "station": "Morgan Av",
+        "lines": [
+          "L"
+        ],
+        "distance_mi": 0.378,
+        "walk_min": 8
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 5,
+      "hpd_open": 0,
+      "hpd_class_a": 1,
+      "hpd_class_b": 2,
+      "hpd_class_c": 0,
+      "hpd_class_i": 2,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2022-03-02T00:00:00.000",
+      "ecb_total": 0,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 1,
+      "dob_open": 0
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "11056821",
+        "bbl": "3031870018",
+        "bin": "3072550",
+        "class": "B",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 27-2046.1 HMC: REPAIR OR REPLACE THE CARBON MONOXIDE DETECTING DEVICE(S). ............MISSING IN THE ENTIRE APARTMENT LOCATED AT APT 2L, 2nd STORY, 1st APARTMENT FROM WEST AT NORTH",
+        "apartment": "2L",
+        "story": "2",
+        "inspection_date": "2016-01-02T00:00:00.000",
+        "nov_issued_date": "2016-01-04T00:00:00.000",
+        "current_status": "VIOLATION CLOSED",
+        "current_status_date": "2018-02-11T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "11056829",
+        "bbl": "3031870018",
+        "bin": "3072550",
+        "class": "B",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 27-2045 ADM CODE REPAIR OR REPLACE THE SMOKE DETECTOR .....APARTMENT WAS TREATED WITH PESTICIDES LESS THEN 30 DAYS, DOG WAS NOT USE, NO LIVE BED BUGS FOUND IN THE ENTIRE APARTMENT LOCATED AT APT 2L, 2nd STORY, 1st APARTMENT FROM WEST AT NORTH",
+        "apartment": "2L",
+        "story": "2",
+        "inspection_date": "2016-01-02T00:00:00.000",
+        "nov_issued_date": "2016-01-04T00:00:00.000",
+        "current_status": "VIOLATION CLOSED",
+        "current_status_date": "2018-02-11T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "11510212",
+        "bbl": "3031870018",
+        "bin": "3072550",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2016-11-15T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2018-02-12T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "12108854",
+        "bbl": "3031870018",
+        "bin": "3072550",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2017-11-29T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2018-02-12T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "14965933",
+        "bbl": "3031870018",
+        "bin": "3072550",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2022-03-02T00:00:00.000",
+        "nov_issued_date": "2022-03-02T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2022-03-04T00:00:00.000"
+      }
+    ],
+    "ecb": [],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "22-04456",
+        "bin": "3072550",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "C-CONSTRUCTION OTHER OPTIONAL",
+        "type_code": "C",
+        "description": "STRUCTURE RENDERED NON COMPLAINT. AT TIME OF INSPECTION OBSERVED, FACADE AT EXP.1 HAVE DAMAGED AT MULTIPLE LOCATION DUE TO SWS ALONG WITH PIPE SCAFFOLD HAVE BEEN COLLAPSE AT ADJACENT BUILDING 296 TROUTMAN STREET BROOKLYN.",
+        "issue_date": "20221216",
+        "disposition_comments": "DISMISSED, NO VISIBLE EVIDENCE OF CRACKS AT EXPOSURE#1 BRICK FACADE MAINTAIN"
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3031870018-3f.json"
+}

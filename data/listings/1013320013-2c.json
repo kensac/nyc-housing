@@ -1,0 +1,230 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5079116",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/223-east-58-street-new_york/2c",
+  "borough": "manhattan",
+  "neighborhood": "Sutton Place",
+  "address": "223 East 58th Street",
+  "unit": "2C",
+  "zip": "10022",
+  "bbl": "1013320013",
+  "bin": "1038626",
+  "geocode_match": "223 EAST 58 STREET, New York, NY, USA",
+  "latitude": 40.760619,
+  "longitude": -73.965753,
+  "rent": 2895,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-21T11:40:14.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-08-03",
+  "transit": {
+    "nearest_station": "Lexington Av/59 St",
+    "nearest_lines": [
+      "4",
+      "5",
+      "6",
+      "N",
+      "R",
+      "W"
+    ],
+    "nearest_distance_mi": 0.097,
+    "nearest_walk_min": 2,
+    "all_nearby_lines": [
+      "4",
+      "5",
+      "6",
+      "N",
+      "R",
+      "W",
+      "M",
+      "Q",
+      "E",
+      "F"
+    ],
+    "stations": [
+      {
+        "station": "Lexington Av/59 St",
+        "lines": [
+          "4",
+          "5",
+          "6",
+          "N",
+          "R",
+          "W"
+        ],
+        "distance_mi": 0.097,
+        "walk_min": 2
+      },
+      {
+        "station": "Lexington Av/63 St",
+        "lines": [
+          "M",
+          "Q"
+        ],
+        "distance_mi": 0.233,
+        "walk_min": 5
+      },
+      {
+        "station": "Lexington Av/51-53 Sts",
+        "lines": [
+          "6",
+          "E",
+          "F"
+        ],
+        "distance_mi": 0.262,
+        "walk_min": 5
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 3,
+      "hpd_open": 1,
+      "hpd_class_a": 1,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 2,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2023-11-15T00:00:00.000",
+      "ecb_total": 1,
+      "ecb_active": 0,
+      "ecb_penalty_total": 1250,
+      "ecb_balance_due": 0,
+      "dob_total": 3,
+      "dob_open": 1
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "16387765",
+        "bbl": "1013320013",
+        "bin": "1038626",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2023-11-15T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2023-11-21T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "12053318",
+        "bbl": "1013320013",
+        "bin": "1038626",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2017-11-06T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2017-11-14T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "9192035",
+        "bbl": "1013320013",
+        "bin": "1038626",
+        "class": "A",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "SECTION 329, M/D LAW AND DEPT. RULES AND REGS. PROVIDE A COMPLETED CERTIFICATE OF INSPECTION VISITS IN A PROPER FRAME AT OR NEAR MAILBOXES, BOTTOM EDGE OF FRAME BETWEEN 48-62 INCHES ABOVE FLOOR , IV1 CARD LOCKED IN THE SHOW CASE AT PUBLIC HALL, 1st STORY",
+        "apartment": null,
+        "story": "1",
+        "inspection_date": "2011-11-03T00:00:00.000",
+        "nov_issued_date": "2011-11-14T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2011-11-14T00:00:00.000"
+      }
+    ],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "35355688H",
+        "bin": "1038626",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Cranes and Derricks",
+        "description": "FAILED TO NOTIFY DEPT/OBTAIN PERMIT PRIOR TO USE/INST. OFF C-HOOKS IN CONNECTION W/ SUSPENDED SCAFFOLD. AS NOTED:AT TIME OF INSPECTION OBSERVED A 2 POINT SUSPENDED SCAFFOLD OFF C-HOOKS AT EXPOSURE#1. THERE ARE",
+        "infraction_code": "261",
+        "penalty_imposed": 1250,
+        "amount_paid": 1250,
+        "balance_due": 0,
+        "issue_date": "20180909",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "AV REALTY OF NEW YORK"
+      }
+    ],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "00150",
+        "bin": "1038626",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "19950829",
+        "disposition_comments": "CIALDE CANCELLED-NEW OWNERSHIP PURCHASE DATE:3/10/2004 CRFN:2004000542281"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "25550",
+        "bin": "1038626",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "LBLVIO-LOW PRESSURE BOILER BOILER REQUIRED",
+        "type_code": "LBLVIO",
+        "description": "VIOLATION ISSUED-FAILURE TO FILE 2021 EXTERNAL LOW PRESSURE INSPECTION",
+        "issue_date": "20230630",
+        "disposition_comments": null
+      },
+      {
+        "source": "DOB",
+        "violation_id": "03285",
+        "bin": "1038626",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LBLVIO-LOW PRESSURE BOILER BOILER REQUIRED",
+        "type_code": "LBLVIO",
+        "description": "VIOLATION ISSUED-FAILURE TO FILE 2024 EXTERNAL LOW PRESSURE INSPECTION",
+        "issue_date": "20251114",
+        "disposition_comments": "CIANOW CRM Violation Dismissed"
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "1013320013-2c.json"
+}

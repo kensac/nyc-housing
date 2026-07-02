@@ -1,0 +1,186 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5089953",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/1186-park-place-brooklyn/a",
+  "borough": "brooklyn",
+  "neighborhood": "Crown Heights",
+  "address": "1186 Park Place",
+  "unit": "A",
+  "zip": "11213",
+  "bbl": "3013700021",
+  "bin": "3036398",
+  "geocode_match": "1186 PARK PLACE, Brooklyn, NY, USA",
+  "latitude": 40.672579,
+  "longitude": -73.938254,
+  "rent": 1599,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-07-02T01:04:41.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "TWOFAMILY",
+  "status": "ACTIVE",
+  "available_date": "2026-07-01",
+  "transit": {
+    "nearest_station": "Kingston Av",
+    "nearest_lines": [
+      "3"
+    ],
+    "nearest_distance_mi": 0.3,
+    "nearest_walk_min": 6,
+    "all_nearby_lines": [
+      "3",
+      "4",
+      "C"
+    ],
+    "stations": [
+      {
+        "station": "Kingston Av",
+        "lines": [
+          "3"
+        ],
+        "distance_mi": 0.3,
+        "walk_min": 6
+      },
+      {
+        "station": "Crown Hts-Utica Av",
+        "lines": [
+          "3",
+          "4"
+        ],
+        "distance_mi": 0.32,
+        "walk_min": 6
+      },
+      {
+        "station": "Kingston-Throop Avs",
+        "lines": [
+          "C"
+        ],
+        "distance_mi": 0.517,
+        "walk_min": 10
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 4,
+      "hpd_open": 4,
+      "hpd_class_a": 1,
+      "hpd_class_b": 3,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2006-06-14T00:00:00.000",
+      "ecb_total": 0,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 1,
+      "dob_open": 1
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "6211466",
+        "bbl": "3013700021",
+        "bin": "3036398",
+        "class": "B",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "SECTION 27-2005 ADMIN. CODE: PROPERLY SECURE THE LOOSE LADDER AT SCUTTLE CLOSET IN THE ENTIRE APARTMENT LOCATED AT APT 2FL, 2nd STORY, 1st APARTMENT FROM EAST AT SOUTH",
+        "apartment": "2FL",
+        "story": "2",
+        "inspection_date": "2006-06-14T00:00:00.000",
+        "nov_issued_date": "2006-06-16T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2006-06-16T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "6211420",
+        "bbl": "3013700021",
+        "bin": "3036398",
+        "class": "B",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "SECTION 27-2005 ADMIN. CODE: ABATE THE NUISANCE CONSISTING OF CONCEALED LEAK AT WEST WALL AND CEILING IN THE 2nd ROOM FROM NORTH AT WEST LOCATED AT APT 1FL, 1st STORY, 1st APARTMENT FROM EAST AT SOUTH",
+        "apartment": "1FL",
+        "story": "1",
+        "inspection_date": "2006-06-14T00:00:00.000",
+        "nov_issued_date": "2006-06-16T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2006-06-16T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "6211430",
+        "bbl": "3013700021",
+        "bin": "3036398",
+        "class": "A",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "SECTION 27-2005 ADMIN. CODE: REPAIR THE BROKEN OR DEFECTIVE PLASTERED SURFACES AND PAINT IN UNIFORM COLOR AT WEST WALL AND CEILING IN THE 2nd ROOM FROM NORTH AT WEST LOCATED AT APT 1FL, 1st STORY, 1st APARTMENT FROM EAST AT SOUTH",
+        "apartment": "1FL",
+        "story": "1",
+        "inspection_date": "2006-06-14T00:00:00.000",
+        "nov_issued_date": "2006-06-16T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2006-06-16T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "6211440",
+        "bbl": "3013700021",
+        "bin": "3036398",
+        "class": "B",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "SECTION 27-2046.1, 2046.2 HMC: PROVIDE AN APPROVED AND OPERATIONAL CARBON MONOXIDE DETECTING DEVICE, INSTALLED IN ACCORDANCE WITH APPLICABLE LAW AND RULES. IN THE ENTIRE APARTMENT LOCATED AT APT 1FL, 1st STORY, 1st APARTMENT FROM EAST AT SOUTH",
+        "apartment": "1FL",
+        "story": "1",
+        "inspection_date": "2006-06-14T00:00:00.000",
+        "nov_issued_date": "2006-06-16T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2006-06-16T00:00:00.000"
+      }
+    ],
+    "ecb": [],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "3582/19",
+        "bin": "3036398",
+        "category": "V%-DOB VIOLATION",
+        "is_open": true,
+        "violation_type": "UB-UNSAFE BUILDINGS NONE",
+        "type_code": "UB",
+        "description": null,
+        "issue_date": "20190822",
+        "disposition_comments": null
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3013700021-a.json"
+}

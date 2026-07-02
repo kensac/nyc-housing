@@ -1,0 +1,238 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5077489",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/26_19-2-street-queens/205",
+  "borough": "queens",
+  "neighborhood": "Astoria",
+  "address": "26-19 2nd Street",
+  "unit": "205",
+  "zip": "11102",
+  "bbl": "4009140008",
+  "bin": "4020682",
+  "geocode_match": "26-19 2 STREET, Astoria, NY, USA",
+  "latitude": 40.77611,
+  "longitude": -73.93452,
+  "rent": 3250,
+  "net_effective_rent": 3000,
+  "gross_over_3000": true,
+  "no_fee": false,
+  "months_free": 1,
+  "lease_term_months": 13,
+  "price_delta": null,
+  "price_changed_at": "2026-06-18T20:01:15.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-06-18",
+  "transit": {
+    "nearest_station": "96 St",
+    "nearest_lines": [
+      "Q"
+    ],
+    "nearest_distance_mi": 0.843,
+    "nearest_walk_min": 17,
+    "all_nearby_lines": [
+      "Q",
+      "N",
+      "W"
+    ],
+    "stations": [
+      {
+        "station": "96 St",
+        "lines": [
+          "Q"
+        ],
+        "distance_mi": 0.843,
+        "walk_min": 17
+      },
+      {
+        "station": "86 St",
+        "lines": [
+          "Q"
+        ],
+        "distance_mi": 0.859,
+        "walk_min": 17
+      },
+      {
+        "station": "30 Av",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.928,
+        "walk_min": 19
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 3,
+      "hpd_open": 0,
+      "hpd_class_a": 2,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 1,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2025-11-21T00:00:00.000",
+      "ecb_total": 4,
+      "ecb_active": 0,
+      "ecb_penalty_total": 3125,
+      "ecb_balance_due": 0,
+      "dob_total": 1,
+      "dob_open": 0
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "16907071",
+        "bbl": "4009140008",
+        "bin": "4020682",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2024-04-17T00:00:00.000",
+        "nov_issued_date": "2024-04-17T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2024-07-05T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "18028137",
+        "bbl": "4009140008",
+        "bin": "4020682",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2025-06-13T00:00:00.000",
+        "nov_issued_date": "2025-06-13T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2026-05-07T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "18430804",
+        "bbl": "4009140008",
+        "bin": "4020682",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2025-11-21T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2026-01-13T00:00:00.000"
+      }
+    ],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34324919H",
+        "bin": "4020682",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Hazardous",
+        "violation_type": "Quality of Life",
+        "description": "RESIDENCE ALTERED FOR OCCUPANCY AS A DWELLING FOR MORE THAN THE LEGALLY APPROVED NUMBER OF FAMILIES DEPT OF BUILDING RECORDS INDICATE RESIDENCE TO BE LEGALLY APPROVED FOR 2 FAMILIES RESIDENCE NOW ALTERED FOR OC",
+        "infraction_code": "BQ5",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20020606",
+        "hearing_status": "DISMISSED",
+        "respondent": "HARRY VASQUEZ"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "34324920P",
+        "bin": "4020682",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Hazardous",
+        "violation_type": "Quality of Life",
+        "description": "WORK WITHOUT A PERMIT. WORK NOTED: AT 1 & 2 FLOORS SUBDIVIDED APT TO CREATE AN ADDITIONAL APT (APTS ARE DUPLEX) BY THE ERECTION OF PARTITIONS INSTALLED PLUMBING & WASTE LINES FOR A 3 PC BATHROOM & INSTALLED GAS",
+        "infraction_code": "BQ2",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20020606",
+        "hearing_status": "DISMISSED",
+        "respondent": "HARRY VASQUEZ"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35559662Y",
+        "bin": "4020682",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Construction",
+        "description": "BC 1905.6.3.3 FINAL CURING FOR CONCRETE CYLINDERS. FAILURE TO PROPERLYLABORATORY CURE CONCRETE CYLINDERS IN ACCORDANCE W/ ASTM C31,10.1.2,10.1.3 AND 11. AS NOTED AT TIME OF CONCRETE ENFORCEMENT UNIT(CEU) INSPEC",
+        "infraction_code": "106",
+        "penalty_imposed": 625,
+        "amount_paid": 625,
+        "balance_due": 0,
+        "issue_date": "20210810",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "CM TESTING LAB, INC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35549727R",
+        "bin": "4020682",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Construction",
+        "description": "ILLEGALLY ENGAGING IN ANY BUSINESS OR OCCUPATION W/O A REQUIRED LICENSE OR OTHER AUTHORICATION(CONSTRUCTION SUPERINTENDENT LICENSE-EXPIRED).NOTED: AT THE TIME OF MY INSPECTION OF PROPOSED 6 STY ACTIVE CONSTRUCT",
+        "infraction_code": "191",
+        "penalty_imposed": 2500,
+        "amount_paid": 2500,
+        "balance_due": 0,
+        "issue_date": "20210129",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "FAZIO CONSTRUCTION GROUP"
+      }
+    ],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "061477C441R",
+        "bin": "4020682",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "C-CONSTRUCTION OTHER OPTIONAL",
+        "type_code": "C",
+        "description": null,
+        "issue_date": "19770614",
+        "disposition_comments": "OK TO DISMISS VIOLATION AS PER OPPN 2/91"
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4009140008-205.json"
+}

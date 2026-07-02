@@ -1,0 +1,188 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5087030",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/1395-kearney-avenue-bronx/c",
+  "borough": "bronx",
+  "neighborhood": "Country Club",
+  "address": "1395 Kearney Avenue",
+  "unit": "C",
+  "zip": "10465",
+  "bbl": "2054070118",
+  "bin": "2075080",
+  "geocode_match": "1395 KEARNEY AVENUE, Bronx, NY, USA",
+  "latitude": 40.841685,
+  "longitude": -73.824774,
+  "rent": 2700,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-29T23:07:36.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "THREEFAMILY",
+  "status": "ACTIVE",
+  "available_date": "2026-06-29",
+  "transit": {
+    "nearest_station": "Buhre Av",
+    "nearest_lines": [
+      "6"
+    ],
+    "nearest_distance_mi": 0.534,
+    "nearest_walk_min": 11,
+    "all_nearby_lines": [
+      "6"
+    ],
+    "stations": [
+      {
+        "station": "Buhre Av",
+        "lines": [
+          "6"
+        ],
+        "distance_mi": 0.534,
+        "walk_min": 11
+      },
+      {
+        "station": "Middletown Rd",
+        "lines": [
+          "6"
+        ],
+        "distance_mi": 0.626,
+        "walk_min": 13
+      },
+      {
+        "station": "Pelham Bay Park",
+        "lines": [
+          "6"
+        ],
+        "distance_mi": 0.743,
+        "walk_min": 15
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 3,
+      "hpd_open": 0,
+      "hpd_class_a": 2,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 1,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2022-02-17T00:00:00.000",
+      "ecb_total": 2,
+      "ecb_active": 0,
+      "ecb_penalty_total": 500,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "10902170",
+        "bbl": "2054070118",
+        "bin": "2075080",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "SECTION27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE ?27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2015-10-05T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2015-10-28T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "14866787",
+        "bbl": "2054070118",
+        "bin": "2075080",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2022-02-17T00:00:00.000",
+        "nov_issued_date": "2022-02-17T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2022-04-05T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "679768",
+        "bbl": "2054070118",
+        "bin": "2075080",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "D26-20.08,20.09 ADM CODE FILE CERTIFICATION OF SATISFACTORY INSTALLATION OF SMOKE DETECTING DEVICE IN ACCORDANCE WITH H.P.D. RULES AND REGULATIONS.",
+        "apartment": null,
+        "story": "0",
+        "inspection_date": "1982-01-20T00:00:00.000",
+        "nov_issued_date": "2008-08-18T00:00:00.000",
+        "current_status": "VIOLATION CLOSED",
+        "current_status_date": "2017-10-18T00:00:00.000"
+      }
+    ],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34744678R",
+        "bin": "2075080",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Construction",
+        "description": "FAILURE TO MAINTAIN BLDG IN CODE COMPLIANT MANNER.AT TIME OF INSPECTION.I OBSERVED DRAINAGE PIPE INSTALLED ON THE PREMISES ADJOINING THE ABOVE ADDRESS.REMEDY:REPAIR AND/OR REPLACE REMOVE DRAIN FROM ADJACENT PRO",
+        "infraction_code": "102",
+        "penalty_imposed": 250,
+        "amount_paid": 250,
+        "balance_due": 0,
+        "issue_date": "20081218",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "VANNEA  DELLAMONICA"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39038016L",
+        "bin": "2075080",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 3",
+        "violation_type": "Construction",
+        "description": "SWITCHES, RECEPTACLES, AND LIGHTING FIXTURES INSTALLED IN BASEMENT DWELLING UNIT WITHOUT FILING REQUISITE ELECTRICAL PERMIT., OBTAIN PERMIT OR RESTORE PREMISES TO PRIOR LEGAL CONDITION",
+        "infraction_code": "301",
+        "penalty_imposed": 250,
+        "amount_paid": 250,
+        "balance_due": 0,
+        "issue_date": "20210319",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "DELLAMONICA VANNEA"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "2054070118-c.json"
+}

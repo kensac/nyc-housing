@@ -1,0 +1,177 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5082022",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/200-allen-street-manhattan/4r",
+  "borough": "manhattan",
+  "neighborhood": "Lower East Side",
+  "address": "200 Allen Street",
+  "unit": "4R",
+  "zip": "10002",
+  "bbl": "1004170050",
+  "bin": "1090382",
+  "geocode_match": "200 ALLEN STREET, New York, NY, USA",
+  "latitude": 40.722624,
+  "longitude": -73.988504,
+  "rent": 2750,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": 50,
+  "price_changed_at": "2026-06-24T02:42:00.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "MIXED_USE",
+  "status": "ACTIVE",
+  "available_date": "2026-09-01",
+  "transit": {
+    "nearest_station": "2 Av",
+    "nearest_lines": [
+      "F"
+    ],
+    "nearest_distance_mi": 0.027,
+    "nearest_walk_min": 1,
+    "all_nearby_lines": [
+      "F",
+      "M",
+      "J",
+      "Z"
+    ],
+    "stations": [
+      {
+        "station": "2 Av",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 0.027,
+        "walk_min": 1
+      },
+      {
+        "station": "Delancey St-Essex St",
+        "lines": [
+          "F",
+          "M",
+          "J",
+          "Z"
+        ],
+        "distance_mi": 0.253,
+        "walk_min": 5
+      },
+      {
+        "station": "Bowery",
+        "lines": [
+          "J",
+          "Z"
+        ],
+        "distance_mi": 0.303,
+        "walk_min": 6
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 4,
+      "ecb_active": 0,
+      "ecb_penalty_total": 625,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "37021614H",
+        "bin": "1090382",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Local Law",
+        "description": "FAILURE TO SUBMIT ACCEPTABLE REQUIRED CYCLE8B REPORT OF CRITICAL EXAM DOCUMENTING CONDITION OF EXTERIOR WALL&APPURTENANCES REQUIRED BY28-302.4 FOR CONTROL814087.AGG1:PRIOR NOV37013673H UNDER 28-302.4 SUBMIT ACC",
+        "infraction_code": "230",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20210601",
+        "hearing_status": "DISMISSED",
+        "respondent": "175-177 EAST HOUSTON ASSO"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39008482L",
+        "bin": "1090382",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "WORK DOES NOT CONFORM TO APPROVED CONSTRUCTION DOCUMENT AND/OR APPROVED AMENDMENTS. NOTED, AT THE TIME OF INSPECTION OBSERVED THE EXHAUST FAN RESTED ON THE FIRST FLOOR ROOF INSTEAD OF CONTINUITY TO THE BUILDING",
+        "infraction_code": "282",
+        "penalty_imposed": 625,
+        "amount_paid": 625,
+        "balance_due": 0,
+        "issue_date": "20190826",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "175-177 EAST HOUSTON ASSO"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35559612X",
+        "bin": "1090382",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "FAILURE TO MAINTAIN BLDG IN CODECOMPLIANT MANNER.NOTED:ATOI I OBSERVEDON EXP2-CRACK IN MASONRY@2FL PARAPET.EXP3-STEP CRACK IN MORTAR JOINTS ON 1FL SPANDRE;OBJECTS ON FIRE ESCAPE.EXP4-ERODING BRICKS&MORTAR JOINT",
+        "infraction_code": "202",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20210430",
+        "hearing_status": "CURED/IN-VIO",
+        "respondent": "175-177 EAST HOUSTON ASSO"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "37013673H",
+        "bin": "1090382",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Local Law",
+        "description": "FALIURE TO SUBMIT A REQUIRED CYCLE 8B REPORT OF CRITICAL EXAMINATION DOCUMENTING CONDITION OF EXTERIOR WALL AND APPURTENANCES REQUIRED BY 28-302.4 FOR CONTROL #814087.REM:SUBMIT REQUIRED TECHNICAL REPORT",
+        "infraction_code": "230",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20181015",
+        "hearing_status": "DISMISSED",
+        "respondent": "175-177 EAST HOUSTON ASSO"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "1004170050-4r.json"
+}

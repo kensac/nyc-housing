@@ -1,0 +1,204 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5086116",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/175-concord-street-brooklyn/2a",
+  "borough": "brooklyn",
+  "neighborhood": "Downtown Brooklyn",
+  "address": "175 Concord Street",
+  "unit": "2A",
+  "zip": "11201",
+  "bbl": "3001080022",
+  "bin": "3325928",
+  "geocode_match": "175 CONCORD STREET, Brooklyn, NY, USA",
+  "latitude": 40.69771,
+  "longitude": -73.984188,
+  "rent": 2950,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-29T02:35:49.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "TWOFAMILY",
+  "status": "ACTIVE",
+  "available_date": "2026-07-01",
+  "transit": {
+    "nearest_station": "High St",
+    "nearest_lines": [
+      "A",
+      "C"
+    ],
+    "nearest_distance_mi": 0.239,
+    "nearest_walk_min": 5,
+    "all_nearby_lines": [
+      "A",
+      "C",
+      "F",
+      "R"
+    ],
+    "stations": [
+      {
+        "station": "High St",
+        "lines": [
+          "A",
+          "C"
+        ],
+        "distance_mi": 0.239,
+        "walk_min": 5
+      },
+      {
+        "station": "York St",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 0.285,
+        "walk_min": 6
+      },
+      {
+        "station": "Jay St-MetroTech",
+        "lines": [
+          "A",
+          "C",
+          "F",
+          "R"
+        ],
+        "distance_mi": 0.321,
+        "walk_min": 6
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 2,
+      "hpd_open": 2,
+      "hpd_class_a": 0,
+      "hpd_class_b": 2,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2002-02-06T00:00:00.000",
+      "ecb_total": 2,
+      "ecb_active": 0,
+      "ecb_penalty_total": 2000,
+      "ecb_balance_due": 0,
+      "dob_total": 2,
+      "dob_open": 0
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "4100431",
+        "bbl": "3001080022",
+        "bin": "3325928",
+        "class": "B",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "SECTION 27-2005 ADM CODE REPLACE WITH NEW THE BROKEN OR DEFECTIVE RADIATOR AIR VALVE AT KITCHEN IN THE ENTIRE APARTMENT LOCATED AT APT 3, 3rd STORY",
+        "apartment": "3",
+        "story": "3",
+        "inspection_date": "2002-02-06T00:00:00.000",
+        "nov_issued_date": "2009-08-18T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2009-08-18T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "4100434",
+        "bbl": "3001080022",
+        "bin": "3325928",
+        "class": "B",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "SECTION 27-2005 ADM CODE REPLACE WITH NEW THE BROKEN OR DEFECTIVE RADIATOR SHUT OFF VALVE HANDEL AT KICHEN IN THE ENTIRE APARTMENT LOCATED AT APT 3, 3rd STORY",
+        "apartment": "3",
+        "story": "3",
+        "inspection_date": "2002-02-06T00:00:00.000",
+        "nov_issued_date": "2009-08-18T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2009-08-18T00:00:00.000"
+      }
+    ],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "35208609K",
+        "bin": "3325928",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "OCCUPANCY CONTRARY TO THAT ALLOWED BY THE C OF O OR BLDG DEPT RECORDS.C OF O #91224 INDICATES BLDG 2 FAMILY & STORE ON 1ST FL. OBSERVED 1 FLUSED AS A UNITS APT W/3PC BATHROOM & KITCHEN W/GAS STOVE,CELLAR ALSO",
+        "infraction_code": "203",
+        "penalty_imposed": 1200,
+        "amount_paid": 1202,
+        "balance_due": 0,
+        "issue_date": "20170110",
+        "hearing_status": "STIPULATION/IN-VIO",
+        "respondent": "MAI PHAM"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35208608Z",
+        "bin": "3325928",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "WORK W/O A PERMIT. OBSERVED ON 1ST FL 3PC BATHROOM TOILET,SINK&SHOWER,KITCHEN W/GAS STOVE & CELLAR W/3PC BATHROOM W/TOILET. SINK & BATHTUB,PARTITION WALLS FLOOR TO CEILING CREATING 1 A UNIT APT IN CONJUNCTION",
+        "infraction_code": "201",
+        "penalty_imposed": 800,
+        "amount_paid": 801,
+        "balance_due": 0,
+        "issue_date": "20170110",
+        "hearing_status": "STIPULATION/IN-VIO",
+        "respondent": "MAI PHAM"
+      }
+    ],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "0202AU",
+        "bin": "3325928",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "C-CONSTRUCTION OTHER OPTIONAL",
+        "type_code": "C",
+        "description": "MAINTENANCE REQUIRED: DUE TO ILLEGAL PROGRESS AND DEMOLITION WORK IN PROGRESS @ 173 CONCORD, ADJACENT BLDG #173 HAS SUSTAINED DAMAGES INCLU DING WALL CRACKS./REMEDY: MAINTAIN/REPAIR TO OWNER'S SATISFACTION",
+        "issue_date": "20150617",
+        "disposition_comments": "DISMISS, DAMAGE REPAIRED/REPORT ATTACHED"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "EX0909SM",
+        "bin": "3325928",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "C-CONSTRUCTION OTHER OPTIONAL",
+        "type_code": "C",
+        "description": null,
+        "issue_date": "20151005",
+        "disposition_comments": "OK TO DISMISS VIOLATION BASED ON PREVIES INSPECTION"
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3001080022-2a.json"
+}

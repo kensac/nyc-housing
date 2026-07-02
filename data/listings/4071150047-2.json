@@ -1,0 +1,136 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5079980",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/69_73-185-street-fresh_meadows/2",
+  "borough": "queens",
+  "neighborhood": "Fresh Meadows",
+  "address": "69-73 185th Street",
+  "unit": "2",
+  "zip": "11365",
+  "bbl": "4071150047",
+  "bin": "4153256",
+  "geocode_match": "69-73 185 STREET, Fresh Meadows, NY, USA",
+  "latitude": 40.732632,
+  "longitude": -73.785549,
+  "rent": 2695,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-22T17:19:57.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": 900,
+  "building_type": "HOUSE",
+  "status": "ACTIVE",
+  "available_date": "2026-06-22",
+  "transit": {
+    "nearest_station": "Jamaica-179 St",
+    "nearest_lines": [
+      "F"
+    ],
+    "nearest_distance_mi": 1.354,
+    "nearest_walk_min": 27,
+    "all_nearby_lines": [
+      "F"
+    ],
+    "stations": [
+      {
+        "station": "Jamaica-179 St",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 1.354,
+        "walk_min": 27
+      },
+      {
+        "station": "169 St",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 1.543,
+        "walk_min": 31
+      },
+      {
+        "station": "Parsons Blvd",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 1.939,
+        "walk_min": 39
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 2,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "39122445L",
+        "bin": "4153256",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 3",
+        "violation_type": "Construction",
+        "description": "FAILURE TO MAINTAIN BUILDING IN A CODE-COMPLAINT MANNER. AT THE TIME OF INSPECTION, OBSERVED, CONSTRUCTION MATERIALS ON THE LEFT SIDE DRIVEWAY. MATERIALS CONSIST OF CMU BLOCKS, PIPE SCAFFOLD, WHEEL BARREL METAL",
+        "infraction_code": "302",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20240820",
+        "hearing_status": "CURED/IN-VIO",
+        "respondent": "HU ZHEN"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39122444J",
+        "bin": "4153256",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 3",
+        "violation_type": "Construction",
+        "description": "OCCUPANCY CONTRARY TO THAT ALLOWED BY THE CERTIFICATE OF OCCUPANCY OR DEPARTMENT BUILDING RECORDS. AT THE TIME OF INSPECTION, OBSERVED, STORAGE OF CONSTRUCTION MATERIALS ON THE LEFT SIDE DRIVEWAY CONTRARY TO CO",
+        "infraction_code": "303",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20240820",
+        "hearing_status": "CURED/IN-VIO",
+        "respondent": "HU ZHEN"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4071150047-2.json"
+}

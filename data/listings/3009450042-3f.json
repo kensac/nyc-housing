@@ -1,0 +1,267 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5088410",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/32-7-avenue-brooklyn/3f",
+  "borough": "brooklyn",
+  "neighborhood": "Park Slope",
+  "address": "32 7th Avenue",
+  "unit": "3F",
+  "zip": "11217",
+  "bbl": "3009450042",
+  "bin": "3019285",
+  "geocode_match": "32 7 AVENUE, Brooklyn, NY, USA",
+  "latitude": 40.676935,
+  "longitude": -73.97408,
+  "rent": 2850,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-30T22:37:15.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-07-01",
+  "transit": {
+    "nearest_station": "7 Av",
+    "nearest_lines": [
+      "B",
+      "Q"
+    ],
+    "nearest_distance_mi": 0.074,
+    "nearest_walk_min": 1,
+    "all_nearby_lines": [
+      "B",
+      "Q",
+      "2",
+      "3"
+    ],
+    "stations": [
+      {
+        "station": "7 Av",
+        "lines": [
+          "B",
+          "Q"
+        ],
+        "distance_mi": 0.074,
+        "walk_min": 1
+      },
+      {
+        "station": "Grand Army Plaza",
+        "lines": [
+          "2",
+          "3"
+        ],
+        "distance_mi": 0.194,
+        "walk_min": 4
+      },
+      {
+        "station": "Bergen St",
+        "lines": [
+          "2",
+          "3"
+        ],
+        "distance_mi": 0.262,
+        "walk_min": 5
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 5,
+      "hpd_open": 4,
+      "hpd_class_a": 1,
+      "hpd_class_b": 3,
+      "hpd_class_c": 0,
+      "hpd_class_i": 1,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2018-10-12T00:00:00.000",
+      "ecb_total": 0,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 6,
+      "dob_open": 5
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "967272",
+        "bbl": "3009450042",
+        "bin": "3019285",
+        "class": "B",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "D26-10.01 ADM CODE REPAIR THE BROKEN OR DEFECTIVE PLASTERED SURFACES AND PAINT IN A UNIFORM COLOR WALLS OF KITCHENETTE 1ST STY REAR APT 2R R60. , SECTION '' ''",
+        "apartment": "2R",
+        "story": null,
+        "inspection_date": "1980-09-03T00:00:00.000",
+        "nov_issued_date": "2008-07-02T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2008-07-02T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "967273",
+        "bbl": "3009450042",
+        "bin": "3019285",
+        "class": "B",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "D26-10.01 ADM CODE PROPERLY REPAIR THE BROKEN OR DEFECTIVE PAVING REAR YARD.",
+        "apartment": null,
+        "story": "0",
+        "inspection_date": "1980-09-03T00:00:00.000",
+        "nov_issued_date": "2008-07-02T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2008-07-02T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "12650821",
+        "bbl": "3009450042",
+        "bin": "3019285",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2018-10-12T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2018-10-26T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "967271",
+        "bbl": "3009450042",
+        "bin": "3019285",
+        "class": "A",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "D26-12.01 ADM CODE PAINT WITH LIGHT COLORED PAINT TO THE SATISFACTION OF THIS DEPARTMENT WALLS & CEILINGS ENTIRE APT 1 STORY REAR APT 2R. , SECTION '' ''",
+        "apartment": "1",
+        "story": null,
+        "inspection_date": "1980-09-03T00:00:00.000",
+        "nov_issued_date": "2008-07-02T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2008-07-02T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "967274",
+        "bbl": "3009450042",
+        "bin": "3019285",
+        "class": "B",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "D26-10.01 ADM CODE & 309 M/D LAW ABATE THE NUISANCE CONSISTING OF EXCESSIVE ACCUMULATION OF OLD NEWSPAPERS THRU OUT 1 STY REAR APT 2R. LOCATED AT APT 2R",
+        "apartment": "2R",
+        "story": null,
+        "inspection_date": "1980-09-03T00:00:00.000",
+        "nov_issued_date": "2008-07-02T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2008-07-02T00:00:00.000"
+      }
+    ],
+    "ecb": [],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "13699",
+        "bin": "3019285",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "20010227",
+        "disposition_comments": "MBUCIA CANCELLED - INSPECTION FILED ON TIME TR# BB1943"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "10830",
+        "bin": "3019285",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "LBLVIO-LOW PRESSURE BOILER BOILER REQUIRED",
+        "type_code": "LBLVIO",
+        "description": "VIOLATION ISSUED-FAILURE TO FILE 2022 EXTERNAL LOW PRESSURE INSPECTION",
+        "issue_date": "20230425",
+        "disposition_comments": null
+      },
+      {
+        "source": "DOB",
+        "violation_id": "07015",
+        "bin": "3019285",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "LBLVIO-LOW PRESSURE BOILER BOILER REQUIRED",
+        "type_code": "LBLVIO",
+        "description": "VIOLATION ISSUED-FAILURE TO FILE 2018 EXTERNAL LOW PRESSURE INSPECTION",
+        "issue_date": "20230620",
+        "disposition_comments": null
+      },
+      {
+        "source": "DOB",
+        "violation_id": "28648",
+        "bin": "3019285",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "LBLVIO-LOW PRESSURE BOILER BOILER REQUIRED",
+        "type_code": "LBLVIO",
+        "description": "VIOLATION ISSUED-FAILURE TO FILE 2019 EXTERNAL LOW PRESSURE INSPECTION",
+        "issue_date": "20230620",
+        "disposition_comments": null
+      },
+      {
+        "source": "DOB",
+        "violation_id": "07437",
+        "bin": "3019285",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "LBLVIO-LOW PRESSURE BOILER BOILER REQUIRED",
+        "type_code": "LBLVIO",
+        "description": "VIOLATION ISSUED-FAILURE TO FILE 2020 EXTERNAL LOW PRESSURE INSPECTION",
+        "issue_date": "20230630",
+        "disposition_comments": null
+      },
+      {
+        "source": "DOB",
+        "violation_id": "45279",
+        "bin": "3019285",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "LBLVIO-LOW PRESSURE BOILER BOILER REQUIRED",
+        "type_code": "LBLVIO",
+        "description": "VIOLATION ISSUED-FAILURE TO FILE 2021 EXTERNAL LOW PRESSURE INSPECTION",
+        "issue_date": "20230630",
+        "disposition_comments": null
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3009450042-3f.json"
+}

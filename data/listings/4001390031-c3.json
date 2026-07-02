@@ -1,0 +1,185 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5070033",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/43_22-49-street-sunnyside/c3",
+  "borough": "queens",
+  "neighborhood": "Sunnyside",
+  "address": "43-22 49th Street",
+  "unit": "C3",
+  "zip": "11104",
+  "bbl": "4001390031",
+  "bin": "4001301",
+  "geocode_match": "43-22 49 STREET, Sunnyside, NY, USA",
+  "latitude": 40.743928,
+  "longitude": -73.915968,
+  "rent": 2350,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": 100,
+  "price_changed_at": "2026-06-30T22:43:46.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-07-15",
+  "transit": {
+    "nearest_station": "46 St-Bliss St",
+    "nearest_lines": [
+      "7"
+    ],
+    "nearest_distance_mi": 0.112,
+    "nearest_walk_min": 2,
+    "all_nearby_lines": [
+      "7"
+    ],
+    "stations": [
+      {
+        "station": "46 St-Bliss St",
+        "lines": [
+          "7"
+        ],
+        "distance_mi": 0.112,
+        "walk_min": 2
+      },
+      {
+        "station": "52 St",
+        "lines": [
+          "7"
+        ],
+        "distance_mi": 0.151,
+        "walk_min": 3
+      },
+      {
+        "station": "40 St-Lowery St",
+        "lines": [
+          "7"
+        ],
+        "distance_mi": 0.43,
+        "walk_min": 9
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 2,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 2,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2022-11-15T00:00:00.000",
+      "ecb_total": 0,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 4,
+      "dob_open": 1
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "10590305",
+        "bbl": "4001390031",
+        "bin": "4001301",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "SECTION27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE ?27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2015-02-26T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2015-03-19T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "15539702",
+        "bbl": "4001390031",
+        "bin": "4001301",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2022-11-15T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2022-12-13T00:00:00.000"
+      }
+    ],
+    "ecb": [],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "39471",
+        "bin": "4001301",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "19950829",
+        "disposition_comments": "TCOCIA CANCELLED,RECD NEW OWNER AFFIDVAIT/DEED 8-6-03 CRFN#2003000457302"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "21452",
+        "bin": "4001301",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "20050131",
+        "disposition_comments": "RASCIA DISMISSED FULL PENALTY PAID $500 INV#60705310 CK#476584679-7"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "21-01488",
+        "bin": "4001301",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "C-CONSTRUCTION OTHER OPTIONAL",
+        "type_code": "C",
+        "description": "REAR YARD RETAINING WALL COLLAPSED APPROXIMATELY 40 FEET WIDTH BY 5 FEET HEIGHT AND FELL INTO THE ADJACENT REAR YARD. THE COLLAPSED RETAINING WALL REMOVED APPX 3 FEET DEEP SOIL AND FOUNDATION MATERIAL FROM UNDER THE REAR YARD PAVING. DOD VIOLATION ISSUED.",
+        "issue_date": "20211108",
+        "disposition_comments": "RESOLVED/DISMISSED"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "15736",
+        "bin": "4001301",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "LBLVIO-LOW PRESSURE BOILER BOILER REQUIRED",
+        "type_code": "LBLVIO",
+        "description": "VIOLATION ISSUED-FAILURE TO FILE 2024 EXTERNAL LOW PRESSURE INSPECTION",
+        "issue_date": "20251114",
+        "disposition_comments": null
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4001390031-c3.json"
+}

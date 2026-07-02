@@ -1,0 +1,119 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5083129",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/190-wellington-court-staten_island/2",
+  "borough": "staten_island",
+  "neighborhood": "New Springville",
+  "address": "190 Wellington Court",
+  "unit": "2",
+  "zip": "10314",
+  "bbl": "5024500521",
+  "bin": "5135864",
+  "geocode_match": "190 WELLINGTON COURT, Staten Island, NY, USA",
+  "latitude": 40.579108,
+  "longitude": -74.159208,
+  "rent": 1600,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-25T01:26:50.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "TWOFAMILY",
+  "status": "ACTIVE",
+  "available_date": "2026-08-15",
+  "transit": {
+    "nearest_station": "Great Kills",
+    "nearest_lines": [
+      "SIR"
+    ],
+    "nearest_distance_mi": 1.946,
+    "nearest_walk_min": 39,
+    "all_nearby_lines": [
+      "SIR"
+    ],
+    "stations": [
+      {
+        "station": "Great Kills",
+        "lines": [
+          "SIR"
+        ],
+        "distance_mi": 1.946,
+        "walk_min": 39
+      },
+      {
+        "station": "Bay Terrace",
+        "lines": [
+          "SIR"
+        ],
+        "distance_mi": 1.951,
+        "walk_min": 39
+      },
+      {
+        "station": "Oakwood Heights",
+        "lines": [
+          "SIR"
+        ],
+        "distance_mi": 1.965,
+        "walk_min": 39
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 1,
+      "ecb_active": 0,
+      "ecb_penalty_total": 2000,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34286449H",
+        "bin": "5135864",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Hazardous",
+        "violation_type": "Construction",
+        "description": "FAILURE TO PROTECT SIDEWALK DURING CONSTRUCTION NOTED: THE CONTRACTOR HAD FAILED TO PROVIDE SIDEWALKS DURING CONSTRUCTION THE FENCE HAD BLOCKED THE SPACES FOF THE PEDESTRIANS: REMEDY: PROVIDE SIDE WALKS FOR THE",
+        "infraction_code": "B35",
+        "penalty_imposed": 2000,
+        "amount_paid": 2000,
+        "balance_due": 0,
+        "issue_date": "20011218",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "DIA CONSTRUCTION INC"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "5024500521-2.json"
+}

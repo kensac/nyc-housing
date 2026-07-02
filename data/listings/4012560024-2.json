@@ -1,0 +1,163 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5076825",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/34_38-70-street-jackson_heights/2",
+  "borough": "queens",
+  "neighborhood": "Jackson Heights",
+  "address": "34-38 70th Street",
+  "unit": "2",
+  "zip": "11372",
+  "bbl": "4012560024",
+  "bin": "4028785",
+  "geocode_match": "34-38 70 STREET, Jackson Heights, NY, USA",
+  "latitude": 40.751419,
+  "longitude": -73.896233,
+  "rent": 2400,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-18T12:42:11.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "TWOFAMILY",
+  "status": "ACTIVE",
+  "available_date": "2026-08-01",
+  "transit": {
+    "nearest_station": "65 St",
+    "nearest_lines": [
+      "M",
+      "R"
+    ],
+    "nearest_distance_mi": 0.156,
+    "nearest_walk_min": 3,
+    "all_nearby_lines": [
+      "M",
+      "R",
+      "7",
+      "E",
+      "F"
+    ],
+    "stations": [
+      {
+        "station": "65 St",
+        "lines": [
+          "M",
+          "R"
+        ],
+        "distance_mi": 0.156,
+        "walk_min": 3
+      },
+      {
+        "station": "69 St",
+        "lines": [
+          "7"
+        ],
+        "distance_mi": 0.337,
+        "walk_min": 7
+      },
+      {
+        "station": "Jackson Hts-Roosevelt Av/74 St-Broadway",
+        "lines": [
+          "7",
+          "E",
+          "F",
+          "M",
+          "R"
+        ],
+        "distance_mi": 0.359,
+        "walk_min": 7
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 3,
+      "ecb_active": 0,
+      "ecb_penalty_total": 1600,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34189812Z",
+        "bin": "4028785",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Hazardous",
+        "violation_type": "Quality of Life",
+        "description": "OCCUPANCY CONTRARY TO DEPT OF BLDG CERTIFICATE OF OCCUPANCY #420206 CONVERTING A LEGA ONE FAMILY INTO AN ILLEGAL 2 FAMILY CELLAR NOW HAS A ONE ROOM APT. WITHA 3PC BATHROOM AND A GAS STOVE.REMEDY:DISCONTINUE",
+        "infraction_code": "BQ3",
+        "penalty_imposed": 800,
+        "amount_paid": 800,
+        "balance_due": 0,
+        "issue_date": "19990111",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "KHAN ZAGLUL"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "34189813K",
+        "bin": "4028785",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Hazardous",
+        "violation_type": "Quality of Life",
+        "description": "RESIDNECE ALTERED FOR OCCUPANCY FOR MORE THANTHE LEGALLYAPPROVED # OF FAMILIES. CERTIFICATE OF OCCUPANCY #40206 INDICATES RESIDENCE LEGALLY APPROVED FOR ON FAMILY RESIDENCE NOW ALTERED FOR OCCUPANCY BY 2 FAMILY",
+        "infraction_code": "BQ5",
+        "penalty_imposed": 800,
+        "amount_paid": 800,
+        "balance_due": 0,
+        "issue_date": "19990111",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "KHAN QAGLUL"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39034137J",
+        "bin": "4028785",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 3",
+        "violation_type": "Construction",
+        "description": "SIDEWALK CURB AT FRONT OF PROPERTY (EXP. #1) CUT, SO THAT PORTION OF SIDEWALK IS LOWERED ENABLING A VEHICLE TO DRIVE ONTO AN ILLEGAL OFF STREET ACCESSORY PARKING PAD WITHOUT FIRST OBTAINING THE REQUIRED PERMIT.",
+        "infraction_code": "302",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20201231",
+        "hearing_status": "CURED/IN-VIO",
+        "respondent": "KHAN ZAGLUL ASHAN"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4012560024-2.json"
+}

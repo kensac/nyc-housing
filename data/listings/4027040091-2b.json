@@ -1,0 +1,162 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5054699",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/60_19-56-drive-maspeth/2b",
+  "borough": "queens",
+  "neighborhood": "Maspeth",
+  "address": "60-19 56th Drive",
+  "unit": "2B",
+  "zip": "11378",
+  "bbl": "4027040091",
+  "bin": "4060414",
+  "geocode_match": "60-19 56 DRIVE, Maspeth, NY, USA",
+  "latitude": 40.723915,
+  "longitude": -73.905559,
+  "rent": 2050,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-05-28T13:34:36.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-05-28",
+  "transit": {
+    "nearest_station": "Middle Village-Metropolitan Av",
+    "nearest_lines": [
+      "M"
+    ],
+    "nearest_distance_mi": 1.177,
+    "nearest_walk_min": 24,
+    "all_nearby_lines": [
+      "M"
+    ],
+    "stations": [
+      {
+        "station": "Middle Village-Metropolitan Av",
+        "lines": [
+          "M"
+        ],
+        "distance_mi": 1.177,
+        "walk_min": 24
+      },
+      {
+        "station": "Fresh Pond Rd",
+        "lines": [
+          "M"
+        ],
+        "distance_mi": 1.325,
+        "walk_min": 27
+      },
+      {
+        "station": "Forest Av",
+        "lines": [
+          "M"
+        ],
+        "distance_mi": 1.334,
+        "walk_min": 27
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 1,
+      "hpd_open": 0,
+      "hpd_class_a": 1,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2021-04-14T00:00:00.000",
+      "ecb_total": 1,
+      "ecb_active": 0,
+      "ecb_penalty_total": 800,
+      "ecb_balance_due": 0,
+      "dob_total": 2,
+      "dob_open": 1
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "14237055",
+        "bbl": "4027040091",
+        "bin": "4060414",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2021-04-14T00:00:00.000",
+        "nov_issued_date": "2021-04-14T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2021-04-28T00:00:00.000"
+      }
+    ],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34218365X",
+        "bin": "4060414",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Non-Hazardous",
+        "violation_type": "Construction",
+        "description": "WORK WITHOUT A PERMIT. WORK NOTED TWO STORY FRAME EXTENSION ERECTED ATTACHED TO REAR HOUSE (REAR HOUSE SITS IN REAR YARD SEPARATED FROM MAIN DWELLING) APPROX 10FT LONG BY 20FT WIDE BY 20 FT HIGH (EXTENSION)",
+        "infraction_code": "B04",
+        "penalty_imposed": 800,
+        "amount_paid": 800,
+        "balance_due": 0,
+        "issue_date": "19990927",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "KRZYSZTOT ROSTEK"
+      }
+    ],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "41864",
+        "bin": "4060414",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "19950829",
+        "disposition_comments": "BOILER FILED ON TIME"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "C05JW03",
+        "bin": "4060414",
+        "category": "VW-VIOLATION WORK WITHOUT PERMIT - ACTIVE",
+        "is_open": true,
+        "violation_type": "C-CONSTRUCTION OTHER OPTIONAL",
+        "type_code": "C",
+        "description": null,
+        "issue_date": "19990927",
+        "disposition_comments": null
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4027040091-2b.json"
+}

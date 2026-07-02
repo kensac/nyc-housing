@@ -1,0 +1,121 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5084265",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/926-clarkson-avenue-brooklyn/2l",
+  "borough": "brooklyn",
+  "neighborhood": "East Flatbush",
+  "address": "926 Clarkson Avenue",
+  "unit": "2L",
+  "zip": "11203",
+  "bbl": "3046410001",
+  "bin": "3100938",
+  "geocode_match": "926 CLARKSON AVENUE, Brooklyn, NY, USA",
+  "latitude": 40.656672,
+  "longitude": -73.926861,
+  "rent": 1995,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-25T22:46:05.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "MIXED_USE",
+  "status": "ACTIVE",
+  "available_date": "2026-07-01",
+  "transit": {
+    "nearest_station": "Sutter Av-Rutland Rd",
+    "nearest_lines": [
+      "3"
+    ],
+    "nearest_distance_mi": 0.601,
+    "nearest_walk_min": 12,
+    "all_nearby_lines": [
+      "3",
+      "4"
+    ],
+    "stations": [
+      {
+        "station": "Sutter Av-Rutland Rd",
+        "lines": [
+          "3"
+        ],
+        "distance_mi": 0.601,
+        "walk_min": 12
+      },
+      {
+        "station": "Saratoga Av",
+        "lines": [
+          "3"
+        ],
+        "distance_mi": 0.677,
+        "walk_min": 14
+      },
+      {
+        "station": "Crown Hts-Utica Av",
+        "lines": [
+          "3",
+          "4"
+        ],
+        "distance_mi": 0.87,
+        "walk_min": 17
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 1,
+      "hpd_open": 1,
+      "hpd_class_a": 0,
+      "hpd_class_b": 1,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2006-01-17T00:00:00.000",
+      "ecb_total": 0,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "4843886",
+        "bbl": "3046410001",
+        "bin": "3100938",
+        "class": "B",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "SECTION 27-2018 ADMIN. CODE: ABATE THE NUISANCE CONSISTING OF VERMIN MICE THROUGHOUT 2ND STY NORTH APT.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2006-01-17T00:00:00.000",
+        "nov_issued_date": "2008-08-19T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2008-08-19T00:00:00.000"
+      }
+    ],
+    "ecb": [],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3046410001-2l.json"
+}

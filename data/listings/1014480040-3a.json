@@ -1,0 +1,236 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5089647",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/330-east-74-street-new_york/3a",
+  "borough": "manhattan",
+  "neighborhood": "Lenox Hill",
+  "address": "330 East 74th Street",
+  "unit": "3A",
+  "zip": "10021",
+  "bbl": "1014480040",
+  "bin": "1044915",
+  "geocode_match": "330 EAST 74 STREET, New York, NY, USA",
+  "latitude": 40.769504,
+  "longitude": -73.956359,
+  "rent": 2900,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-07-01T20:12:37.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-07-01",
+  "transit": {
+    "nearest_station": "72 St",
+    "nearest_lines": [
+      "Q"
+    ],
+    "nearest_distance_mi": 0.108,
+    "nearest_walk_min": 2,
+    "all_nearby_lines": [
+      "Q",
+      "6"
+    ],
+    "stations": [
+      {
+        "station": "72 St",
+        "lines": [
+          "Q"
+        ],
+        "distance_mi": 0.108,
+        "walk_min": 2
+      },
+      {
+        "station": "77 St",
+        "lines": [
+          "6"
+        ],
+        "distance_mi": 0.324,
+        "walk_min": 6
+      },
+      {
+        "station": "68 St-Hunter College",
+        "lines": [
+          "6"
+        ],
+        "distance_mi": 0.399,
+        "walk_min": 8
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 2,
+      "hpd_open": 1,
+      "hpd_class_a": 1,
+      "hpd_class_b": 0,
+      "hpd_class_c": 1,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 1,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2021-04-01T00:00:00.000",
+      "ecb_total": 5,
+      "ecb_active": 0,
+      "ecb_penalty_total": 1600,
+      "ecb_balance_due": 1250,
+      "dob_total": 1,
+      "dob_open": 0
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "14108141",
+        "bbl": "1014480040",
+        "bin": "1044915",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2021-04-01T00:00:00.000",
+        "nov_issued_date": "2021-04-01T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2021-04-05T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "2528920",
+        "bbl": "1014480040",
+        "bin": "1044915",
+        "class": "C",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "D26-10.01 ADM CODE & 309 M/D LAW ABATE THE NUISANCE CONSISTING OF KEY OPERATED DOUBLE CYLINDER LOCK STREET DOOR 1ST STY VESTIBULE.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "1987-01-06T00:00:00.000",
+        "nov_issued_date": "2008-08-18T00:00:00.000",
+        "current_status": "NOV CERTIFIED LATE",
+        "current_status_date": "2008-09-09T00:00:00.000"
+      }
+    ],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34089457P",
+        "bin": "1044915",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Hazardous",
+        "violation_type": "Construction",
+        "description": "EXIT DOOR: TOTAL OBSTRUCTION. NOTE: AT THE REAR YARD A CHAIN LINK FENCE HAS BEEN INSTALLED ON THE EAST SIDE OF YARD. THE FENCE IS BLOCKING AN EXIT DOOR ON A WOODEN FENCE WHICH IS PART OF AN BASEMENT AGREEMENT W",
+        "infraction_code": "B10",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "19930323",
+        "hearing_status": "DISMISSED",
+        "respondent": "MANTHER GLICK CORP"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "34089456N",
+        "bin": "1044915",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Hazardous",
+        "violation_type": "Construction",
+        "description": "FAILURE TO PROVIDE AT LEAST 2 MEANS OF EGRESS FROM ROOM OR SPACE WHERE REQUIRED. NOTE-REAR APTS AT 1ST FLOOR HAVE NO SECONDARY EGRESS TO REAR YARD (DROP TO REAR YARD @ 12-15 FEET) REMEDY- PROVIDE 2ND MEANS OF E",
+        "infraction_code": "B08",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "19930323",
+        "hearing_status": "DISMISSED",
+        "respondent": "MAUTNER GLICK CORP"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "34138341L",
+        "bin": "1044915",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Non-Hazardous",
+        "violation_type": "Construction",
+        "description": "FAILURE TO OBTAIN A PERMIT FOR TEMP CONSTRUCTION.PERMIT NOT OBTAINED FOR SIDEWALK SHED.REMEDY:OBTAIN PERMIT.",
+        "infraction_code": "B42",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "19960821",
+        "hearing_status": "DISMISSED",
+        "respondent": "GLICK, MAUTNER CORP"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "34484041L",
+        "bin": "1044915",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Non-Hazardous",
+        "violation_type": "Construction",
+        "description": "FAILURE TO MAINTAIN EXTERIOR OF BLDG: DEFECTS NOTED RETAINING WALL AT SOUTH OF PROPERTY HAS LARGE CRACKS MISSING MOTAR DISLODGED STONES AND IS LISTING (APPROX. 5\"AT 6' INWARD)(CRACKS ARE HORIZONTALLY AND",
+        "infraction_code": "B06",
+        "penalty_imposed": 350,
+        "amount_paid": 350,
+        "balance_due": 0,
+        "issue_date": "20050713",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "ALVIN GLICK"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39538157X",
+        "bin": "1044915",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "FAILED TO PROVIDE SIDEWALK SHED'S PARAPET INFORMATION PANEL CONTRARY WITH BC-3301.9.2, CREATING HAZARDOUS AS FDNY HARD TO LOCATED IN EMERGENCY. WHERE A SIDEWALK SHED PARAPET INFORMATION PANEL SHALL BE POSTED IN",
+        "infraction_code": "217",
+        "penalty_imposed": 1250,
+        "amount_paid": 0,
+        "balance_due": 1250,
+        "issue_date": "20250319",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "MNK ENTERPRISES NY INC"
+      }
+    ],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "08MC02",
+        "bin": "1044915",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "C-CONSTRUCTION OTHER OPTIONAL",
+        "type_code": "C",
+        "description": null,
+        "issue_date": "19930323",
+        "disposition_comments": null
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "1014480040-3a.json"
+}

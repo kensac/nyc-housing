@@ -1,0 +1,101 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5075131",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/the-183/3c",
+  "borough": "queens",
+  "neighborhood": "Jamaica Estates",
+  "address": "183-03 Hillside Avenue",
+  "unit": "3C",
+  "zip": "11432",
+  "bbl": "4099500064",
+  "bin": "4000000",
+  "geocode_match": "183-03 HILLSIDE AVENUE, Jamaica Estates, NY, USA",
+  "latitude": 40.71419,
+  "longitude": -73.77901,
+  "rent": 3100,
+  "net_effective_rent": 2777,
+  "gross_over_3000": true,
+  "no_fee": false,
+  "months_free": 1.25,
+  "lease_term_months": 12,
+  "price_delta": null,
+  "price_changed_at": "2026-06-16T21:15:57.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-06-16",
+  "transit": {
+    "nearest_station": "Jamaica-179 St",
+    "nearest_lines": [
+      "F"
+    ],
+    "nearest_distance_mi": 0.176,
+    "nearest_walk_min": 4,
+    "all_nearby_lines": [
+      "F"
+    ],
+    "stations": [
+      {
+        "station": "Jamaica-179 St",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 0.176,
+        "walk_min": 4
+      },
+      {
+        "station": "169 St",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 0.753,
+        "walk_min": 15
+      },
+      {
+        "station": "Parsons Blvd",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 1.318,
+        "walk_min": 26
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 0,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4099500064-3c.json"
+}

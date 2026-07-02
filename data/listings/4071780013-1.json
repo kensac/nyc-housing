@@ -1,0 +1,119 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5076015",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/73_14-192-street-fresh_meadows/1",
+  "borough": "queens",
+  "neighborhood": "Fresh Meadows",
+  "address": "73-14 192nd Street",
+  "unit": "1",
+  "zip": "11366",
+  "bbl": "4071780013",
+  "bin": "4154222",
+  "geocode_match": "73-14 192 STREET, Fresh Meadows, NY, USA",
+  "latitude": 40.733439,
+  "longitude": -73.78044,
+  "rent": 2450,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-17T17:54:33.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": 780,
+  "building_type": "HOUSE",
+  "status": "ACTIVE",
+  "available_date": "2026-06-17",
+  "transit": {
+    "nearest_station": "Jamaica-179 St",
+    "nearest_lines": [
+      "F"
+    ],
+    "nearest_distance_mi": 1.401,
+    "nearest_walk_min": 28,
+    "all_nearby_lines": [
+      "F"
+    ],
+    "stations": [
+      {
+        "station": "Jamaica-179 St",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 1.401,
+        "walk_min": 28
+      },
+      {
+        "station": "169 St",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 1.68,
+        "walk_min": 34
+      },
+      {
+        "station": "Parsons Blvd",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 2.125,
+        "walk_min": 43
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 1,
+      "ecb_active": 0,
+      "ecb_penalty_total": 800,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "35026932N",
+        "bin": "4154222",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Unknown",
+        "description": "WORK W/O A PERMIT.WORK NOTED:@ TIME OF INSP,I OBSERVED @ FRONT,RIGHT SIDE & REAR YARDS,EXP# 1,3&4,PAVING OVER 1000 SF W/ PAVERS & BRICK,APPROX 2160 SF,NEW FRONT STOOP & STAIRS APPROX.10'X18'X3' & @ REAR ADDITIO",
+        "infraction_code": "201",
+        "penalty_imposed": 800,
+        "amount_paid": 806,
+        "balance_due": 0,
+        "issue_date": "20141003",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "ASHIROV STANISLAV"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4071780013-1.json"
+}

@@ -1,0 +1,142 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5077602",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/26_14-9-street-astoria/3f",
+  "borough": "queens",
+  "neighborhood": "Astoria",
+  "address": "26-14 9th Street",
+  "unit": "3F",
+  "zip": "11102",
+  "bbl": "4009080033",
+  "bin": "4020641",
+  "geocode_match": "26-14 9 STREET, Astoria, NY, USA",
+  "latitude": 40.775136,
+  "longitude": -73.930716,
+  "rent": 2500,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-18T21:14:51.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "THREEFAMILY",
+  "status": "ACTIVE",
+  "available_date": "2026-06-18",
+  "transit": {
+    "nearest_station": "30 Av",
+    "nearest_lines": [
+      "N",
+      "W"
+    ],
+    "nearest_distance_mi": 0.74,
+    "nearest_walk_min": 15,
+    "all_nearby_lines": [
+      "N",
+      "W"
+    ],
+    "stations": [
+      {
+        "station": "30 Av",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.74,
+        "walk_min": 15
+      },
+      {
+        "station": "Astoria Blvd",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.745,
+        "walk_min": 15
+      },
+      {
+        "station": "Broadway",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.938,
+        "walk_min": 19
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 1,
+      "hpd_open": 0,
+      "hpd_class_a": 1,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2021-04-13T00:00:00.000",
+      "ecb_total": 1,
+      "ecb_active": 0,
+      "ecb_penalty_total": 800,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "14226156",
+        "bbl": "4009080033",
+        "bin": "4020641",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2021-04-13T00:00:00.000",
+        "nov_issued_date": "2021-04-13T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2021-04-15T00:00:00.000"
+      }
+    ],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34268197L",
+        "bin": "4020641",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Hazardous",
+        "violation_type": "Quality of Life",
+        "description": "WORK WITHOUT A PERMIT.WORK NOTED:AT CELLAR LEVEL FULL PARTITION WALLS ERECTED CREATING A RECREATING ROOM WITH A 3PC BATH AND KITCHEN AREA.FULL PLUMBING AND ELECTRICAL SEREVICES WERE NOTED:REM:OBTAIN PERMIT OR",
+        "infraction_code": "BQ2",
+        "penalty_imposed": 800,
+        "amount_paid": 800,
+        "balance_due": 0,
+        "issue_date": "20010113",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "MANSOOR CYNTHIA"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4009080033-3f.json"
+}

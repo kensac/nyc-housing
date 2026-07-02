@@ -1,0 +1,263 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5089569",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/311-east-85-street-new_york/3a",
+  "borough": "manhattan",
+  "neighborhood": "Yorkville",
+  "address": "311 East 85th Street",
+  "unit": "3A",
+  "zip": "10028",
+  "bbl": "1015480006",
+  "bin": "1085238",
+  "geocode_match": "311 EAST 85 STREET, New York, NY, USA",
+  "latitude": 40.777071,
+  "longitude": -73.951456,
+  "rent": 3000,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-07-01T19:35:05.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-07-01",
+  "transit": {
+    "nearest_station": "86 St",
+    "nearest_lines": [
+      "Q"
+    ],
+    "nearest_distance_mi": 0.046,
+    "nearest_walk_min": 1,
+    "all_nearby_lines": [
+      "Q",
+      "4",
+      "5",
+      "6"
+    ],
+    "stations": [
+      {
+        "station": "86 St",
+        "lines": [
+          "Q"
+        ],
+        "distance_mi": 0.046,
+        "walk_min": 1
+      },
+      {
+        "station": "86 St",
+        "lines": [
+          "4",
+          "5",
+          "6"
+        ],
+        "distance_mi": 0.257,
+        "walk_min": 5
+      },
+      {
+        "station": "86 Street",
+        "lines": [
+          "4",
+          "5",
+          "6"
+        ],
+        "distance_mi": 0.263,
+        "walk_min": 5
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 6,
+      "hpd_open": 0,
+      "hpd_class_a": 4,
+      "hpd_class_b": 0,
+      "hpd_class_c": 1,
+      "hpd_class_i": 1,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2024-05-08T00:00:00.000",
+      "ecb_total": 3,
+      "ecb_active": 0,
+      "ecb_penalty_total": 7200,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "16956157",
+        "bbl": "1015480006",
+        "bin": "1085238",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 53, 187, 231 M/D LAW AND DEPARTMENT RULES AND REGULATIONS. PROVIDE A SHOE PROPERLY SECURED TO BOTTOM OF STRING OF DROPLADDER WELDED SHOE NEEDS TO BE BOLTED , AT BUILDING FRONT AT FIRE ESCAPE",
+        "apartment": null,
+        "story": "0",
+        "inspection_date": "2024-05-08T00:00:00.000",
+        "nov_issued_date": "2024-05-09T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2024-10-23T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "13788619",
+        "bbl": "1015480006",
+        "bin": "1085238",
+        "class": "C",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "HMC ADM CODE: § 27-2017.4 ABATE THE INFESTATION CONSISTING OF ROACHES IN THE ENTIRE APARTMENT LOCATED AT APT 4C, 4th STORY, 2nd APARTMENT FROM SOUTH AT WEST",
+        "apartment": "4C",
+        "story": "4",
+        "inspection_date": "2020-08-27T00:00:00.000",
+        "nov_issued_date": "2020-08-31T00:00:00.000",
+        "current_status": "VIOLATION CLOSED",
+        "current_status_date": "2020-09-15T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "13788621",
+        "bbl": "1015480006",
+        "bin": "1085238",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 27-2104 ADM CODE POST AND MAINTAIN A PROPER SIGN ON WALL OF ENTRANCE STORY SHOWING THE REGISTRATION NUMBER ASSIGNED BY THE DEPARTMENT AND THE ADDRESS OF THE BUILDING. AT PUBLIC HALL, 1st STORY",
+        "apartment": null,
+        "story": "1",
+        "inspection_date": "2020-08-27T00:00:00.000",
+        "nov_issued_date": "2020-08-31T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2020-11-23T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "13812140",
+        "bbl": "1015480006",
+        "bin": "1085238",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 329, M/D LAW AND DEPT. RULES AND REGS. PROVIDE A COMPLETED CERTIFICATE OF INSPECTION VISITS IN A PROPER FRAME AT OR NEAR MAILBOXES, BOTTOM EDGE OF FRAME BETWEEN 48-62 INCHES ABOVE FLOOR MISSING AT PUBLIC HALL, 1st STORY",
+        "apartment": null,
+        "story": "1",
+        "inspection_date": "2020-09-14T00:00:00.000",
+        "nov_issued_date": "2020-09-16T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2020-11-30T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "14844973",
+        "bbl": "1015480006",
+        "bin": "1049990",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2022-02-15T00:00:00.000",
+        "nov_issued_date": "2022-02-15T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2022-05-09T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "14844974",
+        "bbl": "1015480006",
+        "bin": "1049990",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2022-02-15T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2022-05-04T00:00:00.000"
+      }
+    ],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34764907J",
+        "bin": "1085238",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Cranes and Derricks",
+        "description": "SUPERVISION OR USE OF RIGGING EQUIPMENT W/O A RIGGERS LICENSE NOTED THE INSTALLATION OF MATERIAL HOIST AND SEVERAL OUTRIGGERS ONTOP OF ROOF W/O SPECIAL RIGGERS LICENSE DO NOT REMOVE EQUIPMENT STOP ALL WORK",
+        "infraction_code": "141",
+        "penalty_imposed": 4800,
+        "amount_paid": 4800,
+        "balance_due": 0,
+        "issue_date": "20090501",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "309-313 E 85TH ST LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "34764906H",
+        "bin": "1085238",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Construction",
+        "description": "WORK W/O A PERMIT NOTED INSTALLATION AND SETUP OF OUTRIGGERS IN CONNECTION WITH A SUSPENDED SCAFFOLD A CD-5 ON TOP OF ROOF STOP ALL WORK ON SUSPENDED SCAFFOLD DO NOT REMOVE EQUIPMENT OBTAIN PERMITS CD-5 CALL",
+        "infraction_code": "101",
+        "penalty_imposed": 1600,
+        "amount_paid": 1600,
+        "balance_due": 0,
+        "issue_date": "20090501",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "309-313 E 85TH ST LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "34815283H",
+        "bin": "1085238",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Cranes and Derricks",
+        "description": "FAIL TO NOTIFY THE DOB OBTAIN PERMIT PRIOR TO USE/INSTALL C-HOOKS/OUT RIGGER BEAM IN CONNECTION WITH A SUSPENDED SCAFFOLD.NOTED:OUTRIGGER BEAMS WITH A SUSPENDED SCAFFOLD SET UP @ THE REAR OF THE BLDG & NO NOTIF",
+        "infraction_code": "261",
+        "penalty_imposed": 800,
+        "amount_paid": 159,
+        "balance_due": 0,
+        "issue_date": "20091218",
+        "hearing_status": "WRITTEN OFF",
+        "respondent": "AKHILAK A COUDHARY"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "1015480006-3a.json"
+}

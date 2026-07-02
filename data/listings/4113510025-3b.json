@@ -1,0 +1,334 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5080566",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/89_10-gold-road-ozone_park/3b",
+  "borough": "queens",
+  "neighborhood": "Ozone Park",
+  "address": "89-10 Gold Road",
+  "unit": "3B",
+  "zip": "11417",
+  "bbl": "4113510025",
+  "bin": "4245177",
+  "geocode_match": "89-10 GOLD ROAD, Ozone Park, NY, USA",
+  "latitude": 40.675168,
+  "longitude": -73.847778,
+  "rent": 2190,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-22T23:09:39.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-06-22",
+  "transit": {
+    "nearest_station": "88 St",
+    "nearest_lines": [
+      "A"
+    ],
+    "nearest_distance_mi": 0.351,
+    "nearest_walk_min": 7,
+    "all_nearby_lines": [
+      "A"
+    ],
+    "stations": [
+      {
+        "station": "88 St",
+        "lines": [
+          "A"
+        ],
+        "distance_mi": 0.351,
+        "walk_min": 7
+      },
+      {
+        "station": "Rockaway Blvd",
+        "lines": [
+          "A"
+        ],
+        "distance_mi": 0.373,
+        "walk_min": 7
+      },
+      {
+        "station": "80 St",
+        "lines": [
+          "A"
+        ],
+        "distance_mi": 0.608,
+        "walk_min": 12
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 3,
+      "hpd_open": 0,
+      "hpd_class_a": 3,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2025-06-12T00:00:00.000",
+      "ecb_total": 0,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 15,
+      "dob_open": 1
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "16889767",
+        "bbl": "4113510025",
+        "bin": "4245177",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2024-04-15T00:00:00.000",
+        "nov_issued_date": "2024-04-15T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2024-07-09T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "14993356",
+        "bbl": "4113510025",
+        "bin": "4245177",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2022-03-04T00:00:00.000",
+        "nov_issued_date": "2022-03-04T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2022-03-14T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "18022600",
+        "bbl": "4113510025",
+        "bin": "4245177",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2025-06-12T00:00:00.000",
+        "nov_issued_date": "2025-06-12T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2025-06-27T00:00:00.000"
+      }
+    ],
+    "ecb": [],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "29961",
+        "bin": "4245177",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "20010227",
+        "disposition_comments": "CIAJOX DISMISSED, $500 FULL PENALTY PAID-INV#61923548, CHK#9103204809."
+      },
+      {
+        "source": "DOB",
+        "violation_id": "29962",
+        "bin": "4245177",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "20010227",
+        "disposition_comments": "CIAJOX DISMISSED, $500 FULL PENALTY PAID-INV#61923548, CHK#9103204809."
+      },
+      {
+        "source": "DOB",
+        "violation_id": "31129",
+        "bin": "4245177",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "20020326",
+        "disposition_comments": "APECIA DISMISSED REDUCED PENALTY PAID $50 MO#04358797637"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "31130",
+        "bin": "4245177",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "20020326",
+        "disposition_comments": "APECIA DISMISSED REDUCED PENALTY PAID $50 MO#04358797637"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "31131",
+        "bin": "4245177",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "20020326",
+        "disposition_comments": "APECIA DISMISSED REDUCED PENALTY PAID $50 MO#0435877637"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "22852",
+        "bin": "4245177",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "20090101",
+        "disposition_comments": "CIACEY DISMISS REDUCE PENALTY $50.00 CK#3000135386 INV#60870279"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "22853",
+        "bin": "4245177",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "20090101",
+        "disposition_comments": "CIACEY DISMISS REDUCE PENALTY $50.00 CK#3000135386 INV#60870279"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "24064",
+        "bin": "4245177",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LBLVIO-LOW PRESSURE BOILER BOILER REQUIRED",
+        "type_code": "LBLVIO",
+        "description": null,
+        "issue_date": "20091231",
+        "disposition_comments": "CIAJOX DISMISSED, $500 FULL PENALTY PAID-INV#61923548, CHK#9103204809."
+      },
+      {
+        "source": "DOB",
+        "violation_id": "24065",
+        "bin": "4245177",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LBLVIO-LOW PRESSURE BOILER BOILER REQUIRED",
+        "type_code": "LBLVIO",
+        "description": null,
+        "issue_date": "20091231",
+        "disposition_comments": "CIAJOX DISMISSED, $500 FULL PENALTY PAID-INV#61923548, CHK#9103204809."
+      },
+      {
+        "source": "DOB",
+        "violation_id": "20960",
+        "bin": "4245177",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LBLVIO-LOW PRESSURE BOILER BOILER REQUIRED",
+        "type_code": "LBLVIO",
+        "description": "VIOLATION ISSUED FOR FAILURE TO FILE ANNUAL BOILER 2010 INSPECTION REPORT",
+        "issue_date": "20111213",
+        "disposition_comments": "CIAJOX DISMISSED,$1000 FULL PENALTY PAID-INV#61923548, CHK#9103204809."
+      },
+      {
+        "source": "DOB",
+        "violation_id": "20961",
+        "bin": "4245177",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LBLVIO-LOW PRESSURE BOILER BOILER REQUIRED",
+        "type_code": "LBLVIO",
+        "description": "VIOLATION ISSUED FOR FAILURE TO FILE ANNUAL BOILER 2010 INSPECTION REPORT",
+        "issue_date": "20111213",
+        "disposition_comments": "CIAJOX DISMISSED,$1000 FULL PENALTY PAID-INV#61923548, CHK#9103204809."
+      },
+      {
+        "source": "DOB",
+        "violation_id": "15816",
+        "bin": "4245177",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LBLVIO-LOW PRESSURE BOILER BOILER REQUIRED",
+        "type_code": "LBLVIO",
+        "description": "VIOLATION ISSUED FOR FAILURE TO FILE ANNUAL BOILER 2011 INSPECTION REPORT",
+        "issue_date": "20130301",
+        "disposition_comments": "CIAJOX DISMISSED,$1000 FULL PENALTY PAID-INV#61923548, CHK#9103204809."
+      },
+      {
+        "source": "DOB",
+        "violation_id": "13891",
+        "bin": "4245177",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LBLVIO-LOW PRESSURE BOILER BOILER REQUIRED",
+        "type_code": "LBLVIO",
+        "description": "VIOLATION ISSUED FOR FAILURE TO FILE ANNUAL BOILER 2015 INSPECTION REPORT",
+        "issue_date": "20170224",
+        "disposition_comments": "CIAJOX DISMISSED,$1000 FULL PENALTY PAID-INV#61923548, CHK#9103204809."
+      },
+      {
+        "source": "DOB",
+        "violation_id": "21449",
+        "bin": "4245177",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LBLVIO-LOW PRESSURE BOILER BOILER REQUIRED",
+        "type_code": "LBLVIO",
+        "description": "VIOLATION ISSUED-FAILURE TO FILE 2022 EXTERNAL LOW PRESSURE INSPECTION",
+        "issue_date": "20230425",
+        "disposition_comments": "CIANOW CRM Violation Dismissed"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "30094",
+        "bin": "4245177",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "LBLVIO-LOW PRESSURE BOILER BOILER REQUIRED",
+        "type_code": "LBLVIO",
+        "description": "VIOLATION ISSUED-FAILURE TO FILE 2021 EXTERNAL LOW PRESSURE INSPECTION",
+        "issue_date": "20230630",
+        "disposition_comments": null
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4113510025-3b.json"
+}

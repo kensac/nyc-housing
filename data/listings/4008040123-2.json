@@ -1,0 +1,201 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5089571",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/23_11-37-street-astoria/2",
+  "borough": "queens",
+  "neighborhood": "Ditmars-Steinway",
+  "address": "23-11 37th Street",
+  "unit": "2",
+  "zip": "11105",
+  "bbl": "4008040123",
+  "bin": "4532197",
+  "geocode_match": "23-11 37 STREET, Astoria, NY, USA",
+  "latitude": 40.771614,
+  "longitude": -73.909849,
+  "rent": 2700,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-07-01T19:38:56.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-08-01",
+  "transit": {
+    "nearest_station": "Astoria-Ditmars Blvd",
+    "nearest_lines": [
+      "N",
+      "W"
+    ],
+    "nearest_distance_mi": 0.252,
+    "nearest_walk_min": 5,
+    "all_nearby_lines": [
+      "N",
+      "W"
+    ],
+    "stations": [
+      {
+        "station": "Astoria-Ditmars Blvd",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.252,
+        "walk_min": 5
+      },
+      {
+        "station": "Astoria Blvd",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.374,
+        "walk_min": 7
+      },
+      {
+        "station": "30 Av",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.648,
+        "walk_min": 13
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 3,
+      "hpd_open": 0,
+      "hpd_class_a": 1,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 2,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2026-05-08T00:00:00.000",
+      "ecb_total": 1,
+      "ecb_active": 1,
+      "ecb_penalty_total": 350,
+      "ecb_balance_due": 0,
+      "dob_total": 2,
+      "dob_open": 1
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "18916619",
+        "bbl": "4008040123",
+        "bin": "4532197",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2026-05-08T00:00:00.000",
+        "nov_issued_date": "2026-05-08T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2026-05-26T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "10965889",
+        "bbl": "4008040123",
+        "bin": "4532197",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2015-10-19T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2016-07-06T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "18431689",
+        "bbl": "4008040123",
+        "bin": "4532197",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2025-11-21T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2026-01-21T00:00:00.000"
+      }
+    ],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34485510J",
+        "bin": "4532197",
+        "status": "ACTIVE",
+        "is_open": true,
+        "severity": "Non-Hazardous",
+        "violation_type": "Construction",
+        "description": "NEW BUILDING OCCUPIED WITHOUT A VALID CERTIFICATE OF OCCUPANCY. NEW, FOUR STORY, EIGHT FAMILY BUILDING BUILT UNDER PERMIT #401805105- SIX APARTMENTS OCCUPIED (EVIDENCE IN KITCHENS, BATHROOMS AND BEDROOMS)-",
+        "infraction_code": "B01",
+        "penalty_imposed": 350,
+        "amount_paid": 350,
+        "balance_due": 0,
+        "issue_date": "20050914",
+        "hearing_status": "STIPULATION/IN-VIO",
+        "respondent": "GREEN POINT DEVELOPMENT,"
+      }
+    ],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "23251",
+        "bin": "4532197",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "20070119",
+        "disposition_comments": null
+      },
+      {
+        "source": "DOB",
+        "violation_id": "25408",
+        "bin": "4532197",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LBLVIO-LOW PRESSURE BOILER BOILER REQUIRED",
+        "type_code": "LBLVIO",
+        "description": null,
+        "issue_date": "20091231",
+        "disposition_comments": "IRICIA DISMISSED FULL PENALTY PAID $500 INV# 60941866 CK# 804304348"
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4008040123-2.json"
+}

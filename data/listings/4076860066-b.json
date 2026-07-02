@@ -1,0 +1,119 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5082336",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/69_23-cloverdale-boulevard-oakland_gardens/b",
+  "borough": "queens",
+  "neighborhood": "Oakland Gardens",
+  "address": "69-23 Cloverdale Boulevard",
+  "unit": "B",
+  "zip": "11364",
+  "bbl": "4076860066",
+  "bin": "4163867",
+  "geocode_match": "69-23 CLOVERDALE BOULEVARD, Bayside, NY, USA",
+  "latitude": 40.744377,
+  "longitude": -73.748053,
+  "rent": 2400,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": 60,
+  "price_changed_at": "2026-07-01T14:56:23.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": 750,
+  "building_type": "HOUSE",
+  "status": "ACTIVE",
+  "available_date": "2026-06-24",
+  "transit": {
+    "nearest_station": "Jamaica-179 St",
+    "nearest_lines": [
+      "F"
+    ],
+    "nearest_distance_mi": 2.796,
+    "nearest_walk_min": 56,
+    "all_nearby_lines": [
+      "F"
+    ],
+    "stations": [
+      {
+        "station": "Jamaica-179 St",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 2.796,
+        "walk_min": 56
+      },
+      {
+        "station": "169 St",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 3.287,
+        "walk_min": 66
+      },
+      {
+        "station": "Parsons Blvd",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 3.824,
+        "walk_min": 76
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 1,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34213437N",
+        "bin": "4163867",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Hazardous",
+        "violation_type": "Construction",
+        "description": "FAILURE TO SAFETY AND PROPERLY REMOVE DEBRIS FROMCONSTRUCTION SITE DURING ALTERATION BLDG NDER APPROVED PLUM AND PERMTI 400998220 DEBRIS AS WOOD PLASTIC CARBOARD ETC STORAGE FRONT OF BLDG WINDOWS CONTAINER REMD",
+        "infraction_code": "B36",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "19990909",
+        "hearing_status": "DISMISSED",
+        "respondent": "COHEN PEARL"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4076860066-b.json"
+}

@@ -1,0 +1,141 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5044977",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/21_21-38-street-astoria/1",
+  "borough": "queens",
+  "neighborhood": "Ditmars-Steinway",
+  "address": "21-21 38th Street",
+  "unit": "1",
+  "zip": "11105",
+  "bbl": "4008070025",
+  "bin": "4015943",
+  "geocode_match": "21-21 38 STREET, Astoria, NY, USA",
+  "latitude": 40.774564,
+  "longitude": -73.904973,
+  "rent": 2400,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-05-16T02:53:50.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": 550,
+  "building_type": "HOUSE",
+  "status": "ACTIVE",
+  "available_date": "2026-05-15",
+  "transit": {
+    "nearest_station": "Astoria-Ditmars Blvd",
+    "nearest_lines": [
+      "N",
+      "W"
+    ],
+    "nearest_distance_mi": 0.363,
+    "nearest_walk_min": 7,
+    "all_nearby_lines": [
+      "N",
+      "W"
+    ],
+    "stations": [
+      {
+        "station": "Astoria-Ditmars Blvd",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.363,
+        "walk_min": 7
+      },
+      {
+        "station": "Astoria Blvd",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.676,
+        "walk_min": 14
+      },
+      {
+        "station": "30 Av",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.97,
+        "walk_min": 19
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 2,
+      "ecb_active": 0,
+      "ecb_penalty_total": 250,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34014416M",
+        "bin": "4015943",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Non-Hazardous",
+        "violation_type": "Construction",
+        "description": "WORK WITHOUT A PERMIT WORK NOTED DEMOLISH AND CUT INTERIOR OF BLDG. INCLUDING VEMOVING PARTITIONS. REMEDY: DISCONTINUE WORK UNTIL APPROVACE AND PERMITS ARE OBTAINED.",
+        "infraction_code": "B04",
+        "penalty_imposed": 250,
+        "amount_paid": 250,
+        "balance_due": 0,
+        "issue_date": "19881019",
+        "hearing_status": "STIPULATION/IN-VIO",
+        "respondent": "GEORGE CHRIS"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "34021862H",
+        "bin": "4015943",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Non-Hazardous",
+        "violation_type": "Construction",
+        "description": "WORK WITHOUT A PERMIT. WORK NOTED: DEMOLISH ONE CAR GARAGE AT REAR YARD WITHOUT A PERMIT. REMEDY: OBTAIN DEMOLITION PERMIT.",
+        "infraction_code": "B04",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "19890317",
+        "hearing_status": "CURED/IN-VIO",
+        "respondent": "CHRIS, GEORGE"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4008070025-1.json"
+}

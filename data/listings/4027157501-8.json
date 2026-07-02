@@ -1,0 +1,201 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5052357",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/64_49-perry-avenue-maspeth/8",
+  "borough": "queens",
+  "neighborhood": "Maspeth",
+  "address": "64-49 Perry Avenue",
+  "unit": "8",
+  "zip": "11378",
+  "bbl": "4027157501",
+  "bin": "4060702",
+  "geocode_match": "64-49 PERRY AVENUE, Maspeth, NY, USA",
+  "latitude": 40.724312,
+  "longitude": -73.900446,
+  "rent": 2200,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": -200,
+  "price_changed_at": "2026-06-01T17:29:33.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": 500,
+  "building_type": "CONDO",
+  "status": "ACTIVE",
+  "available_date": "2026-07-15",
+  "transit": {
+    "nearest_station": "Middle Village-Metropolitan Av",
+    "nearest_lines": [
+      "M"
+    ],
+    "nearest_distance_mi": 1.022,
+    "nearest_walk_min": 20,
+    "all_nearby_lines": [
+      "M"
+    ],
+    "stations": [
+      {
+        "station": "Middle Village-Metropolitan Av",
+        "lines": [
+          "M"
+        ],
+        "distance_mi": 1.022,
+        "walk_min": 20
+      },
+      {
+        "station": "Fresh Pond Rd",
+        "lines": [
+          "M"
+        ],
+        "distance_mi": 1.276,
+        "walk_min": 26
+      },
+      {
+        "station": "Forest Av",
+        "lines": [
+          "M"
+        ],
+        "distance_mi": 1.353,
+        "walk_min": 27
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 3,
+      "hpd_open": 0,
+      "hpd_class_a": 1,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 2,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2021-04-14T00:00:00.000",
+      "ecb_total": 2,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 1,
+      "dob_open": 0
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "10951187",
+        "bbl": "4027157501",
+        "bin": "4060702",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2015-10-15T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2015-12-15T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "12116697",
+        "bbl": "4027157501",
+        "bin": "4060702",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2017-12-01T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2018-01-10T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "14237068",
+        "bbl": "4027157501",
+        "bin": "4060702",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2021-04-14T00:00:00.000",
+        "nov_issued_date": "2021-04-14T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2021-05-04T00:00:00.000"
+      }
+    ],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34558637L",
+        "bin": "4060702",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Non-Hazardous",
+        "violation_type": "Construction",
+        "description": "NEW BLDG OCCUPIED W/O A VALID C/O.BLDG HAS BEEN BUILT UNDER NEW BLDG APPLICATION 25/1984 NO C/O WAS ISSUED.CURRENT OCCUPANCY CONDOMINIUM COMPLEX OF(9)UNITS.REMEDY:OBTAIN C/O OR DISCONTINUE ILLEGAL USE.",
+        "infraction_code": "B01",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20070606",
+        "hearing_status": "DISMISSED",
+        "respondent": "REMSEN TOWNHOUSE CORPORAT"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "34580743X",
+        "bin": "4060702",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Non-Hazardous",
+        "violation_type": "Zoning",
+        "description": "VIOLATION OF PARKING REGULATIONS IN A RESIDENTIAL DISTRICT.NOTED:AT FRONT OF PREMISES ON REMSEN PLACE,A BLACK FORD CROWN VICTORIA NY PLATE #DPK-6127 PARKED,BUT VEHICLE EXTENDS APPROX 2 FT BEYOND LOT LINE(OUT",
+        "infraction_code": "B57",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20070605",
+        "hearing_status": "CURED/IN-VIO",
+        "respondent": "OWNER OF 64-49 56 DRIVE"
+      }
+    ],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "17044",
+        "bin": "4060702",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "19930628",
+        "disposition_comments": "TCOCIA DISMISSED,$500.00 PENALTY PAID MO# 0055200589"
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4027157501-8.json"
+}

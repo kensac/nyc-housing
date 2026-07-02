@@ -1,0 +1,317 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5068629",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/901-st-johns-place-brooklyn/1b",
+  "borough": "brooklyn",
+  "neighborhood": "Crown Heights",
+  "address": "901 Saint John's Place",
+  "unit": "1B",
+  "zip": "11216",
+  "bbl": "3012480048",
+  "bin": "3031953",
+  "geocode_match": "901 ST JOHN'S PLACE, Brooklyn, NY, USA",
+  "latitude": 40.671771,
+  "longitude": -73.948454,
+  "rent": 2900,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": -100,
+  "price_changed_at": "2026-06-18T19:13:23.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-06-10",
+  "transit": {
+    "nearest_station": "Nostrand Av",
+    "nearest_lines": [
+      "3"
+    ],
+    "nearest_distance_mi": 0.17,
+    "nearest_walk_min": 3,
+    "all_nearby_lines": [
+      "3",
+      "2",
+      "5"
+    ],
+    "stations": [
+      {
+        "station": "Nostrand Av",
+        "lines": [
+          "3"
+        ],
+        "distance_mi": 0.17,
+        "walk_min": 3
+      },
+      {
+        "station": "President St-Medgar Evers College",
+        "lines": [
+          "2",
+          "5"
+        ],
+        "distance_mi": 0.271,
+        "walk_min": 5
+      },
+      {
+        "station": "Kingston Av",
+        "lines": [
+          "3"
+        ],
+        "distance_mi": 0.358,
+        "walk_min": 7
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 5,
+      "hpd_open": 0,
+      "hpd_class_a": 4,
+      "hpd_class_b": 0,
+      "hpd_class_c": 1,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2023-03-24T00:00:00.000",
+      "ecb_total": 1,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 9,
+      "dob_open": 5
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "13846985",
+        "bbl": "3012480048",
+        "bin": "3031953",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 329, M/D LAW AND DEPT. RULES AND REGS. PROVIDE A COMPLETED CERTIFICATE OF INSPECTION VISITS IN A PROPER FRAME READILY ACCESSIBLE FOR SIGNATURE, BOTTOM EDGE OF FRAME BETWEEN 48-62 INCHES ABOVE FLOOR AT FRAME MISSING AT PUBLIC HALL, 1st STORY",
+        "apartment": null,
+        "story": "1",
+        "inspection_date": "2020-10-05T00:00:00.000",
+        "nov_issued_date": "2020-10-07T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2020-12-28T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "13846987",
+        "bbl": "3012480048",
+        "bin": "3031953",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 27-2005 HMC: POST, IN A FORM APPROVED BY THE COMMISSIONER, AND MAINTAIN A NOTICE IN A COMMON AREA OF THE BUILDING REGARDING THE PROCEDURES THAT SHOULD BE FOLLOWED WHEN A GAS LEAK IS SUSPECTED AT PUBLIC HALL, 1st STORY",
+        "apartment": null,
+        "story": "1",
+        "inspection_date": "2020-10-05T00:00:00.000",
+        "nov_issued_date": "2020-10-07T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2020-12-28T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "13846997",
+        "bbl": "3012480048",
+        "bin": "3031953",
+        "class": "C",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 27-2033 ADM CODE POST NOTICE, IN FORM APPROVED BY THE DEPARTMENT, STATING THE NAME AND LOCATION OF THE PERSON DESIGNATED BY THE OWNER TO HAVE KEY TO BUILDINGS HEATING SYSTEM SIGN POSTED ON WALL BUT NO INFORMATION PRESENT AT PUBLIC HALL, 1st STORY",
+        "apartment": null,
+        "story": "1",
+        "inspection_date": "2020-10-05T00:00:00.000",
+        "nov_issued_date": "2020-10-07T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2020-12-28T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "14220256",
+        "bbl": "3012480048",
+        "bin": "3031953",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2021-04-13T00:00:00.000",
+        "nov_issued_date": "2021-04-13T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2021-04-16T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "15853544",
+        "bbl": "3012480048",
+        "bin": "3031953",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2023-03-24T00:00:00.000",
+        "nov_issued_date": "2023-03-24T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2023-03-29T00:00:00.000"
+      }
+    ],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "39053127J",
+        "bin": "3031953",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Boilers",
+        "description": "HOLES IN WALLS AND CEILING. NO MANUAL RESET LOW WATER CUT OFF. CORRODED RETURN LINE. NO BLOIER INFOMATION PLATED.",
+        "infraction_code": "254",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20211220",
+        "hearing_status": "DISMISSED",
+        "respondent": "901 SAINT JOHNS PROPERTIE"
+      }
+    ],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "15261",
+        "bin": "3031953",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "20000207",
+        "disposition_comments": "MBUCIA DISMISSED BY A $50.00 REDUCED PENALTY MO#02-959595494 INV#60247335"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "14715",
+        "bin": "3031953",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "20040213",
+        "disposition_comments": "RRECIA DISMISSED-REDUCED PENALTY PAID $50 INV#60751411 MO#7538009958"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "09210",
+        "bin": "3031953",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "LBLVIO-LOW PRESSURE BOILER BOILER REQUIRED",
+        "type_code": "LBLVIO",
+        "description": "VIOLATION ISSUED FOR FAILURE TO FILE ANNUAL BOILER 2010 INSPECTION REPORT",
+        "issue_date": "20111213",
+        "disposition_comments": null
+      },
+      {
+        "source": "DOB",
+        "violation_id": "15-0495",
+        "bin": "3031953",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "LANDMK-LANDMARK NONE",
+        "type_code": "LANDMK",
+        "description": null,
+        "issue_date": "20141217",
+        "disposition_comments": null
+      },
+      {
+        "source": "DOB",
+        "violation_id": "15-0497",
+        "bin": "3031953",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "LANDMK-LANDMARK NONE",
+        "type_code": "LANDMK",
+        "description": null,
+        "issue_date": "20141217",
+        "disposition_comments": null
+      },
+      {
+        "source": "DOB",
+        "violation_id": "15-0498",
+        "bin": "3031953",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "LANDMK-LANDMARK NONE",
+        "type_code": "LANDMK",
+        "description": null,
+        "issue_date": "20141217",
+        "disposition_comments": null
+      },
+      {
+        "source": "DOB",
+        "violation_id": "15-0496",
+        "bin": "3031953",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LANDMK-LANDMARK NONE",
+        "type_code": "LANDMK",
+        "description": null,
+        "issue_date": "20141217",
+        "disposition_comments": null
+      },
+      {
+        "source": "DOB",
+        "violation_id": "12456",
+        "bin": "3031953",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LBLVIO-LOW PRESSURE BOILER BOILER REQUIRED",
+        "type_code": "LBLVIO",
+        "description": "VIOLATION ISSUED-FAILURE TO FILE 2022 EXTERNAL LOW PRESSURE INSPECTION",
+        "issue_date": "20230425",
+        "disposition_comments": "CIANOW CRM Violation Dismissed"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "08273",
+        "bin": "3031953",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "LBLVIO-LOW PRESSURE BOILER BOILER REQUIRED",
+        "type_code": "LBLVIO",
+        "description": "VIOLATION ISSUED-FAILURE TO FILE 2023 EXTERNAL LOW PRESSURE INSPECTION",
+        "issue_date": "20240923",
+        "disposition_comments": null
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3012480048-1b.json"
+}

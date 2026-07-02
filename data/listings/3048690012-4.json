@@ -1,0 +1,224 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5085992",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/1421-nostrand-avenue-brooklyn/4",
+  "borough": "brooklyn",
+  "neighborhood": "Flatbush",
+  "address": "1421 Nostrand Avenue",
+  "unit": "4",
+  "zip": "11226",
+  "bbl": "3048690012",
+  "bin": "3108547",
+  "geocode_match": "1421 NOSTRAND AVENUE, Brooklyn, NY, USA",
+  "latitude": 40.651597,
+  "longitude": -73.949326,
+  "rent": 2550,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-28T18:40:05.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "MIXED_USE",
+  "status": "ACTIVE",
+  "available_date": "2026-06-28",
+  "transit": {
+    "nearest_station": "Church Av",
+    "nearest_lines": [
+      "2",
+      "5"
+    ],
+    "nearest_distance_mi": 0.046,
+    "nearest_walk_min": 1,
+    "all_nearby_lines": [
+      "2",
+      "5"
+    ],
+    "stations": [
+      {
+        "station": "Church Av",
+        "lines": [
+          "2",
+          "5"
+        ],
+        "distance_mi": 0.046,
+        "walk_min": 1
+      },
+      {
+        "station": "Winthrop St",
+        "lines": [
+          "2",
+          "5"
+        ],
+        "distance_mi": 0.321,
+        "walk_min": 6
+      },
+      {
+        "station": "Beverly Rd",
+        "lines": [
+          "2",
+          "5"
+        ],
+        "distance_mi": 0.453,
+        "walk_min": 9
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 4,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 3,
+      "hpd_class_c": 1,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2014-09-15T00:00:00.000",
+      "ecb_total": 0,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 4,
+      "dob_open": 3
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "10383590",
+        "bbl": "3048690012",
+        "bin": "3108547",
+        "class": "B",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 27-2005 ADMIN. CODE: REPAIR THE BROKEN OR DEFECTIVE PLASTERED SURFACES AND PAINT IN UNIFORM COLOR ALL WALLS IN THE BATHROOM LOCATED AT APT 1, 2nd STORY, 1st APARTMENT FROM SOUTH AT WEST",
+        "apartment": "1",
+        "story": "2",
+        "inspection_date": "2014-09-15T00:00:00.000",
+        "nov_issued_date": "2014-09-17T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2014-12-11T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "10383591",
+        "bbl": "3048690012",
+        "bin": "3108547",
+        "class": "B",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 27-2005 HMC:TRACE AND REPAIR THE SOURCE AND ABATE THE NUISANCE CONSISTING OF MOLD ... AT CEILING APPRX. 15 SQUARE FEET IN THE BATHROOM LOCATED AT APT 1, 2nd STORY, 1st APARTMENT FROM SOUTH AT WEST",
+        "apartment": "1",
+        "story": "2",
+        "inspection_date": "2014-09-15T00:00:00.000",
+        "nov_issued_date": "2014-09-17T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2014-12-11T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "10383592",
+        "bbl": "3048690012",
+        "bin": "3108547",
+        "class": "B",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 27-2005 ADMIN. CODE: FIRE ESCAPE DEFECTIVE. ADJUST THE DROPLADDER SO THAT IT WILL SLIDE EASILY IN THE GUIDE RODS .. AT FIRE ESCAPE AT EAST",
+        "apartment": null,
+        "story": "0",
+        "inspection_date": "2014-09-15T00:00:00.000",
+        "nov_issued_date": "2014-09-19T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2014-12-11T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "10383588",
+        "bbl": "3048690012",
+        "bin": "3108547",
+        "class": "C",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 27-2005 ADMIN. CODE: REPAIR THE BROKEN OR DEFECTIVE PLASTERED SURFACES AND PAINT IN UNIFORM COLOR AT CEILING IN THE BATHROOM LOCATED AT APT 1, 2nd STORY, 1st APARTMENT FROM SOUTH AT WEST",
+        "apartment": "1",
+        "story": "2",
+        "inspection_date": "2014-09-15T00:00:00.000",
+        "nov_issued_date": "2014-09-17T00:00:00.000",
+        "current_status": "VIOLATION CLOSED",
+        "current_status_date": "2014-09-29T00:00:00.000"
+      }
+    ],
+    "ecb": [],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "1702GH",
+        "bin": "3108547",
+        "category": "VW*-VIOLATION - WORK W/O PERMIT DISMISSED",
+        "is_open": false,
+        "violation_type": "C-CONSTRUCTION OTHER OPTIONAL",
+        "type_code": "C",
+        "description": "WORK WITHOUT PERMITS; REMEDY; STOP ALL WORK IMMJEDIATELY-ENTIRE BUILDING",
+        "issue_date": "20090721",
+        "disposition_comments": "STOP WORK ORDER RESCINDED ON 10/15/09"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "15162",
+        "bin": "3108547",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "LBLVIO-LOW PRESSURE BOILER BOILER REQUIRED",
+        "type_code": "LBLVIO",
+        "description": "VIOLATION ISSUED-FAILURE TO FILE 2022 EXTERNAL LOW PRESSURE INSPECTION",
+        "issue_date": "20230425",
+        "disposition_comments": null
+      },
+      {
+        "source": "DOB",
+        "violation_id": "11256",
+        "bin": "3108547",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "LBLVIO-LOW PRESSURE BOILER BOILER REQUIRED",
+        "type_code": "LBLVIO",
+        "description": "VIOLATION ISSUED-FAILURE TO FILE 2023 EXTERNAL LOW PRESSURE INSPECTION",
+        "issue_date": "20240923",
+        "disposition_comments": null
+      },
+      {
+        "source": "DOB",
+        "violation_id": "12375",
+        "bin": "3108547",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "LBLVIO-LOW PRESSURE BOILER BOILER REQUIRED",
+        "type_code": "LBLVIO",
+        "description": "VIOLATION ISSUED-FAILURE TO FILE 2024 EXTERNAL LOW PRESSURE INSPECTION",
+        "issue_date": "20251114",
+        "disposition_comments": null
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3048690012-4.json"
+}

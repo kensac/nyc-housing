@@ -1,0 +1,259 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5043509",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/141_35-pershing-crescent-jamaica/1b",
+  "borough": "queens",
+  "neighborhood": "Briarwood",
+  "address": "141-35 Pershing Crescent",
+  "unit": "1B",
+  "zip": "11435",
+  "bbl": "4097140013",
+  "bin": "4530970",
+  "geocode_match": "141-35 PERSHING CRESCENT, Briarwood, NY, USA",
+  "latitude": 40.712219,
+  "longitude": -73.816283,
+  "rent": 2800,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-05-14T20:19:48.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1.5,
+  "sqft": 1100,
+  "building_type": "FOURFAMILY",
+  "status": "ACTIVE",
+  "available_date": "2026-05-14",
+  "transit": {
+    "nearest_station": "Briarwood",
+    "nearest_lines": [
+      "E",
+      "F"
+    ],
+    "nearest_distance_mi": 0.245,
+    "nearest_walk_min": 5,
+    "all_nearby_lines": [
+      "E",
+      "F"
+    ],
+    "stations": [
+      {
+        "station": "Briarwood",
+        "lines": [
+          "E",
+          "F"
+        ],
+        "distance_mi": 0.245,
+        "walk_min": 5
+      },
+      {
+        "station": "Sutphin Blvd",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 0.528,
+        "walk_min": 11
+      },
+      {
+        "station": "Jamaica-Van Wyck",
+        "lines": [
+          "E"
+        ],
+        "distance_mi": 0.656,
+        "walk_min": 13
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 8,
+      "hpd_open": 4,
+      "hpd_class_a": 5,
+      "hpd_class_b": 1,
+      "hpd_class_c": 0,
+      "hpd_class_i": 2,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2026-05-08T00:00:00.000",
+      "ecb_total": 1,
+      "ecb_active": 0,
+      "ecb_penalty_total": 1000,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "10611538",
+        "bbl": "4097140013",
+        "bin": "4530970",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "SECTION27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE ?27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2015-03-04T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2015-04-21T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "12142242",
+        "bbl": "4097140013",
+        "bin": "4530970",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2017-12-11T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2018-05-08T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "15292696",
+        "bbl": "4097140013",
+        "bin": "4530970",
+        "class": "B",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "§ 27-2005 ADM CODE PROPERLY REPAIR THE BROKEN OR DEFECTIVE INTERCOM BUZZER IN THE ENTRANCE LOCATED AT APT 4B, 4th STORY, 1st APARTMENT FROM WEST AT NORTH",
+        "apartment": "4B",
+        "story": "4",
+        "inspection_date": "2022-08-04T00:00:00.000",
+        "nov_issued_date": "2022-08-05T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2022-08-05T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "15292697",
+        "bbl": "4097140013",
+        "bin": "4530970",
+        "class": "A",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "§ 27-2045 ADM CODE POST A PROPER NOTICE OF SMOKE DETECTOR REQUIREMENTS, IN A FORM APPROVED BY THE COMMISSIONER, AT OR NEAR THE MAIL BOX . AT PUBLIC HALL, 1st STORY",
+        "apartment": null,
+        "story": "1",
+        "inspection_date": "2022-08-04T00:00:00.000",
+        "nov_issued_date": "2022-08-08T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2022-08-08T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "15292698",
+        "bbl": "4097140013",
+        "bin": "4530970",
+        "class": "A",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "§ 27-2104 ADM CODE POST AND MAINTAIN A PROPER SIGN ON WALL OF ENTRANCE STORY SHOWING THE REGISTRATION NUMBER ASSIGNED BY THE DEPARTMENT AND THE ADDRESS OF THE BUILDING. AT PUBLIC HALL, 1st STORY",
+        "apartment": null,
+        "story": "1",
+        "inspection_date": "2022-08-04T00:00:00.000",
+        "nov_issued_date": "2022-08-08T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2022-08-08T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "15292699",
+        "bbl": "4097140013",
+        "bin": "4530970",
+        "class": "A",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "§ 27-2046.1 HMC: POST A PROPER NOTICE OF CARBON MONOXIDE DETECTING DEVICE REQUIREMENTS, IN A FORM APPROVED BY THE COMMISSIONER, IN A COMMON AREA OF A CLASS A MULTIPLE DWELLING NEAR INSPECTION CERTIFICATE OR PROVIDE NOTICE TO TENANTS IN A PRIVATE DWELLING.",
+        "apartment": null,
+        "story": "1",
+        "inspection_date": "2022-08-04T00:00:00.000",
+        "nov_issued_date": "2022-08-08T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2022-08-08T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "15902308",
+        "bbl": "4097140013",
+        "bin": "4530970",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2023-03-31T00:00:00.000",
+        "nov_issued_date": "2023-03-31T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2023-04-07T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "18922830",
+        "bbl": "4097140013",
+        "bin": "4530970",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2026-05-08T00:00:00.000",
+        "nov_issued_date": "2026-05-08T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2026-05-13T00:00:00.000"
+      }
+    ],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34452885P",
+        "bin": "4530970",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Hazardous",
+        "violation_type": "Site Safety",
+        "description": "FAILURE TO PROVIDE GUARDRAILS DEFECT NOTED NO GUARDRAILS ON WINDOW BALCONY OPEING EAST &WEST SIDES 2-4 FLOOR (2) NO GUARDRAILS OR PROTECTIONON OPEN STAIRWELL 1-4 FL(3) NO GUARDRAILS ON REAR STAIRWELL OPENING",
+        "infraction_code": "B2K",
+        "penalty_imposed": 1000,
+        "amount_paid": 1000,
+        "balance_due": 0,
+        "issue_date": "20040930",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "THE NEW YORK LIONS GROUP"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4097140013-1b.json"
+}

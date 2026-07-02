@@ -1,0 +1,140 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5074731",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/2339-nostrand-avenue-brooklyn/4f",
+  "borough": "brooklyn",
+  "neighborhood": "Midwood",
+  "address": "2339 Nostrand Avenue",
+  "unit": "4F",
+  "zip": "11210",
+  "bbl": "3075940016",
+  "bin": "3429878",
+  "geocode_match": "2339 NOSTRAND AVENUE, Brooklyn, NY, USA",
+  "latitude": 40.62762,
+  "longitude": -73.9467,
+  "rent": 3250,
+  "net_effective_rent": 3000,
+  "gross_over_3000": true,
+  "no_fee": false,
+  "months_free": 1,
+  "lease_term_months": 13,
+  "price_delta": null,
+  "price_changed_at": "2026-06-16T17:45:20.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": 777,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-06-16",
+  "transit": {
+    "nearest_station": "Flatbush Av-Brooklyn College",
+    "nearest_lines": [
+      "2",
+      "5"
+    ],
+    "nearest_distance_mi": 0.297,
+    "nearest_walk_min": 6,
+    "all_nearby_lines": [
+      "2",
+      "5",
+      "Q"
+    ],
+    "stations": [
+      {
+        "station": "Flatbush Av-Brooklyn College",
+        "lines": [
+          "2",
+          "5"
+        ],
+        "distance_mi": 0.297,
+        "walk_min": 6
+      },
+      {
+        "station": "Avenue J",
+        "lines": [
+          "Q"
+        ],
+        "distance_mi": 0.745,
+        "walk_min": 15
+      },
+      {
+        "station": "Avenue H",
+        "lines": [
+          "Q"
+        ],
+        "distance_mi": 0.79,
+        "walk_min": 16
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 2,
+      "ecb_active": 0,
+      "ecb_penalty_total": 625,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "39528663J",
+        "bin": "3429878",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Construction",
+        "description": "AT THE TIME OF MY INSPECTION OF A ACTIVE JOB SITE , I OBSERVED PLASTIC BARRIERS AT SIDEWALK LEVEL THROUGHOUT THE LENGTH OF THE BUILDING AT EXPOSURE 1 AND NOT MAINTAINING 5 FEET WIDE PEDESTRIAN WALK WAS AS REQU",
+        "infraction_code": "282",
+        "penalty_imposed": 625,
+        "amount_paid": 625,
+        "balance_due": 0,
+        "issue_date": "20240516",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "RAY BUILDERS INC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39528664L",
+        "bin": "3429878",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Unknown",
+        "description": "BC 3309.11 AT THE TIME OF MY INSPECTION OF A ACTIVE JOB SITE OF A 7 STORY NEW BUILDING UNDER CONSTRUCTION, I OBSERVED NO TREE PROTECTION WAS PROVIDED AS REQUIRED AS PER SITE SAFETY PLANS AT EXPOSURE 1 CREATING",
+        "infraction_code": "2P7",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20240516",
+        "hearing_status": "DISMISSED",
+        "respondent": "RAY BUILDERS INC"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3075940016-4f.json"
+}

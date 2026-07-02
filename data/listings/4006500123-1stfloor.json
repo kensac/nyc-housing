@@ -1,0 +1,276 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5058545",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/30_53-35-street-astoria/1st-floor",
+  "borough": "queens",
+  "neighborhood": "Astoria",
+  "address": "30-53 35th Street",
+  "unit": "1ST FLOOR",
+  "zip": "11103",
+  "bbl": "4006500123",
+  "bin": "4009969",
+  "geocode_match": "30-53 35 STREET, Astoria, NY, USA",
+  "latitude": 40.763925,
+  "longitude": -73.919078,
+  "rent": 2700,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": -200,
+  "price_changed_at": "2026-06-29T18:27:59.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "TWOFAMILY",
+  "status": "ACTIVE",
+  "available_date": "2026-07-03",
+  "transit": {
+    "nearest_station": "30 Av",
+    "nearest_lines": [
+      "N",
+      "W"
+    ],
+    "nearest_distance_mi": 0.227,
+    "nearest_walk_min": 5,
+    "all_nearby_lines": [
+      "N",
+      "W",
+      "M",
+      "R"
+    ],
+    "stations": [
+      {
+        "station": "30 Av",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.227,
+        "walk_min": 5
+      },
+      {
+        "station": "Broadway",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.343,
+        "walk_min": 7
+      },
+      {
+        "station": "Steinway St",
+        "lines": [
+          "M",
+          "R"
+        ],
+        "distance_mi": 0.389,
+        "walk_min": 8
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 8,
+      "hpd_open": 0,
+      "hpd_class_a": 3,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 5,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2023-11-24T00:00:00.000",
+      "ecb_total": 1,
+      "ecb_active": 0,
+      "ecb_penalty_total": 1600,
+      "ecb_balance_due": 0,
+      "dob_total": 1,
+      "dob_open": 0
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "14975634",
+        "bbl": "4006500123",
+        "bin": "4009969",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2022-03-03T00:00:00.000",
+        "nov_issued_date": "2022-03-03T00:00:00.000",
+        "current_status": "VIOLATION CLOSED",
+        "current_status_date": "2024-01-16T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "14229794",
+        "bbl": "4006500123",
+        "bin": "4009969",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2021-04-14T00:00:00.000",
+        "nov_issued_date": "2021-04-14T00:00:00.000",
+        "current_status": "VIOLATION CLOSED",
+        "current_status_date": "2024-01-16T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "15859756",
+        "bbl": "4006500123",
+        "bin": "4009969",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2023-03-27T00:00:00.000",
+        "nov_issued_date": "2023-03-27T00:00:00.000",
+        "current_status": "VIOLATION CLOSED",
+        "current_status_date": "2024-01-16T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "13401309",
+        "bbl": "4006500123",
+        "bin": "4009969",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2019-11-01T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2021-12-22T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "14229795",
+        "bbl": "4006500123",
+        "bin": "4009969",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2021-04-14T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2021-12-22T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "16449137",
+        "bbl": "4006500123",
+        "bin": "4009969",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2023-11-24T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION CLOSED",
+        "current_status_date": "2024-01-16T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "10948108",
+        "bbl": "4006500123",
+        "bin": "4009969",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2015-10-15T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2015-11-12T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "12691161",
+        "bbl": "4006500123",
+        "bin": "4009969",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2018-10-22T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2018-10-24T00:00:00.000"
+      }
+    ],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34794602X",
+        "bin": "4009969",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Construction",
+        "description": "WORK W/O A PERMIT PREMISES UNDER PC JOB ALT 2 410114184 EXP 7/4/08 APPL FILED FOR INTERIOR PARTITION REMOVAL NO PLUMBING TAKEN FOR REMOVAL OF RELATED WATER & GAS PLUMBING IN BSMNT 1ST & 2ND FLRS EACH FL PREVIOU",
+        "infraction_code": "101",
+        "penalty_imposed": 1600,
+        "amount_paid": 1600,
+        "balance_due": 0,
+        "issue_date": "20090930",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "FRANK NELKIN JR"
+      }
+    ],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "0103KS",
+        "bin": "4009969",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "C-CONSTRUCTION OTHER OPTIONAL",
+        "type_code": "C",
+        "description": null,
+        "issue_date": "20090930",
+        "disposition_comments": "OK TO DISMISS VIOLATION"
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4006500123-1stfloor.json"
+}

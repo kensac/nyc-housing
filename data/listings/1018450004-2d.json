@@ -1,0 +1,252 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5075553",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/67-west-109-street-new_york/2d",
+  "borough": "manhattan",
+  "neighborhood": "Manhattan Valley",
+  "address": "67 West 109th Street",
+  "unit": "2D",
+  "zip": "10025",
+  "bbl": "1018450004",
+  "bin": "1055742",
+  "geocode_match": "67 WEST 109 STREET, New York, NY, USA",
+  "latitude": 40.801152,
+  "longitude": -73.960922,
+  "rent": 2650,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": -45,
+  "price_changed_at": "2026-06-25T13:06:33.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-06-25",
+  "transit": {
+    "nearest_station": "Cathedral Pkwy (110 St)",
+    "nearest_lines": [
+      "C",
+      "B"
+    ],
+    "nearest_distance_mi": 0.132,
+    "nearest_walk_min": 3,
+    "all_nearby_lines": [
+      "C",
+      "B"
+    ],
+    "stations": [
+      {
+        "station": "Cathedral Pkwy (110 St)",
+        "lines": [
+          "C",
+          "B"
+        ],
+        "distance_mi": 0.132,
+        "walk_min": 3
+      },
+      {
+        "station": "103 St",
+        "lines": [
+          "C",
+          "B"
+        ],
+        "distance_mi": 0.338,
+        "walk_min": 7
+      },
+      {
+        "station": "116 St",
+        "lines": [
+          "C",
+          "B"
+        ],
+        "distance_mi": 0.353,
+        "walk_min": 7
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 4,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 3,
+      "hpd_class_i": 1,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2025-11-17T00:00:00.000",
+      "ecb_total": 3,
+      "ecb_active": 0,
+      "ecb_penalty_total": 4100,
+      "ecb_balance_due": 0,
+      "dob_total": 2,
+      "dob_open": 0
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "10492924",
+        "bbl": "1018450004",
+        "bin": "1055742",
+        "class": "C",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": true,
+        "description": "§ 27-2029 ADM CODE PROVIDE AN ADEQUATE SUPPLY OF HEAT FOR THE APARTMENT IN THE ENTIRE APARTMENT LOCATED AT APT A, 1st STORY, 1st APARTMENT FROM NORTH AT EAST",
+        "apartment": "A",
+        "story": "1",
+        "inspection_date": "2014-12-31T00:00:00.000",
+        "nov_issued_date": "2015-01-06T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2015-03-23T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "10492945",
+        "bbl": "1018450004",
+        "bin": "1055742",
+        "class": "C",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": true,
+        "description": "§ 27-2031 ADM CODE PROVIDE HOT WATER AT ALL HOT WATER FIXTURES IN THE ENTIRE APARTMENT LOCATED AT APT A, 1st STORY, 1st APARTMENT FROM NORTH AT EAST",
+        "apartment": "A",
+        "story": "1",
+        "inspection_date": "2014-12-31T00:00:00.000",
+        "nov_issued_date": "2015-01-06T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2015-03-23T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "10492959",
+        "bbl": "1018450004",
+        "bin": "1055742",
+        "class": "C",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 27-2033 ADM CODE PROVIDE READY ACCESS TO BUILDINGS HEATING SYSTEM DOOR LOCKED AT BOILER ROOM",
+        "apartment": null,
+        "story": "0",
+        "inspection_date": "2014-12-31T00:00:00.000",
+        "nov_issued_date": "2015-01-06T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2015-03-23T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "18383239",
+        "bbl": "1018450004",
+        "bin": "1055742",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2025-11-17T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2025-12-02T00:00:00.000"
+      }
+    ],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34775209X",
+        "bin": "1055742",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 3",
+        "violation_type": "Construction",
+        "description": "OCCUPANCY CONTRARY TO THAT ALLOWED BY THE C OF O OR BLDG DEPT RECORDS.RECREATION ROOMS IN THE CELLAR ARE BEING OCCUPIED AS LIVING/SLEEPING QUARTERS WHICH IS CONTRARY TO C OF O #89204 DATED 9.22.88. NOTED:",
+        "infraction_code": "303",
+        "penalty_imposed": 500,
+        "amount_paid": 500,
+        "balance_due": 0,
+        "issue_date": "20090406",
+        "hearing_status": "DEFAULT",
+        "respondent": "ANDY ROO CORPORATION"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "34755416K",
+        "bin": "1055742",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Construction",
+        "description": "OCCUPANCY CONTRARY TO THAT ALLOWED BY THE C/O. NOTED: UPON INSPECTION AT CELLAR LEVEL AT APTS A & C SPACE BEING USED AS SLEEPING QUARTERS CONTRARY TO C/O #89204 WHICH STATES THAT SPACE TO BE USED AS REC SPACE",
+        "infraction_code": "103",
+        "penalty_imposed": 3000,
+        "amount_paid": 3000,
+        "balance_due": 0,
+        "issue_date": "20090719",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "ANDY ROO CORP LEEDS ASSOC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "34827194Y",
+        "bin": "1055742",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Construction",
+        "description": "OCCUPANCY CONTRARY TO THAT ALLOWED BY THE C OF O. NOTE: AT CELLAR LEVEL IN APT C OF ABOVE PREMISES SPACE IS BEING USED FOR SLEEPING CONTRARY TO CO#89204 DATED 9/22/1988 SPACE IS LISTED AS RECREATION SPACE ONLY,",
+        "infraction_code": "103",
+        "penalty_imposed": 600,
+        "amount_paid": 600,
+        "balance_due": 0,
+        "issue_date": "20091222",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "ANDY ROO CORP LEEDS ASSOC"
+      }
+    ],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "17438",
+        "bin": "1055742",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "19930318",
+        "disposition_comments": "NO BOILER IN BLDG. SPECE HEATER IN ALL THE APTS. VIOLATION CANCELLED"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "17438",
+        "bin": "1055742",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "19940318",
+        "disposition_comments": "NO BOILER IN BLDG. SPEACE HEATER IN ALL THE APTS VIOLATION CANCELLED"
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "1018450004-2d.json"
+}

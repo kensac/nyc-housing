@@ -1,0 +1,201 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5081149",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/315-devoe-street-brooklyn/bsmt",
+  "borough": "brooklyn",
+  "neighborhood": "East Williamsburg",
+  "address": "315 Devoe Street",
+  "unit": "BSMT",
+  "zip": "11211",
+  "bbl": "3029180040",
+  "bin": "3400363",
+  "geocode_match": "315 DEVOE STREET, Brooklyn, NY, USA",
+  "latitude": 40.713933,
+  "longitude": -73.936463,
+  "rent": 2900,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-23T17:41:25.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": 550,
+  "building_type": "TWOFAMILY",
+  "status": "ACTIVE",
+  "available_date": "2026-06-23",
+  "transit": {
+    "nearest_station": "Grand St",
+    "nearest_lines": [
+      "L"
+    ],
+    "nearest_distance_mi": 0.248,
+    "nearest_walk_min": 5,
+    "all_nearby_lines": [
+      "L"
+    ],
+    "stations": [
+      {
+        "station": "Grand St",
+        "lines": [
+          "L"
+        ],
+        "distance_mi": 0.248,
+        "walk_min": 5
+      },
+      {
+        "station": "Graham Av",
+        "lines": [
+          "L"
+        ],
+        "distance_mi": 0.405,
+        "walk_min": 8
+      },
+      {
+        "station": "Montrose Av",
+        "lines": [
+          "L"
+        ],
+        "distance_mi": 0.453,
+        "walk_min": 9
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 4,
+      "hpd_open": 4,
+      "hpd_class_a": 0,
+      "hpd_class_b": 4,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2023-12-11T00:00:00.000",
+      "ecb_total": 1,
+      "ecb_active": 1,
+      "ecb_penalty_total": 500,
+      "ecb_balance_due": 0,
+      "dob_total": 1,
+      "dob_open": 1
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "16513499",
+        "bbl": "3029180040",
+        "bin": "3400363",
+        "class": "B",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "§ 27-2005 ADMIN. CODE: REPAIR THE ROOF SO THAT IT WILL NOT LEAK ... IN THE BATHROOM LOCATED AT APT 2, 2nd STORY, 1st APARTMENT FROM NORTH AT EAST",
+        "apartment": "2",
+        "story": "2",
+        "inspection_date": "2023-12-11T00:00:00.000",
+        "nov_issued_date": "2023-12-12T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2023-12-12T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "16513500",
+        "bbl": "3029180040",
+        "bin": "3400363",
+        "class": "B",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "§ 27-2005 ADMIN. CODE: REPAIR THE BROKEN OR DEFECTIVE PLASTERED SURFACES AND PAINT IN UNIFORM COLOR AT EAST WALL IN THE BATHROOM LOCATED AT APT 2, 2nd STORY, 1st APARTMENT FROM NORTH AT EAST",
+        "apartment": "2",
+        "story": "2",
+        "inspection_date": "2023-12-11T00:00:00.000",
+        "nov_issued_date": "2023-12-12T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2023-12-12T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "16513501",
+        "bbl": "3029180040",
+        "bin": "3400363",
+        "class": "B",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "§ 27-2005 ADMIN. CODE: REPAIR THE BROKEN OR DEFECTIVE PLASTERED SURFACES AND PAINT IN UNIFORM COLOR AT SOUTH WALL IN THE BATHROOM LOCATED AT APT 2, 2nd STORY, 1st APARTMENT FROM NORTH AT EAST",
+        "apartment": "2",
+        "story": "2",
+        "inspection_date": "2023-12-11T00:00:00.000",
+        "nov_issued_date": "2023-12-12T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2023-12-12T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "16513502",
+        "bbl": "3029180040",
+        "bin": "3400363",
+        "class": "B",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "§ 27-2005 ADMIN. CODE: REPAIR THE BROKEN OR DEFECTIVE PLASTERED SURFACES AND PAINT IN UNIFORM COLOR AT CEILING IN THE 1st ROOM FROM NORTH LOCATED AT APT 2, 2nd STORY, 1st APARTMENT FROM NORTH AT EAST",
+        "apartment": "2",
+        "story": "2",
+        "inspection_date": "2023-12-11T00:00:00.000",
+        "nov_issued_date": "2023-12-12T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2023-12-12T00:00:00.000"
+      }
+    ],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34194338R",
+        "bin": "3400363",
+        "status": "ACTIVE",
+        "is_open": true,
+        "severity": "Non-Hazardous",
+        "violation_type": "Construction",
+        "description": "WORK WITHOUT A PERMIT. WORK NOTED HAVING CONSTRUCTED A NEW TWOM STORY STRUCTURE AT FRONT OF LOT APPROX 25'X25'FEET. CONCRETE BLOCKS AND STEEL ITEMS. OBTAIN A PERMIT IF FEASIBLE OR REMOVE THE STRUCTURE AT FRONT",
+        "infraction_code": "B04",
+        "penalty_imposed": 500,
+        "amount_paid": 500,
+        "balance_due": 0,
+        "issue_date": "19990806",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "OKUNIESKI TADEUSZ"
+      }
+    ],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "0101JS",
+        "bin": "3400363",
+        "category": "VW-VIOLATION WORK WITHOUT PERMIT - ACTIVE",
+        "is_open": true,
+        "violation_type": "C-CONSTRUCTION OTHER OPTIONAL",
+        "type_code": "C",
+        "description": "WORK WITHOUT A PERMIT REMEDY; OBTAIN PERMITS OR RESTORE TO PRIOR LEGAL",
+        "issue_date": "20130623",
+        "disposition_comments": null
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3029180040-bsmt.json"
+}

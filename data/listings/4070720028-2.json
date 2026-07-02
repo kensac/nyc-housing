@@ -1,0 +1,132 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5086785",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/183_19-64-avenue-fresh_meadows/2",
+  "borough": "queens",
+  "neighborhood": "Fresh Meadows",
+  "address": "183-19 64th Avenue",
+  "unit": "2",
+  "zip": "11365",
+  "bbl": "4070720028",
+  "bin": "4152798",
+  "geocode_match": "183-19 64 AVENUE, Fresh Meadows, NY, USA",
+  "latitude": 40.738301,
+  "longitude": -73.789692,
+  "rent": 2450,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-29T19:57:04.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "HOUSE",
+  "status": "ACTIVE",
+  "available_date": "2026-06-29",
+  "transit": {
+    "nearest_station": "Jamaica-179 St",
+    "nearest_lines": [
+      "F"
+    ],
+    "nearest_distance_mi": 1.777,
+    "nearest_walk_min": 36,
+    "all_nearby_lines": [
+      "F"
+    ],
+    "stations": [
+      {
+        "station": "Jamaica-179 St",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 1.777,
+        "walk_min": 36
+      },
+      {
+        "station": "169 St",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 1.895,
+        "walk_min": 38
+      },
+      {
+        "station": "Parsons Blvd",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 2.215,
+        "walk_min": 44
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 1,
+      "ecb_active": 1,
+      "ecb_penalty_total": 250,
+      "ecb_balance_due": 0,
+      "dob_total": 1,
+      "dob_open": 1
+    },
+    "hpd": [],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34224525R",
+        "bin": "4152798",
+        "status": "ACTIVE",
+        "is_open": true,
+        "severity": "Non-Hazardous",
+        "violation_type": "Construction",
+        "description": "WORK WITHOUT A PERMIT. WORK NOTED CURB CUT AT APPROX LENGHT 9 FEET. ALSO NOTED AUTOMOBILE PARKED AT FRONT C897GR N.Y LICENSE PLATE. OBTAINA PERMIT OR RESTORE PREMISES TO PRIOR LEGAL CONDITION.",
+        "infraction_code": "B04",
+        "penalty_imposed": 250,
+        "amount_paid": 250,
+        "balance_due": 0,
+        "issue_date": "19990909",
+        "hearing_status": "STIPULATION/IN-VIO",
+        "respondent": "MARTINEZ MONICA"
+      }
+    ],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "C08AP02",
+        "bin": "4152798",
+        "category": "VW-VIOLATION WORK WITHOUT PERMIT - ACTIVE",
+        "is_open": true,
+        "violation_type": "C-CONSTRUCTION OTHER OPTIONAL",
+        "type_code": "C",
+        "description": null,
+        "issue_date": "19990909",
+        "disposition_comments": null
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4070720028-2.json"
+}

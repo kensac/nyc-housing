@@ -1,0 +1,124 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5083194",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/jamaica-central/205",
+  "borough": "queens",
+  "neighborhood": "Jamaica",
+  "address": "89-25 162nd Street",
+  "unit": "205",
+  "zip": "11432",
+  "bbl": "4097610030",
+  "bin": "4000000",
+  "geocode_match": "89-25 162 STREET, Jamaica, NY, USA",
+  "latitude": 40.70616,
+  "longitude": -73.79845,
+  "rent": 2350,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-25T04:40:15.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-07-01",
+  "transit": {
+    "nearest_station": "Parsons Blvd",
+    "nearest_lines": [
+      "F"
+    ],
+    "nearest_distance_mi": 0.239,
+    "nearest_walk_min": 5,
+    "all_nearby_lines": [
+      "F",
+      "E",
+      "J",
+      "Z"
+    ],
+    "stations": [
+      {
+        "station": "Parsons Blvd",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 0.239,
+        "walk_min": 5
+      },
+      {
+        "station": "Jamaica Center-Parsons/Archer",
+        "lines": [
+          "E",
+          "J",
+          "Z"
+        ],
+        "distance_mi": 0.242,
+        "walk_min": 5
+      },
+      {
+        "station": "169 St",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 0.32,
+        "walk_min": 6
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 1,
+      "hpd_open": 0,
+      "hpd_class_a": 1,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2026-05-11T00:00:00.000",
+      "ecb_total": 0,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "18925727",
+        "bbl": "4097610030",
+        "bin": "4208881",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2026-05-11T00:00:00.000",
+        "nov_issued_date": "2026-05-11T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2026-06-10T00:00:00.000"
+      }
+    ],
+    "ecb": [],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4097610030-205.json"
+}

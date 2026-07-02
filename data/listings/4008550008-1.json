@@ -1,0 +1,246 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5084879",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/22_65-27-street-astoria/1",
+  "borough": "queens",
+  "neighborhood": "Ditmars-Steinway",
+  "address": "22-65 27th Street",
+  "unit": "1",
+  "zip": "11105",
+  "bbl": "4008550008",
+  "bin": "4018164",
+  "geocode_match": "22-65 27 STREET, Astoria, NY, USA",
+  "latitude": 40.776365,
+  "longitude": -73.914543,
+  "rent": 2600,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-26T16:48:50.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1.5,
+  "sqft": null,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-06-26",
+  "transit": {
+    "nearest_station": "Astoria-Ditmars Blvd",
+    "nearest_lines": [
+      "N",
+      "W"
+    ],
+    "nearest_distance_mi": 0.152,
+    "nearest_walk_min": 3,
+    "all_nearby_lines": [
+      "N",
+      "W"
+    ],
+    "stations": [
+      {
+        "station": "Astoria-Ditmars Blvd",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.152,
+        "walk_min": 3
+      },
+      {
+        "station": "Astoria Blvd",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.394,
+        "walk_min": 8
+      },
+      {
+        "station": "30 Av",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.705,
+        "walk_min": 14
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 6,
+      "hpd_open": 0,
+      "hpd_class_a": 3,
+      "hpd_class_b": 1,
+      "hpd_class_c": 0,
+      "hpd_class_i": 2,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2026-05-06T00:00:00.000",
+      "ecb_total": 0,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 3,
+      "dob_open": 1
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "18890844",
+        "bbl": "4008550008",
+        "bin": "4018164",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2026-05-06T00:00:00.000",
+        "nov_issued_date": "2026-05-06T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2026-05-26T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "13398554",
+        "bbl": "4008550008",
+        "bin": "4018164",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2019-10-31T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2020-01-09T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "14977021",
+        "bbl": "4008550008",
+        "bin": "4018164",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2022-03-03T00:00:00.000",
+        "nov_issued_date": "2022-03-03T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2022-08-01T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "9796896",
+        "bbl": "4008550008",
+        "bin": "4018164",
+        "class": "B",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 27-2040 ADM CODE PROVIDE ADEQUATE LIGHTING AT OR NEAR THE OUTSIDE OF THE FRONT ENTRANCEWAY OF THE BUILDING AND KEEP SAME BURNING FROM SUNSET EVERY DAY TO SUNRISE ON THE DAY FOLLOWING 100 WATTS MINIMUM REQUIRED , LIGHT FIXTURE PRESENT",
+        "apartment": null,
+        "story": "0",
+        "inspection_date": "2013-04-03T00:00:00.000",
+        "nov_issued_date": "2013-04-09T00:00:00.000",
+        "current_status": "VIOLATION CLOSED",
+        "current_status_date": "2013-07-09T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "18001534",
+        "bbl": "4008550008",
+        "bin": "4018164",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2025-06-11T00:00:00.000",
+        "nov_issued_date": "2025-06-11T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2025-07-09T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "18431470",
+        "bbl": "4008550008",
+        "bin": "4018164",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2025-11-21T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2026-04-28T00:00:00.000"
+      }
+    ],
+    "ecb": [],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "11494",
+        "bin": "4018164",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "19930628",
+        "disposition_comments": "CANCELLED BOILER FILED ON TIME"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "22386",
+        "bin": "4018164",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "20090101",
+        "disposition_comments": "CIAJZZ CANCELLED REPORT SUBMITTED TIMELY"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "14978",
+        "bin": "4018164",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "LBLVIO-LOW PRESSURE BOILER BOILER REQUIRED",
+        "type_code": "LBLVIO",
+        "description": "VIOLATION ISSUED-FAILURE TO FILE 2023 EXTERNAL LOW PRESSURE INSPECTION",
+        "issue_date": "20240923",
+        "disposition_comments": null
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4008550008-1.json"
+}

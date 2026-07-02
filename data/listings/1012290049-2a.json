@@ -1,0 +1,240 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5084732",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/2270-broadway-new_york/2a",
+  "borough": "manhattan",
+  "neighborhood": "Upper West Side",
+  "address": "2270 Broadway",
+  "unit": "2A",
+  "zip": "10024",
+  "bbl": "1012290049",
+  "bin": "1032697",
+  "geocode_match": "2270 BROADWAY, New York, NY, USA",
+  "latitude": 40.785369,
+  "longitude": -73.978415,
+  "rent": 2900,
+  "net_effective_rent": 2658,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 1,
+  "lease_term_months": 12,
+  "price_delta": null,
+  "price_changed_at": "2026-06-26T15:00:25.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-07-01",
+  "transit": {
+    "nearest_station": "79 St",
+    "nearest_lines": [
+      "1"
+    ],
+    "nearest_distance_mi": 0.115,
+    "nearest_walk_min": 2,
+    "all_nearby_lines": [
+      "1",
+      "C",
+      "B"
+    ],
+    "stations": [
+      {
+        "station": "79 St",
+        "lines": [
+          "1"
+        ],
+        "distance_mi": 0.115,
+        "walk_min": 2
+      },
+      {
+        "station": "86 St",
+        "lines": [
+          "1"
+        ],
+        "distance_mi": 0.22,
+        "walk_min": 4
+      },
+      {
+        "station": "81 St-Museum of Natural History",
+        "lines": [
+          "C",
+          "B"
+        ],
+        "distance_mi": 0.407,
+        "walk_min": 8
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 4,
+      "hpd_open": 0,
+      "hpd_class_a": 1,
+      "hpd_class_b": 1,
+      "hpd_class_c": 1,
+      "hpd_class_i": 1,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2026-03-03T00:00:00.000",
+      "ecb_total": 1,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 4,
+      "dob_open": 2
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "11448523",
+        "bbl": "1012290049",
+        "bin": "1032697",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "SECTION27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE ?27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2016-10-24T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2016-11-03T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "14843964",
+        "bbl": "1012290049",
+        "bin": "1032697",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2022-02-15T00:00:00.000",
+        "nov_issued_date": "2022-02-15T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2022-03-28T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "18681824",
+        "bbl": "1012290049",
+        "bin": "1032697",
+        "class": "C",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 27-2005, 27-2007, 27-2041.1 HMC, §238, § 309; § 107 (2) ( C) MDL AND 28 RCNY §25-171: REPLACE OR REPAIR THE SELF-CLOSING DOORS THAT IS MISSING OR DEFECTIVE LATCH AT FIRE DOOR LEADING TO PUBLIC HALL STAIRS AT PUBLIC HALL, 2nd STORY",
+        "apartment": null,
+        "story": "2",
+        "inspection_date": "2026-03-03T00:00:00.000",
+        "nov_issued_date": "2026-03-04T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2026-06-01T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "18686717",
+        "bbl": "1012290049",
+        "bin": "1032697",
+        "class": "B",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 27-2005 HMC: PROPERLY REPAIR OR REPLACE THE BROKEN OR DEFECTIVE LATCH AT FIRE DOOR LEADING TO PUBLIC HALL STAIRS AT PUBLIC HALL, 2nd STORY",
+        "apartment": null,
+        "story": "2",
+        "inspection_date": "2026-03-03T00:00:00.000",
+        "nov_issued_date": "2026-03-04T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2026-06-01T00:00:00.000"
+      }
+    ],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34789538Y",
+        "bin": "1032697",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Construction",
+        "description": "FAILURE TO MAINTAIN BLDG IN CODE COMPLIANT MANNER. NOTED: THE PENETRATION OF WATER THROUGH BASEMENT FOUNDATION WALLS INTO PROPERTY 219 W 81ST (ADJ PROPERTY) CAUSING THE WATER TO ACCUMULATE. NOTED LOCATION BASEM",
+        "infraction_code": "102",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20090715",
+        "hearing_status": "DISMISSED",
+        "respondent": "2285 REALTY ASSOCIATES LL"
+      }
+    ],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "ST11P",
+        "bin": "1032697",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "ES-ELECTRIC SIGNS NONE",
+        "type_code": "ES",
+        "description": null,
+        "issue_date": "19920518",
+        "disposition_comments": null
+      },
+      {
+        "source": "DOB",
+        "violation_id": "ST12P",
+        "bin": "1032697",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "ES-ELECTRIC SIGNS NONE",
+        "type_code": "ES",
+        "description": null,
+        "issue_date": "19920518",
+        "disposition_comments": null
+      },
+      {
+        "source": "DOB",
+        "violation_id": "11354",
+        "bin": "1032697",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "19930318",
+        "disposition_comments": "VTUCIA CANCELLED, BOILER LOCATED AT 2272 BROADWAY. OP-49"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "03751",
+        "bin": "1032697",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "20000207",
+        "disposition_comments": "VTUCIA CANCELLED, BOILER LOCATED AT 2272 BROADWAY. OP-49"
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "1012290049-2a.json"
+}

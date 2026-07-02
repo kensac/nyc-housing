@@ -1,0 +1,119 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5064191",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/67_31-185-street-fresh_meadows/2",
+  "borough": "queens",
+  "neighborhood": "Fresh Meadows",
+  "address": "67-31 185th Street",
+  "unit": "2",
+  "zip": "11365",
+  "bbl": "4071150161",
+  "bin": "4533795",
+  "geocode_match": "67-31 185 STREET, Fresh Meadows, NY, USA",
+  "latitude": 40.735547,
+  "longitude": -73.786966,
+  "rent": 2200,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-05T16:47:25.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": 851,
+  "building_type": "TWOFAMILY",
+  "status": "ACTIVE",
+  "available_date": "2026-06-05",
+  "transit": {
+    "nearest_station": "Jamaica-179 St",
+    "nearest_lines": [
+      "F"
+    ],
+    "nearest_distance_mi": 1.564,
+    "nearest_walk_min": 31,
+    "all_nearby_lines": [
+      "F"
+    ],
+    "stations": [
+      {
+        "station": "Jamaica-179 St",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 1.564,
+        "walk_min": 31
+      },
+      {
+        "station": "169 St",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 1.724,
+        "walk_min": 34
+      },
+      {
+        "station": "Parsons Blvd",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 2.088,
+        "walk_min": 42
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 1,
+      "ecb_active": 0,
+      "ecb_penalty_total": 500,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34538661N",
+        "bin": "4533795",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Hazardous",
+        "violation_type": "Site Safety",
+        "description": "JOBSITE FENCE DEFECTIVE. NB IS IN PROGRESS AND UP TO THE ROOF. JOBSITEFENCE IN FRONT OF SITE NEAR SIDEWALK WAS DEFECTIVE AND NOT MAINTAINED PROPERLY. THE FENCE DOOR OPENS OUTWARDS AND BLOCKS THE PUBLIC SIDEWALK",
+        "infraction_code": "B3C",
+        "penalty_imposed": 500,
+        "amount_paid": 500,
+        "balance_due": 0,
+        "issue_date": "20060918",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "UNIVERSAL CONSTRUCTION &"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4071150161-2.json"
+}

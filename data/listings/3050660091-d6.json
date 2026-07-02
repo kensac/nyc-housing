@@ -1,0 +1,244 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5083984",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/219-lenox-road-brooklyn/d6",
+  "borough": "brooklyn",
+  "neighborhood": "Flatbush",
+  "address": "219 Lenox Road",
+  "unit": "D6",
+  "zip": "11226",
+  "bbl": "3050660091",
+  "bin": "3429008",
+  "geocode_match": "219 LENOX ROAD, Brooklyn, NY, USA",
+  "latitude": 40.65438,
+  "longitude": -73.95214,
+  "rent": 2999,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-25T19:16:42.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-07-01",
+  "transit": {
+    "nearest_station": "Winthrop St",
+    "nearest_lines": [
+      "2",
+      "5"
+    ],
+    "nearest_distance_mi": 0.155,
+    "nearest_walk_min": 3,
+    "all_nearby_lines": [
+      "2",
+      "5",
+      "Q"
+    ],
+    "stations": [
+      {
+        "station": "Winthrop St",
+        "lines": [
+          "2",
+          "5"
+        ],
+        "distance_mi": 0.155,
+        "walk_min": 3
+      },
+      {
+        "station": "Church Av",
+        "lines": [
+          "2",
+          "5"
+        ],
+        "distance_mi": 0.267,
+        "walk_min": 5
+      },
+      {
+        "station": "Parkside Av",
+        "lines": [
+          "Q"
+        ],
+        "distance_mi": 0.495,
+        "walk_min": 10
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 5,
+      "hpd_open": 2,
+      "hpd_class_a": 1,
+      "hpd_class_b": 2,
+      "hpd_class_c": 2,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 1,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2026-06-11T00:00:00.000",
+      "ecb_total": 3,
+      "ecb_active": 0,
+      "ecb_penalty_total": 3750,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "18999931",
+        "bbl": "3050660091",
+        "bin": "3429008",
+        "class": "A",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "§27-2104(B) HMC POST A PROPER NOTICE REGARDING RENT STABILIZATION LAW, IN A FORM APPROVED BY THE COMMISSIONER, IN A CONSPICUOUS LOCATION WITHIN THE COMMON AREA AT THE BUILDING\u001aS ENTRANCE. FOR MORE INFORMATION ABOUT SIGNAGE REQUIREMENTS, PLEASE VISIT: HTTPS://WWW.NYC.GOV/SITE/HPD/SERVICES-AND-INFORMATION/REQUIRED-SIGNAGE.PAGE",
+        "apartment": null,
+        "story": "1",
+        "inspection_date": "2026-06-11T00:00:00.000",
+        "nov_issued_date": "2026-06-12T00:00:00.000",
+        "current_status": "NOV CERTIFIED ON TIME",
+        "current_status_date": "2026-06-18T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "18999930",
+        "bbl": "3050660091",
+        "bin": "3429008",
+        "class": "C",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "HMC ADM CODE: § 27-2017.4 ABATE THE INFESTATION CONSISTING OF ROACHES IN THE ENTIRE APARTMENT LOCATED AT APT 4H, 4th STORY, 1st APARTMENT FROM WEST AT NORTH",
+        "apartment": "4H",
+        "story": "4",
+        "inspection_date": "2026-06-11T00:00:00.000",
+        "nov_issued_date": "2026-06-12T00:00:00.000",
+        "current_status": "NOTICE OF ISSUANCE SENT TO TENANT",
+        "current_status_date": "2026-06-12T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "17862982",
+        "bbl": "3050660091",
+        "bin": "3429008",
+        "class": "B",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 27-2045 ADM CODE REPAIR OR REPLACE THE SMOKE DETECTOR MISSING IN THE ENTIRE APARTMENT LOCATED AT APT 4E, 4th STORY, 1st APARTMENT FROM EAST AT SOUTH , SECTION AT NORTH",
+        "apartment": "4E",
+        "story": "4",
+        "inspection_date": "2025-05-01T00:00:00.000",
+        "nov_issued_date": "2025-05-08T00:00:00.000",
+        "current_status": "VIOLATION CLOSED",
+        "current_status_date": "2025-07-03T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "17862983",
+        "bbl": "3050660091",
+        "bin": "3429008",
+        "class": "C",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "HMC ADM CODE: § 27-2017.4 ABATE THE INFESTATION CONSISTING OF ROACHES IN THE ENTIRE APARTMENT LOCATED AT APT 4E, 4th STORY, 1st APARTMENT FROM EAST AT SOUTH , SECTION AT NORTH",
+        "apartment": "4E",
+        "story": "4",
+        "inspection_date": "2025-05-01T00:00:00.000",
+        "nov_issued_date": "2025-05-08T00:00:00.000",
+        "current_status": "VIOLATION CLOSED",
+        "current_status_date": "2025-07-03T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "17883104",
+        "bbl": "3050660091",
+        "bin": "3429008",
+        "class": "B",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 27-2046.1 HMC: REPAIR OR REPLACE THE CARBON MONOXIDE DETECTING DEVICE(S). MISSING IN THE ENTIRE APARTMENT LOCATED AT APT 4E, 4th STORY, 1st APARTMENT FROM EAST AT SOUTH , SECTION AT NORTH",
+        "apartment": "4E",
+        "story": "4",
+        "inspection_date": "2025-05-01T00:00:00.000",
+        "nov_issued_date": "2025-05-08T00:00:00.000",
+        "current_status": "VIOLATION CLOSED",
+        "current_status_date": "2025-07-03T00:00:00.000"
+      }
+    ],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "35663747N",
+        "bin": "3429008",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Construction",
+        "description": "WORK DOESNT CONFORM TO APPROVED CONST DOCS AS NOTED:ATOI@ACTIVE CONST SITE OBSERVED (A)WORKERS IN BULKHEAD ROOF W/NO HARNESS&W/O MEANS OF EGRESS (B)MISSING GUARDRAILS ON END OF BULKHEAD PLATFORM (1DIAGONAL LUMB",
+        "infraction_code": "182",
+        "penalty_imposed": 2500,
+        "amount_paid": 2501,
+        "balance_due": 0,
+        "issue_date": "20220701",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "ROGERS DEVELOPERS GRP LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35663748P",
+        "bin": "3429008",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Site Safety",
+        "description": "FAILURE TO MAINTAIN/DISPLAY ONSITE DOCS REQUIRED BY BCCH33.AS NOTED:ATOI@ACTIVE CONST SITE OBSERVED SUPPORTED SCF BEING ERECTED ON EXP4.OBSERVED (2)WORKERS WALKING ON (A)NOT FULLY PLANKED (B)NO GUARDRAILS (C)UN",
+        "infraction_code": "1F2",
+        "penalty_imposed": 1250,
+        "amount_paid": 1272,
+        "balance_due": 0,
+        "issue_date": "20220701",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "ROGERS DEVELOPERS GRP LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35647629M",
+        "bin": "3429008",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "WORK DOES NOT CONFORM TO APPROVED CONSTRUCTION DOCUMENTS AND/OR APPROVED AMENDMENTS.AT TIME OF INSPECTION AT AN ACTIVE CONSTRUCTION JOBSITE,I OBSERVED A STEEP SLOPE APPROX 15-20 DEGREES AND ABOUT 15FT DEEP AT E",
+        "infraction_code": "282",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20220323",
+        "hearing_status": "CURED/IN-VIO",
+        "respondent": "ROGERS DEVELOPERS GRP LLC"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3050660091-d6.json"
+}

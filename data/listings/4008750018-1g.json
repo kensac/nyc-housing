@@ -1,0 +1,124 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5068560",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/23_61-23-street-astoria/1g",
+  "borough": "queens",
+  "neighborhood": "Ditmars-Steinway",
+  "address": "23-61 23rd Street",
+  "unit": "1G",
+  "zip": "11105",
+  "bbl": "4008750018",
+  "bin": "4019245",
+  "geocode_match": "23-61 23 STREET, Astoria, NY, USA",
+  "latitude": 40.776551,
+  "longitude": -73.919412,
+  "rent": 2495,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-10T15:23:00.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": 800,
+  "building_type": "THREEFAMILY",
+  "status": "ACTIVE",
+  "available_date": "2026-08-01",
+  "transit": {
+    "nearest_station": "Astoria-Ditmars Blvd",
+    "nearest_lines": [
+      "N",
+      "W"
+    ],
+    "nearest_distance_mi": 0.386,
+    "nearest_walk_min": 8,
+    "all_nearby_lines": [
+      "N",
+      "W"
+    ],
+    "stations": [
+      {
+        "station": "Astoria-Ditmars Blvd",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.386,
+        "walk_min": 8
+      },
+      {
+        "station": "Astoria Blvd",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.395,
+        "walk_min": 8
+      },
+      {
+        "station": "30 Av",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.64,
+        "walk_min": 13
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 1,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34693686J",
+        "bin": "4019245",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 3",
+        "violation_type": "Construction",
+        "description": "WORK DOES NOT CONFORM TO APPROVED CONSTRUCTION DOCUMENTS AND OR APPROVED AMENDMENTS FOR ALT 2 JOB 410016584 OF WHICH PERMIT HAS EXP ON 4/1/08 NEW CONFORMING NOTED AT ROOF FOUND APPROX 100 SQFTSHED NOT ON PLAN",
+        "infraction_code": "382",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20080805",
+        "hearing_status": "CURED/IN-VIO",
+        "respondent": "DOMINIKA LATKOWSKA"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4008750018-1g.json"
+}

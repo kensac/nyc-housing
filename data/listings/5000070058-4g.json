@@ -1,0 +1,119 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5077411",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/waters-edge/4g",
+  "borough": "staten_island",
+  "neighborhood": "Saint George",
+  "address": "5 Stuyvesant Place",
+  "unit": "4G",
+  "zip": "10301",
+  "bbl": "5000070058",
+  "bin": "5000066",
+  "geocode_match": "105 STUYVESANT PLACE, Staten Island, NY, USA",
+  "latitude": 40.643709,
+  "longitude": -74.077267,
+  "rent": 2539,
+  "net_effective_rent": 2344,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 1,
+  "lease_term_months": 13,
+  "price_delta": null,
+  "price_changed_at": "2026-06-18T19:16:57.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-06-18",
+  "transit": {
+    "nearest_station": "St George",
+    "nearest_lines": [
+      "SIR"
+    ],
+    "nearest_distance_mi": 0.217,
+    "nearest_walk_min": 4,
+    "all_nearby_lines": [
+      "SIR"
+    ],
+    "stations": [
+      {
+        "station": "St George",
+        "lines": [
+          "SIR"
+        ],
+        "distance_mi": 0.217,
+        "walk_min": 4
+      },
+      {
+        "station": "Tompkinsville",
+        "lines": [
+          "SIR"
+        ],
+        "distance_mi": 0.434,
+        "walk_min": 9
+      },
+      {
+        "station": "Stapleton",
+        "lines": [
+          "SIR"
+        ],
+        "distance_mi": 1.049,
+        "walk_min": 21
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 1,
+      "ecb_active": 0,
+      "ecb_penalty_total": 400,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34210572M",
+        "bin": "5000066",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Non-Hazardous",
+        "violation_type": "Construction",
+        "description": "OCCUPANCY CONTRARY TO THAT ALLOWED BY BUILDING DEPT, RECORDS IN THAT 1ST FLOOR APARTMENT AT REAR CONVERTED TO 2 APARTMENTS AND 2ND FLOOR OFFICES AT FRONT CONVERTED TO 2 FULL APARTMENT (PLANS ATTACHED) REMEDY: D",
+        "infraction_code": "B03",
+        "penalty_imposed": 400,
+        "amount_paid": 400,
+        "balance_due": 0,
+        "issue_date": "20000202",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "CHONG CHAEYOM"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "5000070058-4g.json"
+}

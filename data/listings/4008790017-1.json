@@ -1,0 +1,141 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5073260",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/21_43-23-street-astoria/1",
+  "borough": "queens",
+  "neighborhood": "Ditmars-Steinway",
+  "address": "21-43 23rd Street",
+  "unit": "1",
+  "zip": "11105",
+  "bbl": "4008790017",
+  "bin": "4019568",
+  "geocode_match": "21-43 23 STREET, Astoria, NY, USA",
+  "latitude": 40.780597,
+  "longitude": -73.914517,
+  "rent": 2650,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-15T15:54:46.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "THREEFAMILY",
+  "status": "ACTIVE",
+  "available_date": "2026-06-15",
+  "transit": {
+    "nearest_station": "Astoria-Ditmars Blvd",
+    "nearest_lines": [
+      "N",
+      "W"
+    ],
+    "nearest_distance_mi": 0.396,
+    "nearest_walk_min": 8,
+    "all_nearby_lines": [
+      "N",
+      "W"
+    ],
+    "stations": [
+      {
+        "station": "Astoria-Ditmars Blvd",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.396,
+        "walk_min": 8
+      },
+      {
+        "station": "Astoria Blvd",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.675,
+        "walk_min": 14
+      },
+      {
+        "station": "30 Av",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.973,
+        "walk_min": 19
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 2,
+      "ecb_active": 0,
+      "ecb_penalty_total": 2800,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34127867M",
+        "bin": "4019568",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Hazardous",
+        "violation_type": "HPD",
+        "description": "OCCUPANCY CONTRARY TO THAT ALLOWED BY THE CERTIFICATE OF OCCUPANCY OR BUILDING DEPARTMENT RECORDS PREMISES BEING USED AT MULTE UNIT WITH SNGLE ROOM OCCUPANCY AT 2ND AND 3 STR WITH BASEMENT OCCUPIED AS CLASS \"A",
+        "infraction_code": "BH8",
+        "penalty_imposed": 800,
+        "amount_paid": 800,
+        "balance_due": 0,
+        "issue_date": "19960220",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "HERAS CRUZ"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "34127996Z",
+        "bin": "4019568",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Hazardous",
+        "violation_type": "HPD",
+        "description": "OCCUPANCY CONTRARY TO THAT ALLOWED BY THE CERTIFICAE OF OCCUPANCY OR BUILDING DEPARTMENT RECORDS. 1ST STORY CHANGED FROM STORAGE AND ORDINARY USE TO AN APRTMENT. PARTITIONS ERECTED AND KITCHEN AND BATH FACILITI",
+        "infraction_code": "BH8",
+        "penalty_imposed": 2000,
+        "amount_paid": 2000,
+        "balance_due": 0,
+        "issue_date": "19960612",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "HERAS CRUZ"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4008790017-1.json"
+}

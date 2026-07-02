@@ -1,0 +1,223 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5059477",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/459-keap-street-brooklyn/1",
+  "borough": "brooklyn",
+  "neighborhood": "Williamsburg",
+  "address": "459 Keap Street",
+  "unit": "1",
+  "zip": "11211",
+  "bbl": "3023740018",
+  "bin": "3321250",
+  "geocode_match": "459 KEAP STREET, Brooklyn, NY, USA",
+  "latitude": 40.712667,
+  "longitude": -73.952547,
+  "rent": 2350,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": -140,
+  "price_changed_at": "2026-06-19T13:54:48.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "MIXED_USE",
+  "status": "ACTIVE",
+  "available_date": "2026-06-02",
+  "transit": {
+    "nearest_station": "Metropolitan Av/Lorimer St",
+    "nearest_lines": [
+      "G",
+      "L"
+    ],
+    "nearest_distance_mi": 0.085,
+    "nearest_walk_min": 2,
+    "all_nearby_lines": [
+      "G",
+      "L",
+      "M",
+      "J"
+    ],
+    "stations": [
+      {
+        "station": "Metropolitan Av/Lorimer St",
+        "lines": [
+          "G",
+          "L"
+        ],
+        "distance_mi": 0.085,
+        "walk_min": 2
+      },
+      {
+        "station": "Bedford Av",
+        "lines": [
+          "L"
+        ],
+        "distance_mi": 0.355,
+        "walk_min": 7
+      },
+      {
+        "station": "Hewes St",
+        "lines": [
+          "M",
+          "J"
+        ],
+        "distance_mi": 0.385,
+        "walk_min": 8
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 6,
+      "hpd_open": 5,
+      "hpd_class_a": 0,
+      "hpd_class_b": 2,
+      "hpd_class_c": 3,
+      "hpd_class_i": 1,
+      "hpd_open_class_c": 2,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2022-12-02T00:00:00.000",
+      "ecb_total": 0,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 1,
+      "dob_open": 1
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "15581567",
+        "bbl": "3023740018",
+        "bin": "3321250",
+        "class": "C",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 27-2005 ADMIN. CODE: ABATE THE NUISANCE CONSISTING OF HOT WATER EXCEEDING THE LIMIT OF 130 DEGREES AT ALL FIXTURES IN THE ENTIRE APARTMENT LOCATED AT APT APT3, 3rd STORY, 1st APARTMENT FROM WEST AT NORTH",
+        "apartment": "APT3",
+        "story": "3",
+        "inspection_date": "2022-11-28T00:00:00.000",
+        "nov_issued_date": "2022-11-30T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2023-02-21T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "15589862",
+        "bbl": "3023740018",
+        "bin": "3321250",
+        "class": "C",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "§ 27-2005 ADM CODE & 309 M/D LAW ABATE THE NUISANCE CONSISTING OF HOT WATER EXCEEDING MAXIMUM ALLOWABLE TEMPERATURE OF 130 DEGREES IN THE ENTIRE APARTMENT LOCATED AT APT 3, 3rd STORY, 1st APARTMENT FROM WEST AT NORTH",
+        "apartment": "3",
+        "story": "3",
+        "inspection_date": "2022-12-02T00:00:00.000",
+        "nov_issued_date": "2022-12-05T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2022-12-05T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "14770683",
+        "bbl": "3023740018",
+        "bin": "3321250",
+        "class": "B",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "§ 27-2005 ADM CODE REPLACE WITH NEW THE BROKEN OR DEFECTIVE SHUT OF VALVE AT SOUTH WALL RADIATOR IN THE 1st ROOM FROM EAST LOCATED AT APT 2F, 2nd STORY",
+        "apartment": "2F",
+        "story": "2",
+        "inspection_date": "2022-01-09T00:00:00.000",
+        "nov_issued_date": "2022-01-13T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2022-01-13T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "15581568",
+        "bbl": "3023740018",
+        "bin": "3321250",
+        "class": "B",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "§ 27-2046.1 HMC: REPAIR OR REPLACE THE CARBON MONOXIDE DETECTING DEVICE(S). MISSING IN THE ENTIRE APARTMENT LOCATED AT APT APT3, 3rd STORY, 1st APARTMENT FROM WEST AT NORTH",
+        "apartment": "APT3",
+        "story": "3",
+        "inspection_date": "2022-11-28T00:00:00.000",
+        "nov_issued_date": "2022-11-30T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2022-11-30T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "15589861",
+        "bbl": "3023740018",
+        "bin": "3321250",
+        "class": "C",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "§ 27-2029 ADMIN. CODE: PROVIDE AN ADEQUATE SUPPLY OF HEAT FOR THE APARTMENT IN THE ENTIRE APARTMENT LOCATED AT APT 3, 3rd STORY, 1st APARTMENT FROM WEST AT NORTH",
+        "apartment": "3",
+        "story": "3",
+        "inspection_date": "2022-12-02T00:00:00.000",
+        "nov_issued_date": "2022-12-05T00:00:00.000",
+        "current_status": "INVALID CERTIFICATION",
+        "current_status_date": "2022-12-10T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "15592132",
+        "bbl": "3023740018",
+        "bin": "3321250",
+        "class": "I",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2022-11-30T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "INFO NOV SENT OUT",
+        "current_status_date": "2022-12-01T00:00:00.000"
+      }
+    ],
+    "ecb": [],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "0101DP",
+        "bin": "3321250",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "C-CONSTRUCTION OTHER OPTIONAL",
+        "type_code": "C",
+        "description": "FAILURE TO ADEQUATELY SUPPORT ADJOINING GROUND AFFECTED BY EXCAVATION NOTED:JOB #302169859NB AT SOUTH LOT SIDEWALK SLAB 65'L IS UNDERMINED APROX 15'D,15'H VOID OF SUPPORT SOIL CORRODED DUE TO LOW SHORING PILES & MISSING LAGGING. REMEDY:STOP ALL WORK,BACKFILL SOUTH PERIMETER WITH STABLE 45 DEGREE ANGLE OF REPOPSE,CONTACT THIS OFFICE @(718/802/3685)",
+        "issue_date": "20070712",
+        "disposition_comments": null
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3023740018-1.json"
+}

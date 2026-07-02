@@ -1,0 +1,142 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5089161",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/1629-brooklyn-avenue-brooklyn/2c",
+  "borough": "brooklyn",
+  "neighborhood": "Farragut",
+  "address": "1629 Brooklyn Avenue",
+  "unit": "2C",
+  "zip": "11210",
+  "bbl": "3075640026",
+  "bin": "3427373",
+  "geocode_match": "1629 BROOKLYN AVENUE, Brooklyn, NY, USA",
+  "latitude": 40.63333,
+  "longitude": -73.94158,
+  "rent": 2495,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-07-01T16:36:43.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "TWOFAMILY",
+  "status": "ACTIVE",
+  "available_date": "2026-08-01",
+  "transit": {
+    "nearest_station": "Flatbush Av-Brooklyn College",
+    "nearest_lines": [
+      "2",
+      "5"
+    ],
+    "nearest_distance_mi": 0.307,
+    "nearest_walk_min": 6,
+    "all_nearby_lines": [
+      "2",
+      "5"
+    ],
+    "stations": [
+      {
+        "station": "Flatbush Av-Brooklyn College",
+        "lines": [
+          "2",
+          "5"
+        ],
+        "distance_mi": 0.307,
+        "walk_min": 6
+      },
+      {
+        "station": "Newkirk Av-Little Haiti",
+        "lines": [
+          "2",
+          "5"
+        ],
+        "distance_mi": 0.572,
+        "walk_min": 11
+      },
+      {
+        "station": "Beverly Rd",
+        "lines": [
+          "2",
+          "5"
+        ],
+        "distance_mi": 0.892,
+        "walk_min": 18
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 1,
+      "hpd_open": 0,
+      "hpd_class_a": 1,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2024-04-18T00:00:00.000",
+      "ecb_total": 1,
+      "ecb_active": 0,
+      "ecb_penalty_total": 2500,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "16913990",
+        "bbl": "3075640026",
+        "bin": "3000000",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2024-04-18T00:00:00.000",
+        "nov_issued_date": "2024-04-18T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2024-04-22T00:00:00.000"
+      }
+    ],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "39517608N",
+        "bin": "3427373",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Unknown",
+        "description": "AT TIME OF INSPECTION, I OBSERVED CONSTRUCTION ACTIVITIES THROUGHOUT ALL FLOORS OF THE JOB SITE. UPON REVIEWING THE JOB SITE LOG BOOKS, I FURTHER OBSERVED THE JOB SITE WAS ACTIVE FROM 04/27/2023 TO DATE WITHOUT",
+        "infraction_code": "2G5",
+        "penalty_imposed": 2500,
+        "amount_paid": 2500,
+        "balance_due": 0,
+        "issue_date": "20230608",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "S & U MANAGEMENT INC"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3075640026-2c.json"
+}

@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5083074",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/55_20-myrtle-avenue-ridgewood/2a",
+  "borough": "queens",
+  "neighborhood": "Ridgewood",
+  "address": "55-20 Myrtle Avenue",
+  "unit": "2A",
+  "zip": "11385",
+  "bbl": "4035450046",
+  "bin": "4085414",
+  "geocode_match": "55-20 MYRTLE AVENUE, Ridgewood, NY, USA",
+  "latitude": 40.699783,
+  "longitude": -73.907706,
+  "rent": 2300,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": -200,
+  "price_changed_at": "2026-07-01T19:04:02.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "MIXED_USE",
+  "status": "ACTIVE",
+  "available_date": "2026-06-24",
+  "transit": {
+    "nearest_station": "Myrtle-Wyckoff Avs",
+    "nearest_lines": [
+      "M",
+      "L"
+    ],
+    "nearest_distance_mi": 0.158,
+    "nearest_walk_min": 3,
+    "all_nearby_lines": [
+      "M",
+      "L"
+    ],
+    "stations": [
+      {
+        "station": "Myrtle-Wyckoff Avs",
+        "lines": [
+          "M",
+          "L"
+        ],
+        "distance_mi": 0.158,
+        "walk_min": 3
+      },
+      {
+        "station": "Seneca Av",
+        "lines": [
+          "M"
+        ],
+        "distance_mi": 0.208,
+        "walk_min": 4
+      },
+      {
+        "station": "Halsey St",
+        "lines": [
+          "L"
+        ],
+        "distance_mi": 0.291,
+        "walk_min": 6
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 0,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 1,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "P051",
+        "bin": "4085414",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "P-PLUMBING NONE",
+        "type_code": "P",
+        "description": null,
+        "issue_date": "19890510",
+        "disposition_comments": "COM"
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4035450046-2a.json"
+}

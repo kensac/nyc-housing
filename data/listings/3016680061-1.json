@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5088955",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/689-macon-street-brooklyn/1",
+  "borough": "brooklyn",
+  "neighborhood": "Stuyvesant Heights",
+  "address": "689 Macon Street",
+  "unit": "1",
+  "zip": "11233",
+  "bbl": "3016680061",
+  "bin": "3046680",
+  "geocode_match": "689 MACON STREET, Brooklyn, NY, USA",
+  "latitude": 40.684239,
+  "longitude": -73.923809,
+  "rent": 3000,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-07-01T14:40:04.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "TWOFAMILY",
+  "status": "ACTIVE",
+  "available_date": "2026-07-01",
+  "transit": {
+    "nearest_station": "Ralph Av",
+    "nearest_lines": [
+      "C"
+    ],
+    "nearest_distance_mi": 0.365,
+    "nearest_walk_min": 7,
+    "all_nearby_lines": [
+      "C",
+      "J",
+      "Z"
+    ],
+    "stations": [
+      {
+        "station": "Ralph Av",
+        "lines": [
+          "C"
+        ],
+        "distance_mi": 0.365,
+        "walk_min": 7
+      },
+      {
+        "station": "Gates Av",
+        "lines": [
+          "J",
+          "Z"
+        ],
+        "distance_mi": 0.402,
+        "walk_min": 8
+      },
+      {
+        "station": "Halsey St",
+        "lines": [
+          "J"
+        ],
+        "distance_mi": 0.434,
+        "walk_min": 9
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 0,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 1,
+      "dob_open": 1
+    },
+    "hpd": [],
+    "ecb": [],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "0301RG",
+        "bin": "3046680",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "C-CONSTRUCTION OTHER OPTIONAL",
+        "type_code": "C",
+        "description": null,
+        "issue_date": "20060915",
+        "disposition_comments": null
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3016680061-1.json"
+}

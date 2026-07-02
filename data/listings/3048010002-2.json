@@ -1,0 +1,200 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5087126",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/1149-nostrand-avenue-brooklyn/2",
+  "borough": "brooklyn",
+  "neighborhood": "Prospect Lefferts Gardens",
+  "address": "1149 Nostrand Avenue",
+  "unit": "2",
+  "zip": "11225",
+  "bbl": "3048010002",
+  "bin": "3106900",
+  "geocode_match": "1149 NOSTRAND AVENUE, Brooklyn, NY, USA",
+  "latitude": 40.659595,
+  "longitude": -73.950232,
+  "rent": 2795,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-30T02:42:47.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "MIXED_USE",
+  "status": "ACTIVE",
+  "available_date": "2026-07-01",
+  "transit": {
+    "nearest_station": "Winthrop St",
+    "nearest_lines": [
+      "2",
+      "5"
+    ],
+    "nearest_distance_mi": 0.166,
+    "nearest_walk_min": 3,
+    "all_nearby_lines": [
+      "2",
+      "5"
+    ],
+    "stations": [
+      {
+        "station": "Winthrop St",
+        "lines": [
+          "2",
+          "5"
+        ],
+        "distance_mi": 0.166,
+        "walk_min": 3
+      },
+      {
+        "station": "Sterling St",
+        "lines": [
+          "2",
+          "5"
+        ],
+        "distance_mi": 0.252,
+        "walk_min": 5
+      },
+      {
+        "station": "President St-Medgar Evers College",
+        "lines": [
+          "2",
+          "5"
+        ],
+        "distance_mi": 0.592,
+        "walk_min": 12
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 4,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 2,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34445159P",
+        "bin": "3106900",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Hazardous",
+        "violation_type": "Quality of Life",
+        "description": "RESIDENCE ALTERED FOR OCCUPANCY AS A DWELLING FOR MORE THAN THE LEGALLY NUMBER OF FAMILIES NOTED : 2 FAMILY & COMMERICAL ILLEGAL CONVERTED TO 2 FAMILY W/ COMM & 8 SRO 4 SRO ON THE 1ST FLOOR & 4 SRO IN THE CELLA",
+        "infraction_code": "BQ5",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20040406",
+        "hearing_status": "DISMISSED",
+        "respondent": "PLUVIOSE EDNER  P"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "34445158N",
+        "bin": "3106900",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Hazardous",
+        "violation_type": "Quality of Life",
+        "description": "WORK W/O A PERMIT NOTED : CONSTRUCTION OF WOODEN FRAMED PARTITION AT REAR OF 1ST FLOOR & CELLAR THAT CREATED 8 SRO WALLS ARE CLAD W/ SHEETROCK & WOODEN PANNELLING BATHROOM CREATED ON EACH FLOOR W/ KITCHEN AREA",
+        "infraction_code": "BQ2",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20040406",
+        "hearing_status": "DISMISSED",
+        "respondent": "PLUVIOSE EDNER P"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35111191L",
+        "bin": "3106900",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "FAILURE TO MAINTAIN ADEQUATE HOUSEKEEPING PER SECTION REQUIREMENTS FORCONSTRUCTION SITE. NOED: EXCESSIVE CONSTRUCTION MATERIALS/DEBRIS STREWN AT REAR YARD. RMDY: REMOVE ALL DEBRIS AND MAINTAIN ADEQUATE HOUSEKPN",
+        "infraction_code": "212",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20141104",
+        "hearing_status": "CURED/IN-VIO",
+        "respondent": "GREENLINE DEVELOPERS LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35111192N",
+        "bin": "3106900",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "JOBSITE FENCE NOT CONSTRUCTED PURSUANT TO SUBSECTION (DEFECTIVE FENCE)NOTED: DOOR OPENING AT FRONT OF JOBSITE FENCE SWINGS OUTWARD ONTO PUB LIC WALKWAY ALSO,FENCE PROTECTION AT REAR OF SITE HAS BEEN REMOVED.NO",
+        "infraction_code": "211",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20141104",
+        "hearing_status": "CURED/IN-VIO",
+        "respondent": "GREENLINE DEVELOPERS LLC"
+      }
+    ],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "04074",
+        "bin": "3106900",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "EVCAT1-ELEVATOR ANNUAL INSPECTION / TEST ELEVATORREQUIRED",
+        "type_code": "EVCAT1",
+        "description": "VIOLATION ISSUED TO ELEVATOR-FAILURE TO FILE CATEGORY 1 2014 INSPECTION/TEST",
+        "issue_date": "20150610",
+        "disposition_comments": "CAT1 EA 1462/14 SIGN OFF 04/03/2015"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "9028/571035",
+        "bin": "3106900",
+        "category": "V*-DOB VIOLATION - Resolved",
+        "is_open": false,
+        "violation_type": "E-ELEVATOR ELEVATORREQUIRED",
+        "type_code": "E",
+        "description": null,
+        "issue_date": "20160412",
+        "disposition_comments": "PVT: RESOLVED BY SATISFACTORY CAT 1 INSPECTION"
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3048010002-2.json"
+}

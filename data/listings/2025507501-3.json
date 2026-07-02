@@ -1,0 +1,310 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5073268",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/582-east-138-street-bronx/3",
+  "borough": "bronx",
+  "neighborhood": "North New York",
+  "address": "582 East 138th Street",
+  "unit": "3",
+  "zip": "10454",
+  "bbl": "2025507501",
+  "bin": "2129612",
+  "geocode_match": "582 EAST 138 STREET, Bronx, NY, USA",
+  "latitude": 40.8063,
+  "longitude": -73.91697,
+  "rent": 2595,
+  "net_effective_rent": 2271,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 3,
+  "lease_term_months": 24,
+  "price_delta": null,
+  "price_changed_at": "2026-06-15T16:36:51.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-06-15",
+  "transit": {
+    "nearest_station": "Brook Av",
+    "nearest_lines": [
+      "6"
+    ],
+    "nearest_distance_mi": 0.136,
+    "nearest_walk_min": 3,
+    "all_nearby_lines": [
+      "6"
+    ],
+    "stations": [
+      {
+        "station": "Brook Av",
+        "lines": [
+          "6"
+        ],
+        "distance_mi": 0.136,
+        "walk_min": 3
+      },
+      {
+        "station": "Cypress Av",
+        "lines": [
+          "6"
+        ],
+        "distance_mi": 0.175,
+        "walk_min": 3
+      },
+      {
+        "station": "E 143 St-St Mary's St",
+        "lines": [
+          "6"
+        ],
+        "distance_mi": 0.481,
+        "walk_min": 10
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 2,
+      "hpd_open": 0,
+      "hpd_class_a": 2,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2025-06-16T00:00:00.000",
+      "ecb_total": 8,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 3,
+      "dob_open": 0
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "15902809",
+        "bbl": "2025507501",
+        "bin": "2129612",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2023-03-31T00:00:00.000",
+        "nov_issued_date": "2023-03-31T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2023-04-13T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "18041580",
+        "bbl": "2025507501",
+        "bin": "2129612",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2025-06-16T00:00:00.000",
+        "nov_issued_date": "2025-06-16T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2025-07-07T00:00:00.000"
+      }
+    ],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34957361H",
+        "bin": "2129612",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "VIOLATION OF PARKING REGULATIONS IN A RESIDENTIAL DISTRICT. NOTE: TWO 16-20' ISUZU COMMERCIAL BOX TRUCKS,BOTH WHITE W/NYS LIC PLATE #S 11688MB & 16424KA BEING STORED AT VACANT LOT W/CURB AT FRONT OF LOT PAINTED",
+        "infraction_code": "283",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20130414",
+        "hearing_status": "DISMISSED",
+        "respondent": "138 S&H REALTY CORP"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35647056Y",
+        "bin": "2129612",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Unknown",
+        "description": "WORK WITHOUT A PERMIT.I OBSERVED NEW INSTALLATION OF ELECTRICAL WORK BEING DONE IN THE COMMERCIAL SPACE WITHOUT A PERMIT.NEW INSTALLATION RUNS AT NEW WIRING ON THE CEILING AND INTO NEW PARTITION WALLS.APPROX 60",
+        "infraction_code": "1C9",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20230329",
+        "hearing_status": "DISMISSED",
+        "respondent": "138 SHOBRO LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "34972279Y",
+        "bin": "2129612",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Unknown",
+        "description": "FAILURE TO COMPLY W/THE COMMISSIONER'S ORDER TO FILE A C/C W/THE DOB FOR NOV #34957360X ISSUED ON 4.14.13 PURSUANT TO 28-204.4 & 1RCNY 102-01. REMEDY: FILE A C/C.",
+        "infraction_code": "263",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20130604",
+        "hearing_status": "DISMISSED",
+        "respondent": "138 S & H REALTY CORP"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35455788N",
+        "bin": "2129612",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Construction",
+        "description": "BC-3301.12.3 FAILURE TO MAINTAIN RECORD OF PRESHIFT SAFETY MEATING FOR EACH WORKER.AT TIME OF INSPECTION ON A ACTIVE JOBSITE OF A 5STORY NB I ASKED COMPETENT PERSON IF I COULD SEE RECORD OF PRESHIFT MEATING,HE",
+        "infraction_code": "106",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20191010",
+        "hearing_status": "DISMISSED",
+        "respondent": "BUILD UP RESTORATION LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "34957359Z",
+        "bin": "2129612",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Construction",
+        "description": "WORK W/O PERMIT. WORK NOTED: 1 STY SHED STRUCTURE APPROX 24'WIDE X 45'DEEP X 11'HIGH COMPOSED OF PLYWOOD SHEATHING FOR ROOF, 8 X 8 WOOD COLUMNS AT CENTRAL AXIS W/(8) 3'LONG FLUORESCENT BULB LIGHT FIXTURES AND",
+        "infraction_code": "101",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20130414",
+        "hearing_status": "DISMISSED",
+        "respondent": "138 S&H REALTY CORP"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35058187Z",
+        "bin": "2129612",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Unknown",
+        "description": "FAILURE TO COMPLY W/THE COMMISSIONER'S ORDER CONTAINED IN NOV #34957359Z ISSUED ON 4.14.13. NOTE: AT VACANT LOT 1 STY SHED APPROX 24' X 45' X 11 HIGH. REMEDY: COMPLY W/THE COMMISSIONER'S ORDER.",
+        "infraction_code": "187",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20130604",
+        "hearing_status": "DISMISSED",
+        "respondent": "138 S & H"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35492979Z",
+        "bin": "2129612",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "BC 3301.2 FAILURE TO MAINTAIN SAFETY MEASURES AND STANDARDS.AT THE TIME OF MY INSPECTION I OBSERVED MULTIPLE POTENTIALLY UNSAFE CONDITIONS THROUGHOUT THE JOB SITE:(1)MISSING TOEBOARDS AND ENDRAILS ON THE SUPPOR",
+        "infraction_code": "206",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20200630",
+        "hearing_status": "CURED/IN-VIO",
+        "respondent": "FOREVIEN CONTRACTING INC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "34957360X",
+        "bin": "2129612",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Construction",
+        "description": "OCCUPANCY CONTRARY TO THAT WHICH IS ALLOWED BY DOB RECORDS. NOTED: ILLEGAL STORAGE SHED ERECTED AND ILLEGAL STORAGE OF VEHICLES (COMMERCIAL TRUCKS). VACANT LOT BEING USED AS STORAGE & VEHICULAR GARAGE. CREATING",
+        "infraction_code": "103",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20130414",
+        "hearing_status": "DISMISSED",
+        "respondent": "138 S&H REALTY CORP"
+      }
+    ],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "01419",
+        "bin": "2129612",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "AEUHAZ1-FAIL TO CERTIFY CLASS 1 NONE",
+        "type_code": "AEUHAZ1",
+        "description": "FAILURE TO CERTIFY CORRECTION ON IMMEDIATELY HAZARDOUS (CLASS 1) ECB VIOLATION",
+        "issue_date": "20231004",
+        "disposition_comments": "000810 PAID INVOICE 90793326"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "00090",
+        "bin": "2129612",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "AEUHAZ1-FAIL TO CERTIFY CLASS 1 NONE",
+        "type_code": "AEUHAZ1",
+        "description": "FAILURE TO CERTIFY CORRECTION ON IMMEDIATELY HAZARDOUS (CLASS 1) ECB VIOLATION",
+        "issue_date": "20130703",
+        "disposition_comments": "ECB DISMISSED"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "00091",
+        "bin": "2129612",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "AEUHAZ1-FAIL TO CERTIFY CLASS 1 NONE",
+        "type_code": "AEUHAZ1",
+        "description": "FAILURE TO CERTIFY CORRECTION ON IMMEDIATELY HAZARDOUS (CLASS 1) ECB VIOLATION",
+        "issue_date": "20130703",
+        "disposition_comments": "ECB DISMISSED"
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "2025507501-3.json"
+}

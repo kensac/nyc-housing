@@ -1,0 +1,126 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5075412",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/25_20-47-street-astoria/1",
+  "borough": "queens",
+  "neighborhood": "Astoria",
+  "address": "25-20 47th Street",
+  "unit": "1",
+  "zip": "11103",
+  "bbl": "4007300053",
+  "bin": "4013467",
+  "geocode_match": "25-20 47 STREET, Astoria, NY, USA",
+  "latitude": 40.764877,
+  "longitude": -73.906797,
+  "rent": 2500,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-17T03:42:00.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "THREEFAMILY",
+  "status": "ACTIVE",
+  "available_date": "2026-06-16",
+  "transit": {
+    "nearest_station": "Astoria Blvd",
+    "nearest_lines": [
+      "N",
+      "W"
+    ],
+    "nearest_distance_mi": 0.673,
+    "nearest_walk_min": 13,
+    "all_nearby_lines": [
+      "N",
+      "W",
+      "M",
+      "R"
+    ],
+    "stations": [
+      {
+        "station": "Astoria Blvd",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.673,
+        "walk_min": 13
+      },
+      {
+        "station": "46 St",
+        "lines": [
+          "M",
+          "R"
+        ],
+        "distance_mi": 0.673,
+        "walk_min": 13
+      },
+      {
+        "station": "Astoria-Ditmars Blvd",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.741,
+        "walk_min": 15
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 1,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34086771J",
+        "bin": "4013467",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Non-Hazardous",
+        "violation_type": "Plumbing",
+        "description": "FAILURE TO MAINTAIN PLUMBING AND/OR APPURTENANCES - NON-HAZARDOUS. LEADERS COMING DOWN ON FRONT OF THE HOUSE NOT CONNECTED TO CITY SEWER. COSES SIDEWALK FLOADING. REMEDY: MANTAIN PLUMBING AND/OR APPURTENANC",
+        "infraction_code": "BA0",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "19930503",
+        "hearing_status": "CURED/IN-VIO",
+        "respondent": "DIGANGI, RUDOLPH & ANN"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4007300053-1.json"
+}

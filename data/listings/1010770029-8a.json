@@ -1,0 +1,125 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5069127",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/rialto-west/8a",
+  "borough": "manhattan",
+  "neighborhood": "Hell's Kitchen",
+  "address": "509 West 48th Street",
+  "unit": "8A",
+  "zip": "10036",
+  "bbl": "1010770029",
+  "bin": "1000000",
+  "geocode_match": "509 WEST 48 STREET, New York, NY, USA",
+  "latitude": 40.76406,
+  "longitude": -73.99318,
+  "rent": 2805,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-10T19:24:29.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": 361,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-09-01",
+  "transit": {
+    "nearest_station": "50 St",
+    "nearest_lines": [
+      "C",
+      "E"
+    ],
+    "nearest_distance_mi": 0.361,
+    "nearest_walk_min": 7,
+    "all_nearby_lines": [
+      "C",
+      "E",
+      "1",
+      "2",
+      "3",
+      "7",
+      "A",
+      "N",
+      "Q",
+      "R",
+      "W",
+      "S"
+    ],
+    "stations": [
+      {
+        "station": "50 St",
+        "lines": [
+          "C",
+          "E"
+        ],
+        "distance_mi": 0.361,
+        "walk_min": 7
+      },
+      {
+        "station": "Times Sq-42 St/Port Authority Bus Terminal",
+        "lines": [
+          "1",
+          "2",
+          "3",
+          "7",
+          "A",
+          "C",
+          "E",
+          "N",
+          "Q",
+          "R",
+          "W",
+          "S"
+        ],
+        "distance_mi": 0.43,
+        "walk_min": 9
+      },
+      {
+        "station": "50 St",
+        "lines": [
+          "1"
+        ],
+        "distance_mi": 0.489,
+        "walk_min": 10
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 0,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "1010770029-8a.json"
+}

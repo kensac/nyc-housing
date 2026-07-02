@@ -1,0 +1,114 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5074227",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/1052-president-street-brooklyn/8",
+  "borough": "brooklyn",
+  "neighborhood": "Crown Heights",
+  "address": "1052 President Street",
+  "unit": "8",
+  "zip": "11225",
+  "bbl": "3012800133",
+  "bin": "3033474",
+  "geocode_match": "1052 PRESIDENT STREET, Brooklyn, NY, USA",
+  "latitude": 40.668291,
+  "longitude": -73.956622,
+  "rent": 2750,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-16T12:17:10.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "HOUSE",
+  "status": "ACTIVE",
+  "available_date": "2026-06-16",
+  "transit": {
+    "nearest_station": "Franklin Av-Medgar Evers College/Botanic Garden",
+    "nearest_lines": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "S"
+    ],
+    "nearest_distance_mi": 0.159,
+    "nearest_walk_min": 3,
+    "all_nearby_lines": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "S"
+    ],
+    "stations": [
+      {
+        "station": "Franklin Av-Medgar Evers College/Botanic Garden",
+        "lines": [
+          "2",
+          "3",
+          "4",
+          "5",
+          "S"
+        ],
+        "distance_mi": 0.159,
+        "walk_min": 3
+      },
+      {
+        "station": "President St-Medgar Evers College",
+        "lines": [
+          "2",
+          "5"
+        ],
+        "distance_mi": 0.302,
+        "walk_min": 6
+      },
+      {
+        "station": "Nostrand Av",
+        "lines": [
+          "3"
+        ],
+        "distance_mi": 0.321,
+        "walk_min": 6
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 0,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3012800133-8.json"
+}

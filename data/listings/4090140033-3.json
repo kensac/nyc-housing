@@ -1,0 +1,189 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5087974",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/94_27-83-street-ozone_park/3",
+  "borough": "queens",
+  "neighborhood": "Woodhaven",
+  "address": "94-27 83rd Street",
+  "unit": "3",
+  "zip": "11416",
+  "bbl": "4090140033",
+  "bin": "4187246",
+  "geocode_match": "94-27 83 STREET, Ozone Park, NY, USA",
+  "latitude": 40.684709,
+  "longitude": -73.857573,
+  "rent": 3000,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-30T20:12:18.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "THREEFAMILY",
+  "status": "ACTIVE",
+  "available_date": "2026-06-30",
+  "transit": {
+    "nearest_station": "80 St",
+    "nearest_lines": [
+      "A"
+    ],
+    "nearest_distance_mi": 0.359,
+    "nearest_walk_min": 7,
+    "all_nearby_lines": [
+      "A",
+      "J"
+    ],
+    "stations": [
+      {
+        "station": "80 St",
+        "lines": [
+          "A"
+        ],
+        "distance_mi": 0.359,
+        "walk_min": 7
+      },
+      {
+        "station": "88 St",
+        "lines": [
+          "A"
+        ],
+        "distance_mi": 0.496,
+        "walk_min": 10
+      },
+      {
+        "station": "85 St-Forest Pkwy",
+        "lines": [
+          "J"
+        ],
+        "distance_mi": 0.534,
+        "walk_min": 11
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 3,
+      "hpd_open": 0,
+      "hpd_class_a": 1,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 2,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2024-12-05T00:00:00.000",
+      "ecb_total": 2,
+      "ecb_active": 0,
+      "ecb_penalty_total": 2000,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "10761521",
+        "bbl": "4090140033",
+        "bin": "4187246",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 27-2010, 2011, 2012 ADMIN. CODE: REMOVE THE ACCUMULATION OF REFUSE AND/OR RUBBISH AND MAINTAIN IN A CLEAN CONDITION THE FRONT YARD",
+        "apartment": null,
+        "story": "0",
+        "inspection_date": "2015-06-24T00:00:00.000",
+        "nov_issued_date": "2015-06-26T00:00:00.000",
+        "current_status": "VIOLATION CLOSED",
+        "current_status_date": "2022-07-01T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "16481780",
+        "bbl": "4090140033",
+        "bin": "4187246",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2023-11-29T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2025-01-23T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "17534232",
+        "bbl": "4090140033",
+        "bin": "4187246",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2024-12-05T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2025-01-23T00:00:00.000"
+      }
+    ],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "35076529Z",
+        "bin": "4187246",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Unknown",
+        "description": "RESIDENCE ALTER FOR OCCUP AS DWELLING FOR MORE THAN LEGALLY APPROVED #OF FAMS.CERT OF OCCUPANCY #Q182600 INDICATES PREM TO BE LEGALLY APPROVED FOR 2 FAMS(1ST FL:REC.RM & 1 CAR GARAGE,2ND FL:DWELLING,3RD FL:DWEL",
+        "infraction_code": "200",
+        "penalty_imposed": 1200,
+        "amount_paid": 1200,
+        "balance_due": 0,
+        "issue_date": "20140605",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "FRANCIS CHO"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35076528R",
+        "bin": "4187246",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Unknown",
+        "description": "WORK W/O A PERMIT.WORK NOTED:@ 1ST FL ERECTED FULL HEIGHT PARTITIONS FOR 1 ROOM & BATHROOM.INSTALLED WATER & WASTE LINE FOR A 3 PIECE BATHROOM(TOILET,SINK,TUB)& RESIDENTIAL SINK.INSTALLED 220 VOLT ELECT LINE WI",
+        "infraction_code": "201",
+        "penalty_imposed": 800,
+        "amount_paid": 800,
+        "balance_due": 0,
+        "issue_date": "20140605",
+        "hearing_status": "STIPULATION/IN-VIO",
+        "respondent": "FRANCIS CHO"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4090140033-3.json"
+}

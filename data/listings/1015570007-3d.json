@@ -1,0 +1,193 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5084761",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/307-east-94-street-new_york/3d",
+  "borough": "manhattan",
+  "neighborhood": "Yorkville",
+  "address": "307 East 94th Street",
+  "unit": "3D",
+  "zip": "10128",
+  "bbl": "1015570007",
+  "bin": "1050308",
+  "geocode_match": "307 EAST 94 STREET, New York, NY, USA",
+  "latitude": 40.782828,
+  "longitude": -73.947253,
+  "rent": 2750,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-26T15:24:08.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": 425,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-07-03",
+  "transit": {
+    "nearest_station": "96 St",
+    "nearest_lines": [
+      "Q"
+    ],
+    "nearest_distance_mi": 0.031,
+    "nearest_walk_min": 1,
+    "all_nearby_lines": [
+      "Q",
+      "6"
+    ],
+    "stations": [
+      {
+        "station": "96 St",
+        "lines": [
+          "Q"
+        ],
+        "distance_mi": 0.031,
+        "walk_min": 1
+      },
+      {
+        "station": "96 St",
+        "lines": [
+          "6"
+        ],
+        "distance_mi": 0.274,
+        "walk_min": 5
+      },
+      {
+        "station": "86 St",
+        "lines": [
+          "Q"
+        ],
+        "distance_mi": 0.407,
+        "walk_min": 8
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 1,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 1,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2025-11-17T00:00:00.000",
+      "ecb_total": 0,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 6,
+      "dob_open": 0
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "18385980",
+        "bbl": "1015570007",
+        "bin": "1050308",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2025-11-17T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2025-12-02T00:00:00.000"
+      }
+    ],
+    "ecb": [],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "13416",
+        "bin": "1050308",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "19930318",
+        "disposition_comments": "VTUCIA CANCELLED BLR LOCATED/HEATED BY 305 E.94OP-49 SUMMITTED."
+      },
+      {
+        "source": "DOB",
+        "violation_id": "13416",
+        "bin": "1050308",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "19940318",
+        "disposition_comments": "VTUCIA CANCELLED BOILER LOCATED/HEATED BY 305 E.94TH ST OP-49 SUMMITTED"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "09930",
+        "bin": "1050308",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "19950829",
+        "disposition_comments": "VTUCIA CANCELLED BLDG HEATED/LOCATED AT 305 E.94TH ST"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "06828",
+        "bin": "1050308",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "19970210",
+        "disposition_comments": "VTUCIA CANCELLED BLDG HEATED BY 305 E.94TH ST OP-49 SUMMITTED"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "185101",
+        "bin": "1050308",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "19970916",
+        "disposition_comments": "VTUCIA CANCELLED BLDG HEATED/LOCATED AT 305 E.94TH STREET/ OP-49"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "07617",
+        "bin": "1050308",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "19980504",
+        "disposition_comments": "VTUCIA CANCELLED BLDG HEATED/LOCATED AT 305 E.94TH OP-49"
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "1015570007-3d.json"
+}

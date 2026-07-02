@@ -1,0 +1,225 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5078382",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/503-evergreen-avenue-brooklyn/5c",
+  "borough": "brooklyn",
+  "neighborhood": "Bushwick",
+  "address": "503 Evergreen Avenue",
+  "unit": "5C",
+  "zip": "11221",
+  "bbl": "3033687505",
+  "bin": "3077003",
+  "geocode_match": "503 EVERGREEN AVENUE, Brooklyn, NY, USA",
+  "latitude": 40.690952,
+  "longitude": -73.91614,
+  "rent": 3195,
+  "net_effective_rent": 2949,
+  "gross_over_3000": true,
+  "no_fee": false,
+  "months_free": 1,
+  "lease_term_months": 13,
+  "price_delta": null,
+  "price_changed_at": "2026-06-19T18:07:36.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "CONDO",
+  "status": "ACTIVE",
+  "available_date": "2026-06-22",
+  "transit": {
+    "nearest_station": "Halsey St",
+    "nearest_lines": [
+      "J"
+    ],
+    "nearest_distance_mi": 0.344,
+    "nearest_walk_min": 7,
+    "all_nearby_lines": [
+      "J",
+      "Z",
+      "M"
+    ],
+    "stations": [
+      {
+        "station": "Halsey St",
+        "lines": [
+          "J"
+        ],
+        "distance_mi": 0.344,
+        "walk_min": 7
+      },
+      {
+        "station": "Gates Av",
+        "lines": [
+          "J",
+          "Z"
+        ],
+        "distance_mi": 0.366,
+        "walk_min": 7
+      },
+      {
+        "station": "Knickerbocker Av",
+        "lines": [
+          "M"
+        ],
+        "distance_mi": 0.552,
+        "walk_min": 11
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 3,
+      "hpd_open": 0,
+      "hpd_class_a": 2,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 1,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2025-06-16T00:00:00.000",
+      "ecb_total": 4,
+      "ecb_active": 0,
+      "ecb_penalty_total": 6025,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "16431754",
+        "bbl": "3033687505",
+        "bin": "3077003",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2023-11-21T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2024-05-01T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "16914094",
+        "bbl": "3033687505",
+        "bin": "3077003",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2024-04-18T00:00:00.000",
+        "nov_issued_date": "2024-04-18T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2024-07-29T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "18042244",
+        "bbl": "3033687505",
+        "bin": "3077003",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2025-06-16T00:00:00.000",
+        "nov_issued_date": "2025-06-16T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2026-04-02T00:00:00.000"
+      }
+    ],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "35421075H",
+        "bin": "3077003",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Construction",
+        "description": "FAILURE TO NOTIFY THE DEPARTMNET PRIOR TO TEH COMMENCEMENT OF EARTHWORK.AT TIME OF INSPECITON AT AN ACTIVE 4 STORY NEW BUILDING CONSTRUCTION SITE I OBSERVED EXCAVATION/EARTHWORK DONE UPON REQUEST FOR EARTHWORK",
+        "infraction_code": "111",
+        "penalty_imposed": 2500,
+        "amount_paid": 2500,
+        "balance_due": 0,
+        "issue_date": "20190517",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "BROOKLYN B COMPANY GROUP"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35464233Y",
+        "bin": "3077003",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Construction",
+        "description": "3314 INADEQUATE PIPE SCAFFOLD @TIME OF INSPECTION ON AN ACTIVE 4 STY NB CONSTRUCTION SITE NOTICE @THE ROOF WORKERS WORKING ON PIPE SCAFFOLD THAT WAS NOT MAINTAIN & AS PER CODE MISSING GUARD RAILS, HAND RAILS,",
+        "infraction_code": "106",
+        "penalty_imposed": 2500,
+        "amount_paid": 2570,
+        "balance_due": 0,
+        "issue_date": "20191126",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "BROOKLYN B COMPANY GROUP"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35440513M",
+        "bin": "3077003",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Construction",
+        "description": "3307.7 JOB-SITE FENCE NOT CONST OR MAINTAINED PURSUANT TO SUBSECTION NOTE: @THE LINE OF CONST INSPECTION I OBSERVED EXP 1, & 4 WITH NAIL PROTRUDING THROUGH TO CONST FENCE. HAZARDOUS CONDITIONS FOR PUBLIC",
+        "infraction_code": "106",
+        "penalty_imposed": 400,
+        "amount_paid": 400,
+        "balance_due": 0,
+        "issue_date": "20190722",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "BROOKLYN B COMPANY GROUP"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35492663M",
+        "bin": "3077003",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "BC3303.7.2 INADEQUATE FIRE EXTINGUISHERS.NOTED:ACTIVE JOB SITE 4 STORIES OBSERVED SEVERAL FIRE EXTINGUISHERS MISSING INSPECTION TAGS,& 1 OF THEM WAS NOT SERVICED & OUT OF CHARGE (INDICATES ARROW ON RED).REMEDY:",
+        "infraction_code": "206",
+        "penalty_imposed": 625,
+        "amount_paid": 625,
+        "balance_due": 0,
+        "issue_date": "20200626",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "BROOKLYN B COMPANY GROUP"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3033687505-5c.json"
+}

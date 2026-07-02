@@ -1,0 +1,126 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5086439",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/35_25-190-street-flushing/1",
+  "borough": "queens",
+  "neighborhood": "Murray Hill",
+  "address": "35-25 190th Street",
+  "unit": "1",
+  "zip": "11358",
+  "bbl": "4053050013",
+  "bin": "4119964",
+  "geocode_match": "35-25 190 STREET, Flushing, NY, USA",
+  "latitude": 40.763768,
+  "longitude": -73.791875,
+  "rent": 3000,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-29T16:33:20.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "FOURFAMILY",
+  "status": "ACTIVE",
+  "available_date": "2026-06-29",
+  "transit": {
+    "nearest_station": "Flushing-Main St",
+    "nearest_lines": [
+      "7"
+    ],
+    "nearest_distance_mi": 1.93,
+    "nearest_walk_min": 39,
+    "all_nearby_lines": [
+      "7"
+    ],
+    "stations": [
+      {
+        "station": "Flushing-Main St",
+        "lines": [
+          "7"
+        ],
+        "distance_mi": 1.93,
+        "walk_min": 39
+      },
+      {
+        "station": "Mets-Willets Point",
+        "lines": [
+          "7"
+        ],
+        "distance_mi": 2.877,
+        "walk_min": 58
+      },
+      {
+        "station": "111 St",
+        "lines": [
+          "7"
+        ],
+        "distance_mi": 3.442,
+        "walk_min": 69
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 0,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 2,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "34725",
+        "bin": "4119964",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "19980504",
+        "disposition_comments": "JMDCIA LESS THAN SIX UNITS C OF O SUBMITTED"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "28296",
+        "bin": "4119964",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "19990316",
+        "disposition_comments": "JMDCIA LESS THAN SIX UNITS C OF O SUBMITTED"
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4053050013-1.json"
+}

@@ -1,0 +1,139 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5072763",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/53-euclid-avenue-brooklyn/1",
+  "borough": "brooklyn",
+  "neighborhood": "Cypress Hills",
+  "address": "53 Euclid Avenue",
+  "unit": "1",
+  "zip": "11208",
+  "bbl": "3041050013",
+  "bin": "3090917",
+  "geocode_match": "53 EUCLID AVENUE, Brooklyn, NY, USA",
+  "latitude": 40.687417,
+  "longitude": -73.874929,
+  "rent": 2500,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-14T20:11:54.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": 800,
+  "building_type": "TWOFAMILY",
+  "status": "ACTIVE",
+  "available_date": "2026-08-01",
+  "transit": {
+    "nearest_station": "Cypress Hills",
+    "nearest_lines": [
+      "J"
+    ],
+    "nearest_distance_mi": 0.162,
+    "nearest_walk_min": 3,
+    "all_nearby_lines": [
+      "J",
+      "Z"
+    ],
+    "stations": [
+      {
+        "station": "Cypress Hills",
+        "lines": [
+          "J"
+        ],
+        "distance_mi": 0.162,
+        "walk_min": 3
+      },
+      {
+        "station": "Crescent St",
+        "lines": [
+          "J",
+          "Z"
+        ],
+        "distance_mi": 0.289,
+        "walk_min": 6
+      },
+      {
+        "station": "Norwood Av",
+        "lines": [
+          "J",
+          "Z"
+        ],
+        "distance_mi": 0.444,
+        "walk_min": 9
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 2,
+      "ecb_active": 0,
+      "ecb_penalty_total": 350,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34147558R",
+        "bin": "3090917",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Non-Hazardous",
+        "violation_type": "Construction",
+        "description": "WORK WITHOUT A PERMIT. WORK NOTED: ENTIRE REAR YARD PAVED WITH MASONRY REMEDY:OBTAIN A PERMIT IF FEASIBLE OR RESTORE THE PREMISES TO PRIOR LEGAL CONDITION.",
+        "infraction_code": "B04",
+        "penalty_imposed": 350,
+        "amount_paid": 350,
+        "balance_due": 0,
+        "issue_date": "19960924",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "AHILIA GOPAUL"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "34156819K",
+        "bin": "3090917",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Non-Hazardous",
+        "violation_type": "Construction",
+        "description": "OCCUPANCY CONTRARY TO THAT ALLOWED BY THE BUILDING DEPT RECORD: PERMIT#300622299 (ALT 3 FILING-SIGNED OFF 4/11/97). FROM CONCRETE PAVED REARYARD. TO: PARKING FLOOR 1 SILVER NASSAN MAXIMA AT REAR YARD. REMEDY:",
+        "infraction_code": "B03",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "19970610",
+        "hearing_status": "CURED/IN-VIO",
+        "respondent": "GOPAUL AHILIA"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3041050013-1.json"
+}

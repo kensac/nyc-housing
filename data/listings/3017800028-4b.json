@@ -1,0 +1,170 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5082636",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/730-de-kalb-avenue-brooklyn/4b",
+  "borough": "brooklyn",
+  "neighborhood": "Bedford-Stuyvesant",
+  "address": "730 Dekalb Avenue",
+  "unit": "4B",
+  "zip": "11216",
+  "bbl": "3017800028",
+  "bin": "3350452",
+  "geocode_match": "730 DEKALB AVENUE, Brooklyn, NY, USA",
+  "latitude": 40.691674,
+  "longitude": -73.946845,
+  "rent": 2600,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-24T18:25:02.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "TWOFAMILY",
+  "status": "ACTIVE",
+  "available_date": "2026-06-24",
+  "transit": {
+    "nearest_station": "Bedford-Nostrand Avs",
+    "nearest_lines": [
+      "G"
+    ],
+    "nearest_distance_mi": 0.276,
+    "nearest_walk_min": 6,
+    "all_nearby_lines": [
+      "G"
+    ],
+    "stations": [
+      {
+        "station": "Bedford-Nostrand Avs",
+        "lines": [
+          "G"
+        ],
+        "distance_mi": 0.276,
+        "walk_min": 6
+      },
+      {
+        "station": "Myrtle-Willoughby Avs",
+        "lines": [
+          "G"
+        ],
+        "distance_mi": 0.288,
+        "walk_min": 6
+      },
+      {
+        "station": "Flushing Av",
+        "lines": [
+          "G"
+        ],
+        "distance_mi": 0.573,
+        "walk_min": 11
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 4,
+      "hpd_open": 4,
+      "hpd_class_a": 0,
+      "hpd_class_b": 3,
+      "hpd_class_c": 1,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 1,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2019-11-25T00:00:00.000",
+      "ecb_total": 0,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "11802524",
+        "bbl": "3017800028",
+        "bin": "3350452",
+        "class": "B",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "§ 27-2005 ADMIN. CODE: REPLACE WITH NEW THE BROKEN OR DEFECTIVE COUNTER BALANCE AT LOWER SASH AT WINDOW IN THE ENTIRE APARTMENT LOCATED AT APT APT1, 1st STORY, 1st APARTMENT FROM EAST AT SOUTH",
+        "apartment": "APT1",
+        "story": "1",
+        "inspection_date": "2017-05-28T00:00:00.000",
+        "nov_issued_date": "2017-05-31T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2017-05-31T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "11802530",
+        "bbl": "3017800028",
+        "bin": "3350452",
+        "class": "B",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "§ 27-2005,2007 ADMON. CODE: FIRE EGRESS DEFECTIVE. REMOVE OBSTRUCTING BARS OR GATES FROM AT LEAST 1 WINDOW. PADLOCK IN THE ENTIRE APARTMENT LOCATED AT APT APT1, 1st STORY, 1st APARTMENT FROM EAST AT SOUTH",
+        "apartment": "APT1",
+        "story": "1",
+        "inspection_date": "2017-05-28T00:00:00.000",
+        "nov_issued_date": "2017-05-31T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2017-05-31T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "11802969",
+        "bbl": "3017800028",
+        "bin": "3350452",
+        "class": "B",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "§ 27-2005 ADMIN. CODE: REMOVE THE ILLEGAL FASTENING DOUBLE CYLINDER KEY OPERATED LOCK INSTALLED ON WROUGHT IRON DOOR AT PUBLIC HALL, 1st STORY",
+        "apartment": null,
+        "story": "1",
+        "inspection_date": "2017-05-29T00:00:00.000",
+        "nov_issued_date": "2017-05-31T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2017-05-31T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "13470042",
+        "bbl": "3017800028",
+        "bin": "3350452",
+        "class": "C",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "§ 27-2005 ADMIN. CODE: REMOVE THE ILLEGAL FASTENING HASP AND CATCH INSTALLED AT WROUGHT IRON GATE YARD",
+        "apartment": null,
+        "story": "0",
+        "inspection_date": "2019-11-25T00:00:00.000",
+        "nov_issued_date": "2019-12-02T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2019-12-02T00:00:00.000"
+      }
+    ],
+    "ecb": [],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3017800028-4b.json"
+}

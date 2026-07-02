@@ -1,0 +1,330 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5055243",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/22_77-steinway-street-astoria/a",
+  "borough": "queens",
+  "neighborhood": "Ditmars-Steinway",
+  "address": "22-77 Steinway Street",
+  "unit": "A",
+  "zip": "11105",
+  "bbl": "4007950002",
+  "bin": "4015366",
+  "geocode_match": "22-77 STEINWAY STREET, Astoria, NY, USA",
+  "latitude": 40.771116,
+  "longitude": -73.907848,
+  "rent": 2599,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-05-28T18:33:47.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-05-28",
+  "transit": {
+    "nearest_station": "Astoria-Ditmars Blvd",
+    "nearest_lines": [
+      "N",
+      "W"
+    ],
+    "nearest_distance_mi": 0.34,
+    "nearest_walk_min": 7,
+    "all_nearby_lines": [
+      "N",
+      "W"
+    ],
+    "stations": [
+      {
+        "station": "Astoria-Ditmars Blvd",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.34,
+        "walk_min": 7
+      },
+      {
+        "station": "Astoria Blvd",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.476,
+        "walk_min": 10
+      },
+      {
+        "station": "30 Av",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.73,
+        "walk_min": 15
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 6,
+      "hpd_open": 1,
+      "hpd_class_a": 2,
+      "hpd_class_b": 1,
+      "hpd_class_c": 1,
+      "hpd_class_i": 2,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2023-09-21T00:00:00.000",
+      "ecb_total": 0,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 10,
+      "dob_open": 2
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "16249376",
+        "bbl": "4007950002",
+        "bin": "4015366",
+        "class": "C",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 27-2005, 27-2007, 27-2041.1 HMC, §238, § 309; § 107 (2) ( C) MDL AND 28 RCNY §25-171: REPLACE OR REPAIR THE SELF-CLOSING DOORS THAT IS MISSING OR DEFECTIVE THE STREET ENTRANCE DOOR TO BUILDING , 1st STORY",
+        "apartment": null,
+        "story": "1",
+        "inspection_date": "2023-09-21T00:00:00.000",
+        "nov_issued_date": "2023-09-25T00:00:00.000",
+        "current_status": "VIOLATION CLOSED",
+        "current_status_date": "2023-10-08T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "10956958",
+        "bbl": "4007950002",
+        "bin": "4015366",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "SECTION27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE ?27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2015-10-16T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2015-11-05T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "11532125",
+        "bbl": "4007950002",
+        "bin": "4015366",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2016-11-22T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2017-02-17T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "14255938",
+        "bbl": "4007950002",
+        "bin": "4015366",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2021-04-16T00:00:00.000",
+        "nov_issued_date": "2021-04-16T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2021-07-12T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "15009831",
+        "bbl": "4007950002",
+        "bin": "4015366",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2022-03-08T00:00:00.000",
+        "nov_issued_date": "2022-03-08T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2022-12-12T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "316056",
+        "bbl": "4007950002",
+        "bin": "4015366",
+        "class": "B",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "D26-19.07 ADM CODE PROVIDE ADEQUATE LIGHTING AT OR NEAR THE OUTSIDE OF THE FRONT ENTRANCEWAY OF THE BUILDING AND KEEP SAME BURNING FROM SUNSET EVERY DAY TO SUNRISE ON THE DAY FOLLOWING 100 WATTS INCANDESCENT OR EQUIVALENT.",
+        "apartment": null,
+        "story": "0",
+        "inspection_date": "1985-08-13T00:00:00.000",
+        "nov_issued_date": "2008-06-10T00:00:00.000",
+        "current_status": "NOT COMPLIED WITH",
+        "current_status_date": "2008-07-11T00:00:00.000"
+      }
+    ],
+    "ecb": [],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "18407",
+        "bin": "4015366",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "19930628",
+        "disposition_comments": "TCOCIA CANCELLED,RECD NEW OWNER AFFIDAVIT/DEED 8/20/04 CRFN#2004000615133"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "08773",
+        "bin": "4015366",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "19940607",
+        "disposition_comments": "TCOCIA CANCELLED,RECD NEW OWNER AFFIDAVIT/DEED 8/20/04 CRFN#2004000615133"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "25724",
+        "bin": "4015366",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "20010227",
+        "disposition_comments": "TCOCIA CANCELLED,RECD NEW OWNER AFFIDAVIT/DEED 8/20/04 CRFN#2004000615133"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "28256",
+        "bin": "4015366",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "20040213",
+        "disposition_comments": "TCOCIA CANCELLED,RECD NEW OWNER AFFIDAVIT/DEED 8/20/04 CRFN#2004000615133"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "23079",
+        "bin": "4015366",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "20080103",
+        "disposition_comments": "IRICIA DISMISSED REDUCED PENALTY PAID $50 INV# 60814106 CK# 6816221426"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "26050",
+        "bin": "4015366",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "20090101",
+        "disposition_comments": "MLS810 DISMISSED REDUCED PENALTY PD $50 INV# 60820879 CC# 6820168837"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "23041",
+        "bin": "4015366",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "20090101",
+        "disposition_comments": "RRECIA DISMISSED REDUCED PENALTY PAID $50 INV#60814100 MO#6816221448"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "18059",
+        "bin": "4015366",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "LBLVIO-LOW PRESSURE BOILER BOILER REQUIRED",
+        "type_code": "LBLVIO",
+        "description": "VIOLATION ISSUED FOR FAILURE TO FILE ANNUAL BOILER 2010 INSPECTION REPORT",
+        "issue_date": "20111213",
+        "disposition_comments": null
+      },
+      {
+        "source": "DOB",
+        "violation_id": "18060",
+        "bin": "4015366",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "LBLVIO-LOW PRESSURE BOILER BOILER REQUIRED",
+        "type_code": "LBLVIO",
+        "description": "VIOLATION ISSUED FOR FAILURE TO FILE ANNUAL BOILER 2010 INSPECTION REPORT",
+        "issue_date": "20111213",
+        "disposition_comments": null
+      },
+      {
+        "source": "DOB",
+        "violation_id": "12609",
+        "bin": "4015366",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LBLVIO-LOW PRESSURE BOILER BOILER REQUIRED",
+        "type_code": "LBLVIO",
+        "description": "VIOLATION ISSUED FOR FAILURE TO FILE ANNUAL BOILER 2014 INSPECTION REPORT",
+        "issue_date": "20151001",
+        "disposition_comments": "CIAGVN CANCELLED, 2014 INSPECTION FILED TIMELY"
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4007950002-a.json"
+}

@@ -1,0 +1,124 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5083002",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/99_46-62-drive-rego_park/2",
+  "borough": "queens",
+  "neighborhood": "Rego Park",
+  "address": "99-46 62nd Drive",
+  "unit": "2",
+  "zip": "11374",
+  "bbl": "4021090031",
+  "bin": "4050611",
+  "geocode_match": "99-46 62 DRIVE, Rego Park, NY, USA",
+  "latitude": 40.733989,
+  "longitude": -73.855905,
+  "rent": 2700,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-24T22:01:50.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "HOUSE",
+  "status": "ACTIVE",
+  "available_date": "2026-07-15",
+  "transit": {
+    "nearest_station": "63 Dr-Rego Park",
+    "nearest_lines": [
+      "M",
+      "R"
+    ],
+    "nearest_distance_mi": 0.376,
+    "nearest_walk_min": 8,
+    "all_nearby_lines": [
+      "M",
+      "R"
+    ],
+    "stations": [
+      {
+        "station": "63 Dr-Rego Park",
+        "lines": [
+          "M",
+          "R"
+        ],
+        "distance_mi": 0.376,
+        "walk_min": 8
+      },
+      {
+        "station": "67 Av",
+        "lines": [
+          "M",
+          "R"
+        ],
+        "distance_mi": 0.497,
+        "walk_min": 10
+      },
+      {
+        "station": "Woodhaven Blvd",
+        "lines": [
+          "M",
+          "R"
+        ],
+        "distance_mi": 0.667,
+        "walk_min": 13
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 1,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34447063J",
+        "bin": "4050611",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Non-Hazardous",
+        "violation_type": "Construction",
+        "description": "WORK WITHOUT A PERMIT WORK NOTED: AT CELLAR LEVEL ERECTED FULL HEIGHT PARTITION ALSO NOTED 3PC BATHROOM SHOWER. NOTED: AT REAR YARD GARAGE ADD 2 STORY 15 X 16 WITH WINDOWS (NO PERMITS NO JOB FILLINGS O) REMEDY:",
+        "infraction_code": "B04",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20040810",
+        "hearing_status": "DISMISSED",
+        "respondent": "MORDUKHAYEV DAVID"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4021090031-2.json"
+}

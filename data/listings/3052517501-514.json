@@ -1,0 +1,195 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5082157",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/the-junction/514",
+  "borough": "brooklyn",
+  "neighborhood": "Flatbush",
+  "address": "1457 Flatbush Avenue",
+  "unit": "514",
+  "zip": "11210",
+  "bbl": "3052517501",
+  "bin": "3427317",
+  "geocode_match": "1457 FLATBUSH AVENUE, Brooklyn, NY, USA",
+  "latitude": 40.63486,
+  "longitude": -73.94939,
+  "rent": 2800,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-24T13:28:08.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-08-01",
+  "transit": {
+    "nearest_station": "Flatbush Av-Brooklyn College",
+    "nearest_lines": [
+      "2",
+      "5"
+    ],
+    "nearest_distance_mi": 0.133,
+    "nearest_walk_min": 3,
+    "all_nearby_lines": [
+      "2",
+      "5",
+      "B",
+      "Q"
+    ],
+    "stations": [
+      {
+        "station": "Flatbush Av-Brooklyn College",
+        "lines": [
+          "2",
+          "5"
+        ],
+        "distance_mi": 0.133,
+        "walk_min": 3
+      },
+      {
+        "station": "Newkirk Av-Little Haiti",
+        "lines": [
+          "2",
+          "5"
+        ],
+        "distance_mi": 0.35,
+        "walk_min": 7
+      },
+      {
+        "station": "Newkirk Plaza",
+        "lines": [
+          "B",
+          "Q"
+        ],
+        "distance_mi": 0.7,
+        "walk_min": 14
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 2,
+      "hpd_open": 1,
+      "hpd_class_a": 1,
+      "hpd_class_b": 0,
+      "hpd_class_c": 1,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2026-05-05T00:00:00.000",
+      "ecb_total": 3,
+      "ecb_active": 0,
+      "ecb_penalty_total": 2500,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "18853115",
+        "bbl": "3052517501",
+        "bin": "3427317",
+        "class": "A",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "§ 329, M/D LAW AND DEPT. RULES AND REGS. PROVIDE A COMPLETED CERTIFICATE OF INSPECTION VISITS IN A PROPER FRAME AT OR NEAR MAILBOXES, BOTTOM EDGE OF FRAME BETWEEN 48-62 INCHES ABOVE FLOOR MISSING AT PUBLIC HALL, 1st STORY",
+        "apartment": null,
+        "story": "1",
+        "inspection_date": "2026-05-05T00:00:00.000",
+        "nov_issued_date": "2026-05-07T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2026-05-07T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "18316226",
+        "bbl": "3052517501",
+        "bin": "3427317",
+        "class": "C",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 27-2037, 2038 HMC: PROVIDE A SAFE AND ADEQUATE SUPPLY OF ELECTRIC SERVICE TO THE FIXTURES AT CEILING AND OUTLETS IN THE ENTIRE APARTMENT LOCATED AT APT 311, 3rd STORY, 4th APARTMENT FROM NORTH AT EAST , SECTION ''SOUTH''",
+        "apartment": "311",
+        "story": "3",
+        "inspection_date": "2025-10-22T00:00:00.000",
+        "nov_issued_date": "2025-10-23T00:00:00.000",
+        "current_status": "VIOLATION CLOSED",
+        "current_status_date": "2025-11-20T00:00:00.000"
+      }
+    ],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "35663611Y",
+        "bin": "3427317",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Construction",
+        "description": "BC 3309.14 PROTECTION OF WINDOWS MISSING AS NOTED:AT TIME OF INSPECTION AT AN ACTIVE CONSTRUCTION SITE,OBSERVED WORK BEING DONE ON SECOND FLOOR AT EXPOSURE#3.THIS WORK IS BOTH HIGHER THAN THE CONSTRUCTION FENCE",
+        "infraction_code": "106",
+        "penalty_imposed": 2500,
+        "amount_paid": 2500,
+        "balance_due": 0,
+        "issue_date": "20220603",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "FOLXCO LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35663610M",
+        "bin": "3427317",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "FAILURE TO MAINTAIN/DISPLAY ONSITE DOCUMENTS REQUIRED BY BC CHAPTER 33AS NOTED:AT TIME OF INSPECTION AT AN CONSTRUCTION SITE OBSERVED FIRST FLOOR SLAB PLACED AGAINST ADJACENT PROPERTY'S WALL ON EXPOSURE#4.OBSER",
+        "infraction_code": "2F7",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20220603",
+        "hearing_status": "CURED/IN-VIO",
+        "respondent": "FOLXCO LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39505545R",
+        "bin": "3427317",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "OBSERVED: SIDE WALK SHED INSTALED ON EXPOSURE 4., UPON INSPECTION WAS NOTED IT HAS BEEN USED AS STORAGE AREA OF SUPPORTED SCAFFOLD PARTS AND EQUIPMENT , WHEN I REQUEST FOR PERMIT TO USE IT LIKE STORAGE AREA NON",
+        "infraction_code": "223",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20220824",
+        "hearing_status": "DISMISSED",
+        "respondent": "LLC FOLXCO"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3052517501-514.json"
+}

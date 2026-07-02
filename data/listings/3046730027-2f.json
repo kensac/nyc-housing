@@ -1,0 +1,175 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5077575",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/388-east-48-street-brooklyn/2f",
+  "borough": "brooklyn",
+  "neighborhood": "East Flatbush",
+  "address": "388 East 48th Street",
+  "unit": "2F",
+  "zip": "11203",
+  "bbl": "3046730027",
+  "bin": "3102009",
+  "geocode_match": "388 EAST 48 STREET, Brooklyn, NY, USA",
+  "latitude": 40.652439,
+  "longitude": -73.932644,
+  "rent": 1995,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-18T20:48:06.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "TWOFAMILY",
+  "status": "ACTIVE",
+  "available_date": "2026-07-01",
+  "transit": {
+    "nearest_station": "Church Av",
+    "nearest_lines": [
+      "2",
+      "5"
+    ],
+    "nearest_distance_mi": 0.885,
+    "nearest_walk_min": 18,
+    "all_nearby_lines": [
+      "2",
+      "5"
+    ],
+    "stations": [
+      {
+        "station": "Church Av",
+        "lines": [
+          "2",
+          "5"
+        ],
+        "distance_mi": 0.885,
+        "walk_min": 18
+      },
+      {
+        "station": "Winthrop St",
+        "lines": [
+          "2",
+          "5"
+        ],
+        "distance_mi": 0.963,
+        "walk_min": 19
+      },
+      {
+        "station": "Beverly Rd",
+        "lines": [
+          "2",
+          "5"
+        ],
+        "distance_mi": 0.982,
+        "walk_min": 20
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 4,
+      "ecb_active": 3,
+      "ecb_penalty_total": 4500,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "35237166N",
+        "bin": "3102009",
+        "status": "ACTIVE",
+        "is_open": true,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "WORK WITHOUT A PERMIT NOTE: AT THE TIME OF INSPECTION, OBSERVED THE CELLAR OF A LEGAL 2 FAMILY BUILDING CONVERTED TO APARTMENT WITH ERECTION OF FULL HEIGHT PARTITIONS, CREATING BEDROOM, KITCHEN WITH GAS STOVE &",
+        "infraction_code": "201",
+        "penalty_imposed": 800,
+        "amount_paid": 801,
+        "balance_due": 0,
+        "issue_date": "20171109",
+        "hearing_status": "STIPULATION/IN-VIO",
+        "respondent": "ALPHONSO SMALL"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "37011714X",
+        "bin": "3102009",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "FAILURE TO COMPLY WITH COMMISSIONERS ORDER CONTAINED IN SUMMONS/VIOLA TION#35237167P ISSUED ON 11/19/17,AND TO FILE A CERTIFICATE OF CORRECTION PURSUANT TO 28.201.1 AND 1RCNY 102-01(D)(2).AN ACCEPTABLE CERTIFIC",
+        "infraction_code": "263",
+        "penalty_imposed": 1250,
+        "amount_paid": 1252,
+        "balance_due": 0,
+        "issue_date": "20180830",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "ALPHONSO SMALL"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "37011713Y",
+        "bin": "3102009",
+        "status": "ACTIVE",
+        "is_open": true,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "FAILURE TO COMPLY WITH COMMISSIONERS ORDER CONTAINED IN SUMMONS/VIOLA TION#35237166N ISSUED ON 11/19/17,AND TO FILE A CERTIFICATE OF CORRECTION PURSUANT TO 28.201.1 AND 1RCNY 102-01(D)(2).AN ACCEPTABLE CERTIFIC",
+        "infraction_code": "263",
+        "penalty_imposed": 1250,
+        "amount_paid": 1252,
+        "balance_due": 0,
+        "issue_date": "20180830",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "ALPHONSO SMALL"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35237167P",
+        "bin": "3102009",
+        "status": "ACTIVE",
+        "is_open": true,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "OCCUPANCY CONTRARY TO THAT ALLOWED BY THE CERTIFICATE OF OCCUPANCY OR BUILDING DEPT RECORDS:NOT AT THE TIME OF INSPECTION,OBSERVED THE CELLAR OF A LEGAL 2 FAMILY BUILDING BEING OCCUPIED AS AN ADDITIONAL APARTME",
+        "infraction_code": "203",
+        "penalty_imposed": 1200,
+        "amount_paid": 1201,
+        "balance_due": 0,
+        "issue_date": "20171109",
+        "hearing_status": "STIPULATION/IN-VIO",
+        "respondent": "ALPHONSO SMALL"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3046730027-2f.json"
+}

@@ -1,0 +1,141 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5086909",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/1667-brooklyn-avenue--brooklyn/5a",
+  "borough": "brooklyn",
+  "neighborhood": "East Flatbush",
+  "address": "1667 Brooklyn Avenue",
+  "unit": "5A",
+  "zip": "11210",
+  "bbl": "3075640111",
+  "bin": "3429325",
+  "geocode_match": "1667 BROOKLYN AVENUE, Brooklyn, NY, USA",
+  "latitude": 40.63247,
+  "longitude": -73.94149,
+  "rent": 2399,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-29T21:15:43.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "MULTIFAMILY",
+  "status": "ACTIVE",
+  "available_date": "2026-06-29",
+  "transit": {
+    "nearest_station": "Flatbush Av-Brooklyn College",
+    "nearest_lines": [
+      "2",
+      "5"
+    ],
+    "nearest_distance_mi": 0.309,
+    "nearest_walk_min": 6,
+    "all_nearby_lines": [
+      "2",
+      "5"
+    ],
+    "stations": [
+      {
+        "station": "Flatbush Av-Brooklyn College",
+        "lines": [
+          "2",
+          "5"
+        ],
+        "distance_mi": 0.309,
+        "walk_min": 6
+      },
+      {
+        "station": "Newkirk Av-Little Haiti",
+        "lines": [
+          "2",
+          "5"
+        ],
+        "distance_mi": 0.623,
+        "walk_min": 12
+      },
+      {
+        "station": "Beverly Rd",
+        "lines": [
+          "2",
+          "5"
+        ],
+        "distance_mi": 0.948,
+        "walk_min": 19
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 2,
+      "ecb_active": 0,
+      "ecb_penalty_total": 1250,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "39513026P",
+        "bin": "3429325",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "AT THE TIME OF INSPECTION, OBSERVED WORKERS ON ROOF LEVEL DOING FACADE WORK UNSAFELY. KNOCKED ON CLOSED FENCE AND CALLED G.C TO OBTAIN ACCESS. NO ACCESS WAS GRANTED TO THE JOBSITE. NO WORK ALLOWED EXCEPT TO PRO",
+        "infraction_code": "2A7",
+        "penalty_imposed": 1250,
+        "amount_paid": 1250,
+        "balance_due": 0,
+        "issue_date": "20230213",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "FOUR BORO ENTERPRISE INC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39510732Z",
+        "bin": "3429325",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "AVOID INTERFERENCE I OBSERVED 4 STORY PROPOSED NB, CLOSED SITE, WITH SIDEWALK SHED(SWS) AT EXP1 OBSTRUCTING \"NO PARKING STREET SIGN\" . INSTALL MESH PARAPET IN ORDER TO PROVIDE VISUAL ACCESS TO THE STREET SIGN",
+        "infraction_code": "206",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20221222",
+        "hearing_status": "CURED/IN-VIO",
+        "respondent": "FOUR BORO ENTERPRISE INC"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3075640111-5a.json"
+}

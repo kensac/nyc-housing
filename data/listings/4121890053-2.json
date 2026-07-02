@@ -1,0 +1,179 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5039820",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/150_41-115-drive-jamaica/2",
+  "borough": "queens",
+  "neighborhood": "South Jamaica",
+  "address": "150-41 115th Drive",
+  "unit": "2",
+  "zip": "11434",
+  "bbl": "4121890053",
+  "bin": "4264257",
+  "geocode_match": "150-41 115 DRIVE, Jamaica, NY, USA",
+  "latitude": 40.684091,
+  "longitude": -73.791308,
+  "rent": 2050,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-05-11T22:15:06.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": 1000,
+  "building_type": "TWOFAMILY",
+  "status": "ACTIVE",
+  "available_date": "2026-05-11",
+  "transit": {
+    "nearest_station": "Jamaica Center-Parsons/Archer",
+    "nearest_lines": [
+      "E",
+      "J",
+      "Z"
+    ],
+    "nearest_distance_mi": 1.339,
+    "nearest_walk_min": 27,
+    "all_nearby_lines": [
+      "E",
+      "J",
+      "Z",
+      "F"
+    ],
+    "stations": [
+      {
+        "station": "Jamaica Center-Parsons/Archer",
+        "lines": [
+          "E",
+          "J",
+          "Z"
+        ],
+        "distance_mi": 1.339,
+        "walk_min": 27
+      },
+      {
+        "station": "Sutphin Blvd-Archer Av-JFK Airport",
+        "lines": [
+          "E",
+          "J",
+          "Z"
+        ],
+        "distance_mi": 1.404,
+        "walk_min": 28
+      },
+      {
+        "station": "Parsons Blvd",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 1.723,
+        "walk_min": 34
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 4,
+      "hpd_open": 1,
+      "hpd_class_a": 1,
+      "hpd_class_b": 0,
+      "hpd_class_c": 1,
+      "hpd_class_i": 2,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2025-11-25T00:00:00.000",
+      "ecb_total": 0,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "18462863",
+        "bbl": "4121890053",
+        "bin": "4264257",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2025-11-25T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2026-03-31T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "15920990",
+        "bbl": "4121890053",
+        "bin": "4264257",
+        "class": "C",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 27-2037, 2038 HMC: PROVIDE A SAFE AND ADEQUATE SUPPLY OF ELECTRIC SERVICE TO THE FIXTURES THROUGHOUT IN THE ENTIRE APARTMENT LOCATED AT APT 1, 1st STORY, 1st APARTMENT FROM WEST AT NORTH",
+        "apartment": "1",
+        "story": "1",
+        "inspection_date": "2023-04-12T00:00:00.000",
+        "nov_issued_date": "2023-04-13T00:00:00.000",
+        "current_status": "VIOLATION CLOSED",
+        "current_status_date": "2023-05-24T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "15920991",
+        "bbl": "4121890053",
+        "bin": "4264257",
+        "class": "A",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "§ 27-2026, 2027 HMC: PROPERLY REPAIR THE SOURCE AND ABATE THE EVIDENCE OF A WATER LEAK AT CEILING IN THE KITCHEN LOCATED AT APT 1, 1st STORY, 1st APARTMENT FROM WEST AT NORTH",
+        "apartment": "1",
+        "story": "1",
+        "inspection_date": "2023-04-12T00:00:00.000",
+        "nov_issued_date": "2023-04-13T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2023-04-13T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "15927294",
+        "bbl": "4121890053",
+        "bin": "4264257",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2023-04-13T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2023-05-01T00:00:00.000"
+      }
+    ],
+    "ecb": [],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4121890053-2.json"
+}

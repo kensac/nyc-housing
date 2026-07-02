@@ -1,0 +1,162 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5087144",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/37-aberdeen-street-brooklyn/3",
+  "borough": "brooklyn",
+  "neighborhood": "Bushwick",
+  "address": "37 Aberdeen Street",
+  "unit": "3",
+  "zip": "11207",
+  "bbl": "3034660044",
+  "bin": "3080425",
+  "geocode_match": "37 ABERDEEN STREET, Brooklyn, NY, USA",
+  "latitude": 40.681973,
+  "longitude": -73.906302,
+  "rent": 2777,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-30T03:19:09.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "CONDO",
+  "status": "ACTIVE",
+  "available_date": "2026-07-06",
+  "transit": {
+    "nearest_station": "Bushwick Av-Aberdeen St",
+    "nearest_lines": [
+      "L"
+    ],
+    "nearest_distance_mi": 0.065,
+    "nearest_walk_min": 1,
+    "all_nearby_lines": [
+      "L",
+      "A",
+      "C",
+      "J",
+      "Z"
+    ],
+    "stations": [
+      {
+        "station": "Bushwick Av-Aberdeen St",
+        "lines": [
+          "L"
+        ],
+        "distance_mi": 0.065,
+        "walk_min": 1
+      },
+      {
+        "station": "Broadway Junction",
+        "lines": [
+          "A",
+          "C",
+          "J",
+          "Z",
+          "L"
+        ],
+        "distance_mi": 0.279,
+        "walk_min": 6
+      },
+      {
+        "station": "Chauncey St",
+        "lines": [
+          "J",
+          "Z"
+        ],
+        "distance_mi": 0.28,
+        "walk_min": 6
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 3,
+      "ecb_active": 0,
+      "ecb_penalty_total": 625,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "35553140J",
+        "bin": "3080425",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "BC3301.13.1-INADEQUATE SSP AT THE TIME OF MY INSPECTION OF A PROPOSED 4 STORY BUILDING CURRENTLY AT DEMOLITION FOR INTEIROR WALLS I OBSERVED MISSING DMEOLITION PHASE AND SOE PHASE ON SSP AMEND SSP",
+        "infraction_code": "206",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20210511",
+        "hearing_status": "CURED/IN-VIO",
+        "respondent": "HP BUILDING MANAGEMENT IN"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35553139M",
+        "bin": "3080425",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Construction",
+        "description": "FAILURE TO MAINTAIN ADEQUATE HOUSEKEEPING PER SECTION REQUIRMEENTS AT THE TIME OF MY ISNEPCTION OF AN ACTIVE JOBSITE I OBSERVED LARGE AMOUNT OF DEBRIS ON (1ST FLOOR AND 2ND FLOOR) SCATTERED THROUGH THE SITE",
+        "infraction_code": "181",
+        "penalty_imposed": 625,
+        "amount_paid": 645,
+        "balance_due": 0,
+        "issue_date": "20210511",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "HP BUILDING MANAGEMENT IN"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35553141L",
+        "bin": "3080425",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "FAILURE TO PROVIDE APPROVED .ACCEPTED CONSTRUCTION DOCUMENTS AT JOBSITE AT THE TIME OF MY INSPECTION AT THE TIME OF MY INSPECTION OF AN ACTIVE JOBSITE OF 2 STOYR BUILDING (CURRENTLY IN DEMOLATION PHASE) CONSTRU",
+        "infraction_code": "210",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20210511",
+        "hearing_status": "CURED/IN-VIO",
+        "respondent": "HP BUILDING MANAGEMENT IN"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3034660044-3.json"
+}

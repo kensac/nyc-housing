@@ -1,0 +1,102 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5076486",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/2436-east-2-street-brooklyn/1",
+  "borough": "brooklyn",
+  "neighborhood": "Gravesend",
+  "address": "2436 East 2nd Street",
+  "unit": "1",
+  "zip": "11223",
+  "bbl": "3071970021",
+  "bin": "3429053",
+  "geocode_match": "2436 EAST 2 STREET, Brooklyn, NY, USA",
+  "latitude": 40.58982,
+  "longitude": -73.96848,
+  "rent": 2849,
+  "net_effective_rent": 2630,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 1,
+  "lease_term_months": 13,
+  "price_delta": null,
+  "price_changed_at": "2026-06-17T22:24:21.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "TWOFAMILY",
+  "status": "ACTIVE",
+  "available_date": "2026-06-17",
+  "transit": {
+    "nearest_station": "Avenue X",
+    "nearest_lines": [
+      "F"
+    ],
+    "nearest_distance_mi": 0.294,
+    "nearest_walk_min": 6,
+    "all_nearby_lines": [
+      "F",
+      "N"
+    ],
+    "stations": [
+      {
+        "station": "Avenue X",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 0.294,
+        "walk_min": 6
+      },
+      {
+        "station": "Avenue U",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 0.442,
+        "walk_min": 9
+      },
+      {
+        "station": "86 St",
+        "lines": [
+          "N"
+        ],
+        "distance_mi": 0.551,
+        "walk_min": 11
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 0,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3071970021-1.json"
+}

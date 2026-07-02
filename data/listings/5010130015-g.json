@@ -1,0 +1,101 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5045669",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/67-cottage-place-staten_island/g",
+  "borough": "staten_island",
+  "neighborhood": "Port Richmond",
+  "address": "67 Cottage Place",
+  "unit": "G",
+  "zip": "10302",
+  "bbl": "5010130015",
+  "bin": "5132893",
+  "geocode_match": "67 COTTAGE PLACE, Staten Island, NY, USA",
+  "latitude": 40.635539,
+  "longitude": -74.130507,
+  "rent": 1800,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-05-17T22:49:48.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "TWOFAMILY",
+  "status": "ACTIVE",
+  "available_date": "2026-06-01",
+  "transit": {
+    "nearest_station": "Tompkinsville",
+    "nearest_lines": [
+      "SIR"
+    ],
+    "nearest_distance_mi": 2.913,
+    "nearest_walk_min": 58,
+    "all_nearby_lines": [
+      "SIR"
+    ],
+    "stations": [
+      {
+        "station": "Tompkinsville",
+        "lines": [
+          "SIR"
+        ],
+        "distance_mi": 2.913,
+        "walk_min": 58
+      },
+      {
+        "station": "Stapleton",
+        "lines": [
+          "SIR"
+        ],
+        "distance_mi": 2.937,
+        "walk_min": 59
+      },
+      {
+        "station": "St George",
+        "lines": [
+          "SIR"
+        ],
+        "distance_mi": 3.064,
+        "walk_min": 61
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 0,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "5010130015-g.json"
+}

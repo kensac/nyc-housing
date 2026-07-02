@@ -1,0 +1,276 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5079687",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/25_21-87-street-east_elmhurst/1r",
+  "borough": "queens",
+  "neighborhood": "Jackson Heights",
+  "address": "25-21 87th Street",
+  "unit": "1R",
+  "zip": "11369",
+  "bbl": "4013610062",
+  "bin": "4032330",
+  "geocode_match": "25-21 87 STREET, East Elmhurst, NY, USA",
+  "latitude": 40.762932,
+  "longitude": -73.88175,
+  "rent": 2300,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": -100,
+  "price_changed_at": "2026-06-22T15:09:51.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "TWOFAMILY",
+  "status": "ACTIVE",
+  "available_date": "2026-06-22",
+  "transit": {
+    "nearest_station": "90 St-Elmhurst Av",
+    "nearest_lines": [
+      "7"
+    ],
+    "nearest_distance_mi": 1.026,
+    "nearest_walk_min": 21,
+    "all_nearby_lines": [
+      "7"
+    ],
+    "stations": [
+      {
+        "station": "90 St-Elmhurst Av",
+        "lines": [
+          "7"
+        ],
+        "distance_mi": 1.026,
+        "walk_min": 21
+      },
+      {
+        "station": "82 St-Jackson Hts",
+        "lines": [
+          "7"
+        ],
+        "distance_mi": 1.049,
+        "walk_min": 21
+      },
+      {
+        "station": "Junction Blvd",
+        "lines": [
+          "7"
+        ],
+        "distance_mi": 1.138,
+        "walk_min": 23
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 7,
+      "hpd_open": 6,
+      "hpd_class_a": 1,
+      "hpd_class_b": 4,
+      "hpd_class_c": 1,
+      "hpd_class_i": 1,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2023-05-16T00:00:00.000",
+      "ecb_total": 1,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 3,
+      "dob_open": 1
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "15981685",
+        "bbl": "4013610062",
+        "bin": "4032330",
+        "class": "B",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "§ 27-2026 ADMIN. CODE: REMOVE ALL OBSTRUCTIONS AND REPAIR ALL DEFECTS IN AT WASH BASIN IN THE BATHROOM LOCATED AT APT 2, 2nd STORY, 1st APARTMENT FROM EAST AT SOUTH",
+        "apartment": "2",
+        "story": "2",
+        "inspection_date": "2023-05-15T00:00:00.000",
+        "nov_issued_date": "2023-05-16T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2023-05-16T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "15981682",
+        "bbl": "4013610062",
+        "bin": "4032330",
+        "class": "A",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "§ 27-2026 ADMIN. CODE: REPAIR LEAKY WATER CLOSET FLUSH PIPE CONNECTION , IN THE BATHROOM LOCATED AT APT 2, 2nd STORY, 1st APARTMENT FROM EAST AT SOUTH",
+        "apartment": "2",
+        "story": "2",
+        "inspection_date": "2023-05-15T00:00:00.000",
+        "nov_issued_date": "2023-05-16T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2023-05-16T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "15981683",
+        "bbl": "4013610062",
+        "bin": "4032330",
+        "class": "B",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "HMC ADM CODE: § 27-2017.4 ABATE THE INFESTATION CONSISTING OF MICE IN THE ENTIRE APARTMENT LOCATED AT APT 2, 2nd STORY, 1st APARTMENT FROM EAST AT SOUTH",
+        "apartment": "2",
+        "story": "2",
+        "inspection_date": "2023-05-15T00:00:00.000",
+        "nov_issued_date": "2023-05-16T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2023-05-16T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "15981684",
+        "bbl": "4013610062",
+        "bin": "4032330",
+        "class": "B",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "HMC ADM CODE: § 27-2017.4 ABATE THE INFESTATION CONSISTING OF ROACHES IN THE ENTIRE APARTMENT LOCATED AT APT 2, 2nd STORY, 1st APARTMENT FROM EAST AT SOUTH",
+        "apartment": "2",
+        "story": "2",
+        "inspection_date": "2023-05-15T00:00:00.000",
+        "nov_issued_date": "2023-05-16T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2023-05-16T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "15981686",
+        "bbl": "4013610062",
+        "bin": "4032330",
+        "class": "B",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "§ 27-2026 ADMIN. CODE: REMOVE ALL OBSTRUCTIONS AND REPAIR ALL DEFECTS IN WASTELINE AT BATHTUB IN THE BATHROOM LOCATED AT APT 2, 2nd STORY, 1st APARTMENT FROM EAST AT SOUTH",
+        "apartment": "2",
+        "story": "2",
+        "inspection_date": "2023-05-15T00:00:00.000",
+        "nov_issued_date": "2023-05-16T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2023-05-16T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "15981687",
+        "bbl": "4013610062",
+        "bin": "4032330",
+        "class": "C",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 27-2026 ADMIN. CODE: REMOVE ALL OBSTRUCTIONS FROM WATER CLOSET , IN THE BATHROOM LOCATED AT APT 2, 2nd STORY, 1st APARTMENT FROM EAST AT SOUTH",
+        "apartment": "2",
+        "story": "2",
+        "inspection_date": "2023-05-15T00:00:00.000",
+        "nov_issued_date": "2023-05-16T00:00:00.000",
+        "current_status": "VIOLATION CLOSED",
+        "current_status_date": "2023-06-21T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "15992449",
+        "bbl": "4013610062",
+        "bin": "4032330",
+        "class": "I",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2023-05-16T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "INFO NOV SENT OUT",
+        "current_status_date": "2023-05-17T00:00:00.000"
+      }
+    ],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "35355655L",
+        "bin": "4032330",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "WORK WITHOUT A PERMIT. NOTED: AT TIME OF INSPECTION, IT WAS OBSERVED THAT AN ILLEGAL CURB-CUT AND PARKING PAD HAD BEEN CREATED IN FRONT OF PREMISES. NO PERMIT FILED WITH DOB. REM: OBTAIN PERMIT OR RESTORE PREMI",
+        "infraction_code": "201",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20180925",
+        "hearing_status": "DISMISSED",
+        "respondent": "QUINTANA DIOCELINA"
+      }
+    ],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "FEU40335PN",
+        "bin": "4032330",
+        "category": "V-DOB VIOLATION - ACTIVE",
+        "is_open": true,
+        "violation_type": "C-CONSTRUCTION OTHER OPTIONAL",
+        "type_code": "C",
+        "description": "BUILDING WITH BRICK FACADE OF SIMILAR CONSTRUCTION TO 24-42 TO 24-54 86 STREET WITH SEVERELY BULGING WALL.WALL REQUIRE INVESTIGATION/RPAIRS OWNR RTAIN PE/QEWI TO SBMT RPORT TO FEU BY 6/7/24 IF REQ'D RPAIR UNDR PRMT STRTNG BY 8/5/24,&CMPLTD/SGND OFF 9/27/24",
+        "issue_date": "20240429",
+        "disposition_comments": null
+      },
+      {
+        "source": "DOB",
+        "violation_id": "24-01305",
+        "bin": "4032330",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "C-CONSTRUCTION OTHER OPTIONAL",
+        "type_code": "C",
+        "description": "1. CRACK AT EXPOSURE #1 FOUNDATION WALL 4 FEET LONG AT LEFT SIDE 2. 1/8 VERTICAL CRACK AT TO THE BRICK WALL AT EXPOSURE #1 AT FIRST FLOOR LEV, 2 FET FROM LEFT EDGE. 3. AT EXPOSURE #2 5 FEET LONG HORIZONTAL CRACK, LEFT SIDE OF GROUND FLOOR WINDOW. ACCESS TO REAR WALL OF BUILDING WERE NOT ACCESSIBLE.",
+        "issue_date": "20240506",
+        "disposition_comments": "OK TO DISMISS AS PER INSPECTION REPORT"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "24-01318",
+        "bin": "4032330",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "C-CONSTRUCTION OTHER OPTIONAL",
+        "type_code": "C",
+        "description": "OBSERVED EXTERIOR STEPS WITH ABOUT 13 TREADS WITH TOP 3 DEFECTIVE AND ONE MISSING. NO RECORD ON FILE FOR AT DOB FOR THE APPROVAL OF ERECTING STAIR FROM GROUND FLOOR TO 2ND FLOOR. STEP IS IN DISREPAIR AND PARTIAL VACATE ISSUED FOR DISCONTINUE USE OF THE STEPS.",
+        "issue_date": "20240506",
+        "disposition_comments": "OK TO DISMISS AS PER INSPECTION REPORT"
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4013610062-1r.json"
+}

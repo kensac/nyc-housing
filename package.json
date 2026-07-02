@@ -1,0 +1,14 @@
+{
+  "name": "nyc-housing",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "NYC studio/1BR rentals <= $3000 enriched with HPD/ECB/DOB violations and nearest subway.",
+  "scripts": {
+    "fetch": "node scripts/fetch-listings.mjs",
+    "enrich": "node scripts/enrich.mjs"
+  },
+  "dependencies": {
+    "streeteasy-api": "^0.4.0"
+  }
+}

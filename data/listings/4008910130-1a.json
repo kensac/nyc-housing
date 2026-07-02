@@ -1,0 +1,261 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5086965",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/19_24-22-road-astoria/1a",
+  "borough": "queens",
+  "neighborhood": "Ditmars-Steinway",
+  "address": "19-24 22nd Road",
+  "unit": "1A",
+  "zip": "11105",
+  "bbl": "4008910130",
+  "bin": "4020220",
+  "geocode_match": "19-24 22 ROAD, Astoria, NY, USA",
+  "latitude": 40.780123,
+  "longitude": -73.918034,
+  "rent": 3000,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-29T22:04:48.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 2,
+  "sqft": null,
+  "building_type": "HOUSE",
+  "status": "ACTIVE",
+  "available_date": "2026-06-29",
+  "transit": {
+    "nearest_station": "Astoria-Ditmars Blvd",
+    "nearest_lines": [
+      "N",
+      "W"
+    ],
+    "nearest_distance_mi": 0.463,
+    "nearest_walk_min": 9,
+    "all_nearby_lines": [
+      "N",
+      "W"
+    ],
+    "stations": [
+      {
+        "station": "Astoria-Ditmars Blvd",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.463,
+        "walk_min": 9
+      },
+      {
+        "station": "Astoria Blvd",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.627,
+        "walk_min": 13
+      },
+      {
+        "station": "30 Av",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.894,
+        "walk_min": 18
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 4,
+      "hpd_open": 3,
+      "hpd_class_a": 0,
+      "hpd_class_b": 2,
+      "hpd_class_c": 1,
+      "hpd_class_i": 1,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2024-03-08T00:00:00.000",
+      "ecb_total": 5,
+      "ecb_active": 0,
+      "ecb_penalty_total": 10000,
+      "ecb_balance_due": 10000,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "16727027",
+        "bbl": "4008910130",
+        "bin": "4020220",
+        "class": "B",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "§ 27-2026 ADM CODE PROVIDE SUITABLE TIGHT COVER FOR THE HANDHOLE OPENING OF TRAP AT CELLAR",
+        "apartment": null,
+        "story": "0",
+        "inspection_date": "2024-03-07T00:00:00.000",
+        "nov_issued_date": "2024-03-08T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2024-03-08T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "16733360",
+        "bbl": "4008910130",
+        "bin": "4020220",
+        "class": "I",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2024-03-08T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "INFO NOV SENT OUT",
+        "current_status_date": "2024-03-11T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "16727026",
+        "bbl": "4008910130",
+        "bin": "4020220",
+        "class": "C",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": true,
+        "description": "§ 27-2010, 2011, 2012 ADM CODE CLEANSE AND DISINFECT TO THE SATISFACTION OF THIS DEPARTMENT AFTER REMOVING THE RAW SEWAGE AT TRAP AT CELLAR",
+        "apartment": null,
+        "story": "0",
+        "inspection_date": "2024-03-07T00:00:00.000",
+        "nov_issued_date": "2024-03-08T00:00:00.000",
+        "current_status": "VIOLATION CLOSED",
+        "current_status_date": "2024-04-04T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "14201029",
+        "bbl": "4008910130",
+        "bin": "4020220",
+        "class": "B",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "§ 27-2010, 2011, 2012 ADM CODE REMOVE THE ACCUMULATION OF REFUSE AND/OR RUBBISH AND MAINTAIN IN A CLEAN CONDITION THE FRONT YARD. AT STOOP, 1st STORY",
+        "apartment": null,
+        "story": "1",
+        "inspection_date": "2021-04-09T00:00:00.000",
+        "nov_issued_date": "2021-04-13T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2021-04-13T00:00:00.000"
+      }
+    ],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "39503529H",
+        "bin": "4020220",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Unknown",
+        "description": "AT THE TIME OF INSPECTION OF AN OPEN ACTIVE SITE, I ASKED THE WORKERS FOR THE SUPERINTENDENT OR THE COMPETENT PERSON AND NEITHER WAS AT SITE. ALL SITES THAT REQUIRE A CONSTRUCTION SUPER MUST HAVE A SUPER ONSITE",
+        "infraction_code": "2G5",
+        "penalty_imposed": 2500,
+        "amount_paid": 0,
+        "balance_due": 2500,
+        "issue_date": "20220713",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "GAMBA BERNARDO"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39503525K",
+        "bin": "4020220",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Construction",
+        "description": "AT THE TIME OF INSPECTION I OBSERVED NO GUARDRAILS AT THE 3RD FLOOR BALCONY AT THE FRONT OF THE BUILDING.PROVIDE GUARDRAILS OR FALL PROTECTION AT ALL OPEN LEADING EDGES.",
+        "infraction_code": "115",
+        "penalty_imposed": 2500,
+        "amount_paid": 0,
+        "balance_due": 2500,
+        "issue_date": "20220713",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "DESIGN EXPERTDESIGNERS"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35545051H",
+        "bin": "4020220",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "JOBSITE FENCE.AT TIME OF INSPECTION ON A JOBSITE UNDER ALTERATION FOR VERTICAL AND HORIZONTAL ENLARGEMENT,IT WAS OBSERVED THAT JOBSITE WAS FULLY ACCESSIBLE FROM REAR EXP3.JOBSITE IS OPEN FROM NEIGHBORING BUILDI",
+        "infraction_code": "211",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20220507",
+        "hearing_status": "CURED/IN-VIO",
+        "respondent": "EXPERT DESIGNERS DESIGN"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39503519Y",
+        "bin": "4020220",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Cranes and Derricks",
+        "description": "AT TIME OF INSPECTION THE SYSTEM SHOWED THAT THE LICENSEE'S DISABILITY INSURANCE HAD EXPIRED 06-28-2022 AND THERE WAS ACTIVE WORK ONGOING AT THE SITE.PROVIDE AND MAINTAIN UPDATE DISABILITY INSURANCE",
+        "infraction_code": "148",
+        "penalty_imposed": 5000,
+        "amount_paid": 0,
+        "balance_due": 5000,
+        "issue_date": "20220713",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "DESIGN EXPERTDESIGNERS"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39506025H",
+        "bin": "4020220",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "OBSERVED STRUCTURAL (7) STEEL COLUMNS/ TUBE 6\" X 6\" & STRUCTURAL STEEL I BEAM 10\"H NEWLY INSTALLED AT GROUND LEVEL SUPPORTING THE APPROX. 20FT X 30TF EXTENSION AT 2ND, 3RD AND ROOF SLAB @ REAR. PLAN DOES NOT IN",
+        "infraction_code": "282",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20220906",
+        "hearing_status": "CURED/IN-VIO",
+        "respondent": "EXPERTDESIGNERS DESIGN"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4008910130-1a.json"
+}

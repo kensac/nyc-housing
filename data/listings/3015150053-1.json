@@ -1,0 +1,207 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5074851",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/361-marion-street-brooklyn/1",
+  "borough": "brooklyn",
+  "neighborhood": "Ocean Hill",
+  "address": "361 Marion Street",
+  "unit": "1",
+  "zip": "11233",
+  "bbl": "3015150053",
+  "bin": "3041110",
+  "geocode_match": "361 MARION STREET, Brooklyn, NY, USA",
+  "latitude": 40.681512,
+  "longitude": -73.914868,
+  "rent": 2650,
+  "net_effective_rent": 2429,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 1,
+  "lease_term_months": 12,
+  "price_delta": null,
+  "price_changed_at": "2026-06-16T18:25:54.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "TWOFAMILY",
+  "status": "ACTIVE",
+  "available_date": "2026-06-16",
+  "transit": {
+    "nearest_station": "Rockaway Av",
+    "nearest_lines": [
+      "C"
+    ],
+    "nearest_distance_mi": 0.209,
+    "nearest_walk_min": 4,
+    "all_nearby_lines": [
+      "C",
+      "J",
+      "Z"
+    ],
+    "stations": [
+      {
+        "station": "Rockaway Av",
+        "lines": [
+          "C"
+        ],
+        "distance_mi": 0.209,
+        "walk_min": 4
+      },
+      {
+        "station": "Chauncey St",
+        "lines": [
+          "J",
+          "Z"
+        ],
+        "distance_mi": 0.221,
+        "walk_min": 4
+      },
+      {
+        "station": "Halsey St",
+        "lines": [
+          "J"
+        ],
+        "distance_mi": 0.305,
+        "walk_min": 6
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 6,
+      "hpd_open": 0,
+      "hpd_class_a": 3,
+      "hpd_class_b": 3,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2023-05-09T00:00:00.000",
+      "ecb_total": 0,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "15966877",
+        "bbl": "3015150053",
+        "bin": "3041110",
+        "class": "B",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 27-2026 ADMIN. CODE: REMOVE ALL OBSTRUCTIONS AND REPAIR ALL DEFECTS IN BATHTUB IN THE BATHROOM LOCATED AT APT 2, 2nd STORY, 1st APARTMENT FROM SOUTH AT WEST",
+        "apartment": "2",
+        "story": "2",
+        "inspection_date": "2023-05-09T00:00:00.000",
+        "nov_issued_date": "2023-05-15T00:00:00.000",
+        "current_status": "VIOLATION CLOSED",
+        "current_status_date": "2024-06-21T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "15966878",
+        "bbl": "3015150053",
+        "bin": "3041110",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 27-2017.3 HMC: TRACE AND REPAIR THE SOURCE AND ABATE THE VISIBLE MOLD CONDITION... APPROX 1SQFT AT CEILING IN THE BATHROOM LOCATED AT APT 2, 2nd STORY, 1st APARTMENT FROM SOUTH AT WEST",
+        "apartment": "2",
+        "story": "2",
+        "inspection_date": "2023-05-09T00:00:00.000",
+        "nov_issued_date": "2023-05-15T00:00:00.000",
+        "current_status": "VIOLATION CLOSED",
+        "current_status_date": "2023-09-12T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "15966879",
+        "bbl": "3015150053",
+        "bin": "3041110",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 27-2005 ADM CODE REPAIR THE BROKEN OR DEFECTIVE PLASTERED SURFACES AND PAINT IN A UNIFORM COLOR AT CEILING IN THE BATHROOM LOCATED AT APT 2, 2nd STORY, 1st APARTMENT FROM SOUTH AT WEST",
+        "apartment": "2",
+        "story": "2",
+        "inspection_date": "2023-05-09T00:00:00.000",
+        "nov_issued_date": "2023-05-15T00:00:00.000",
+        "current_status": "VIOLATION CLOSED",
+        "current_status_date": "2023-10-13T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "16225682",
+        "bbl": "3015150053",
+        "bin": "3041110",
+        "class": "B",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 27-2017.3 HMC: TRACE AND REPAIR THE SOURCE AND ABATE THE VISIBLE MOLD CONDITION... APPROX 1SQFT AT CEILING IN THE BATHROOM LOCATED AT APT 2, 2nd STORY, 1st APARTMENT FROM SOUTH AT WEST ORIGINAL VIOLATION 15966878 ISSUED 09-MAY-23 HAS BEEN UPGRADED TO CLASS B PER ADMINISTRATIVE CODE §27-2017.3a(3)(a) or (b).",
+        "apartment": "2",
+        "story": "2",
+        "inspection_date": "2023-05-09T00:00:00.000",
+        "nov_issued_date": "2023-09-12T00:00:00.000",
+        "current_status": "VIOLATION CLOSED",
+        "current_status_date": "2025-01-29T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "13655624",
+        "bbl": "3015150053",
+        "bin": "3041110",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 27-2011 ADM CODE CLEANSE TO THE SATISFACTION OF THIS DEPARTMENT THE FRONT YARD",
+        "apartment": null,
+        "story": "0",
+        "inspection_date": "2020-03-19T00:00:00.000",
+        "nov_issued_date": "2020-03-20T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2022-07-24T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "13655625",
+        "bbl": "3015150053",
+        "bin": "3041110",
+        "class": "B",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 27-2021 ADM CODE PROVIDE SUFFICIENT, PROPER AND SEPARATE METAL RECEPTACLES FOR THE DEPOSIT OF GARBAGE, RUBBISH AND OTHER WASTE MATERIAL AND ARRANGE FOR COLLECTION AND DISPOSAL OF SUCH MATERIAL. YARD",
+        "apartment": null,
+        "story": "0",
+        "inspection_date": "2020-03-19T00:00:00.000",
+        "nov_issued_date": "2020-03-20T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2022-07-24T00:00:00.000"
+      }
+    ],
+    "ecb": [],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3015150053-1.json"
+}

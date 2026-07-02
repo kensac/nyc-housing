@@ -1,0 +1,193 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5061919",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/143_24-84-drive-jamaica/2f",
+  "borough": "queens",
+  "neighborhood": "Briarwood",
+  "address": "143-26 84th Drive",
+  "unit": "2F",
+  "zip": "11435",
+  "bbl": "4097230173",
+  "bin": "4208043",
+  "geocode_match": "143-26 84 DRIVE, Briarwood, NY, USA",
+  "latitude": 40.711197,
+  "longitude": -73.81263,
+  "rent": 2125,
+  "net_effective_rent": 1948,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 1,
+  "lease_term_months": 12,
+  "price_delta": null,
+  "price_changed_at": "2026-06-03T22:01:51.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "HOUSE",
+  "status": "ACTIVE",
+  "available_date": "2026-06-03",
+  "transit": {
+    "nearest_station": "Briarwood",
+    "nearest_lines": [
+      "E",
+      "F"
+    ],
+    "nearest_distance_mi": 0.376,
+    "nearest_walk_min": 8,
+    "all_nearby_lines": [
+      "E",
+      "F"
+    ],
+    "stations": [
+      {
+        "station": "Briarwood",
+        "lines": [
+          "E",
+          "F"
+        ],
+        "distance_mi": 0.376,
+        "walk_min": 8
+      },
+      {
+        "station": "Sutphin Blvd",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 0.398,
+        "walk_min": 8
+      },
+      {
+        "station": "Parsons Blvd",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 0.501,
+        "walk_min": 10
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 3,
+      "ecb_active": 0,
+      "ecb_penalty_total": 1600,
+      "ecb_balance_due": 0,
+      "dob_total": 3,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34611480M",
+        "bin": "4208043",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Hazardous",
+        "violation_type": "Construction",
+        "description": "FAILURE TO MAINTAIN EXTERIOR BLDG WALL DEFECTIVE CONCRETE BLOCK RETAINING WALL AT REAR YD 50'-0 X LONG BY 20'0 FT HIGH COLLAPSED ONTO REAR GGARAGE & YD WITH A SECTION IN DANGER OF FUTHER COLLAPSING FROM ABOVE",
+        "infraction_code": "B6A",
+        "penalty_imposed": 800,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20080615",
+        "hearing_status": "WRITTEN OFF",
+        "respondent": "OWNER OF 14324 84 DR"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35143096J",
+        "bin": "4208043",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "WORK W/O A PERMIT. WORK NOTED:DOORS AND WINDOWS HAVE BEEN REMOVED AND REPLACED WITH DOROS AND WINDOWS SMALLER THAN ORIGINAL SIZE THROUGHOUT THE EXTERIOR OF BLDG. RMDY: STOP ALL WORK.OBTAIN ALL REQUIRED PERMITS.",
+        "infraction_code": "201",
+        "penalty_imposed": 800,
+        "amount_paid": 805,
+        "balance_due": 0,
+        "issue_date": "20160315",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "ADINO SHIMUNOVA"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35214972X",
+        "bin": "4208043",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "FAILURE TO MAINTAIN BLDG WALLS-APPURTENANCES: AT FRONT OF & IMMEDIATELY TO THE LEFT OF BLDG ENTRANCE SEVERE CRACKS & SEPARATION OF THE BLDG FACADE OPPOSING INTERIOR INSULATION. AT RIGHT SIDE OF BLDG CRACKED/MIS",
+        "infraction_code": "204",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20161125",
+        "hearing_status": "CURED/IN-VIO",
+        "respondent": "ADINO SHIMUNOVA"
+      }
+    ],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "0805KG",
+        "bin": "4208043",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "C-CONSTRUCTION OTHER OPTIONAL",
+        "type_code": "C",
+        "description": null,
+        "issue_date": "20080615",
+        "disposition_comments": "OK TO DISMISS, VACATE RESCINDED 4/30/14."
+      },
+      {
+        "source": "DOB",
+        "violation_id": "269/08",
+        "bin": "4208043",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "IMEGNCY-IMMEDIATE EMERGENCY ANYTHINGOPTIONAL",
+        "type_code": "IMEGNCY",
+        "description": null,
+        "issue_date": "20080617",
+        "disposition_comments": "OK TO DISMISS, VACATE RESCINDED 4/30/14."
+      },
+      {
+        "source": "DOB",
+        "violation_id": "CN0803MD",
+        "bin": "4208043",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "C-CONSTRUCTION OTHER OPTIONAL",
+        "type_code": "C",
+        "description": null,
+        "issue_date": "20110427",
+        "disposition_comments": "DOB VIOLATION DISMISSED /JOB 410153248 SIGNED OFF"
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4097230173-2f.json"
+}

@@ -1,0 +1,239 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5089412",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/3009-avenue-i-brooklyn/6k",
+  "borough": "brooklyn",
+  "neighborhood": "Midwood",
+  "address": "3009 Avenue I",
+  "unit": "6K",
+  "zip": "11210",
+  "bbl": "3075767502",
+  "bin": "3429624",
+  "geocode_match": "3009 AVENUE I, Brooklyn, NY, USA",
+  "latitude": 40.6295,
+  "longitude": -73.94704,
+  "rent": 2850,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-07-01T18:17:11.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "HYBRID",
+  "status": "ACTIVE",
+  "available_date": "2026-07-01",
+  "transit": {
+    "nearest_station": "Flatbush Av-Brooklyn College",
+    "nearest_lines": [
+      "2",
+      "5"
+    ],
+    "nearest_distance_mi": 0.166,
+    "nearest_walk_min": 3,
+    "all_nearby_lines": [
+      "2",
+      "5",
+      "Q"
+    ],
+    "stations": [
+      {
+        "station": "Flatbush Av-Brooklyn College",
+        "lines": [
+          "2",
+          "5"
+        ],
+        "distance_mi": 0.166,
+        "walk_min": 3
+      },
+      {
+        "station": "Newkirk Av-Little Haiti",
+        "lines": [
+          "2",
+          "5"
+        ],
+        "distance_mi": 0.723,
+        "walk_min": 14
+      },
+      {
+        "station": "Avenue H",
+        "lines": [
+          "Q"
+        ],
+        "distance_mi": 0.757,
+        "walk_min": 15
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 7,
+      "ecb_active": 0,
+      "ecb_penalty_total": 3125,
+      "ecb_balance_due": 625,
+      "dob_total": 1,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "39532305L",
+        "bin": "3429624",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "AT TIME OF INSPECTION AT AN ACTIVE CONSTRUCTION JOB SITE, I OBSERVED SUPPORTED SCAFFOLD AT EXPOSURE #1 AND #4 HAS 2 FULLY PLANKED LEVEL. UPON REVIEWING THE DOB APPROVED PLANS, THE SUPPORTED SCAFFOLD SHOULD HAVE",
+        "infraction_code": "282",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20240911",
+        "hearing_status": "CURED/IN-VIO",
+        "respondent": "CITY BUILDERS NYC LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39528533L",
+        "bin": "3429624",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Unknown",
+        "description": "BC 3301.13.5 NO CONSTRUCTION SUPERINTENDENT OR ALTERNATE AT SITE. AT THE TIME OF MY INSPECTION OF A NEW BUILDING UNDER CONSTRUCTION , ACTIVE JOB SITE WITH APPROXIMATELY 50 WORKERS, BUILDING CURRENTLY AT 4TH FLO",
+        "infraction_code": "1P7",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20240513",
+        "hearing_status": "DISMISSED",
+        "respondent": "CITY BUILDERS NYC LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39528534N",
+        "bin": "3429624",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Construction",
+        "description": "MISSING TOE BOARDS : AT THE TIME OF MY INSPECTION OF A NEW BUILDING UNDER CONSTRUCTION , CURRENTLY AT 4TH FLOOR LEVEL WITH 50 WORKERS , I OBSERVED THAT NO TOE BOARDS WERE PROVIDED FOR GUARDRAIL SYSTEM AS REQUI",
+        "infraction_code": "118",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20240513",
+        "hearing_status": "DISMISSED",
+        "respondent": "CITY BUILDERS NYC LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39528970J",
+        "bin": "3429624",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Unknown",
+        "description": "BC3303.3 AT TIME OF MY INSPECTION OF A 7STORY NB AT 5TH FL BUILDING IS APPROXIMATELY 10961SQ FT. SITE CLOSED & THERE WERE NO CONSTRUCTION ACTIVITY. UPON INSPECTION SHOUTING AT PERIMETER & BANGING ON FENCE TO AL",
+        "infraction_code": "2P7",
+        "penalty_imposed": 2500,
+        "amount_paid": 2500,
+        "balance_due": 0,
+        "issue_date": "20240525",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "CITY BUILDERS NYC LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39528543P",
+        "bin": "3429624",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Unknown",
+        "description": "AT THE TIME OF MY INSPECTION OF A NEW 7 STORY BUILDING UNDER CONSTRUCTION CURRENTLY AT 4TH FLOOR LEVEL , UPON REQUEST FOR THE DESIGNATED COMPETENT PERSON AND SUPERINTENDENT DAILY LOGS FOR THE CONSTRUCTION OPERA",
+        "infraction_code": "2G5",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20240513",
+        "hearing_status": "DISMISSED",
+        "respondent": "TAUBER LEIVY"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39537865M",
+        "bin": "3429624",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Unknown",
+        "description": "AT THE TIME OF MY INSPECTION OF A NEW 7 STORY BUILDING FULLY ENCLOSED AND TOPPED OFF , I OBSERVED THAT THE WORK OR STORAGE ZONE AT EXPOSURE 1 WAS NON CONFIRMING TO THE SITE SAFETY PLANS PROVIDED. NO PROTECTION",
+        "infraction_code": "2P7",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20250311",
+        "hearing_status": "DISMISSED",
+        "respondent": "CITY BUILDERS NYC LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39537866Y",
+        "bin": "3429624",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Unknown",
+        "description": "BC 3307.2.1 OBSTRUCTION OF SIDEWALK. AT THE TIME OF MY INSPECTION OF A ACTIVE JOB SITE, I OBSERVED BUILDING MATERIALS AND SHEETROCK BEING STORED ON THE SIDEWALK CREATING A UNSAFE CONDITION FOR MEMBERS OF T",
+        "infraction_code": "2N8",
+        "penalty_imposed": 625,
+        "amount_paid": 0,
+        "balance_due": 625,
+        "issue_date": "20250311",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "CITY BUILDERS NYC LLC"
+      }
+    ],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "355/07",
+        "bin": "3429624",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "IMEGNCY-IMMEDIATE EMERGENCY ANYTHINGOPTIONAL",
+        "type_code": "IMEGNCY",
+        "description": null,
+        "issue_date": "20071220",
+        "disposition_comments": "OK TO DISMISS. JOB # 310242528 SIGNED OFF 9/29/2009"
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3075767502-6k.json"
+}

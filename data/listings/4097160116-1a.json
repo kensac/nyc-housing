@@ -1,0 +1,122 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5070893",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/84_19-lander-street-jamaica/1a",
+  "borough": "queens",
+  "neighborhood": "Briarwood",
+  "address": "84-19 Lander Street",
+  "unit": "1A",
+  "zip": "11435",
+  "bbl": "4097160116",
+  "bin": "4207880",
+  "geocode_match": "84-19 LANDER STREET, Briarwood, NY, USA",
+  "latitude": 40.71314,
+  "longitude": -73.8154,
+  "rent": 1850,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-12T00:11:25.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": 450,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-06-11",
+  "transit": {
+    "nearest_station": "Briarwood",
+    "nearest_lines": [
+      "E",
+      "F"
+    ],
+    "nearest_distance_mi": 0.323,
+    "nearest_walk_min": 6,
+    "all_nearby_lines": [
+      "E",
+      "F"
+    ],
+    "stations": [
+      {
+        "station": "Briarwood",
+        "lines": [
+          "E",
+          "F"
+        ],
+        "distance_mi": 0.323,
+        "walk_min": 6
+      },
+      {
+        "station": "Sutphin Blvd",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 0.569,
+        "walk_min": 11
+      },
+      {
+        "station": "Parsons Blvd",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 0.696,
+        "walk_min": 14
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 1,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34406673X",
+        "bin": "4207880",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Hazardous",
+        "violation_type": "Construction",
+        "description": "FAILURE TO SAFEGUARD PUBLIC AND PROPERTY EFFECTED BY CONSTRUCTION OPERATION THE FOLLOWING DEFFECT WAS OBSERVED 1 CONSTRUCTION SITE IS EASILYACCESIBLE FROM ADJACENT HOUSE AT 84-15 LANDER ST SOUTH SIDE WHERE SECT",
+        "infraction_code": "B47",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20030731",
+        "hearing_status": "DISMISSED",
+        "respondent": "PARK CONSTRUCTION"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4097160116-1a.json"
+}

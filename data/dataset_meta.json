@@ -1,0 +1,26 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "query": {
+    "platform": "StreetEasy",
+    "status": "ACTIVE",
+    "price_upper_bound_net_effective": 3000,
+    "bedrooms": "studio or 1BR (0-1)",
+    "areas": "all 5 NYC boroughs"
+  },
+  "counts": {
+    "listings": 1613,
+    "listings_with_bbl": 1613,
+    "listings_without_bbl": 0,
+    "distinct_buildings": 1192,
+    "gross_over_3000": 183,
+    "violation_rows": 229479
+  },
+  "sources": {
+    "hpd": "wvxf-dwi5",
+    "ecb": "6bgk-3dad",
+    "dob": "3h2n-5cm9",
+    "geocode": "planninglabs geosearch v2",
+    "subway": "i9wp-a4ja"
+  }
+}

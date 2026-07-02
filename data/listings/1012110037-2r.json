@@ -1,0 +1,281 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5080828",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/108-west-81-street-new_york/2r",
+  "borough": "manhattan",
+  "neighborhood": "Upper West Side",
+  "address": "108 West 81st Street",
+  "unit": "2R",
+  "zip": "10024",
+  "bbl": "1012110037",
+  "bin": "1031980",
+  "geocode_match": "108 WEST 81 STREET, New York, NY, USA",
+  "latitude": 40.783371,
+  "longitude": -73.975165,
+  "rent": 3150,
+  "net_effective_rent": 2888,
+  "gross_over_3000": true,
+  "no_fee": false,
+  "months_free": 1,
+  "lease_term_months": 12,
+  "price_delta": null,
+  "price_changed_at": "2026-06-23T12:39:36.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "MIXED_USE",
+  "status": "ACTIVE",
+  "available_date": "2026-08-01",
+  "transit": {
+    "nearest_station": "81 St-Museum of Natural History",
+    "nearest_lines": [
+      "C",
+      "B"
+    ],
+    "nearest_distance_mi": 0.19,
+    "nearest_walk_min": 4,
+    "all_nearby_lines": [
+      "C",
+      "B",
+      "1"
+    ],
+    "stations": [
+      {
+        "station": "81 St-Museum of Natural History",
+        "lines": [
+          "C",
+          "B"
+        ],
+        "distance_mi": 0.19,
+        "walk_min": 4
+      },
+      {
+        "station": "79 St",
+        "lines": [
+          "1"
+        ],
+        "distance_mi": 0.239,
+        "walk_min": 5
+      },
+      {
+        "station": "86 St",
+        "lines": [
+          "C",
+          "B"
+        ],
+        "distance_mi": 0.317,
+        "walk_min": 6
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 4,
+      "hpd_open": 0,
+      "hpd_class_a": 1,
+      "hpd_class_b": 0,
+      "hpd_class_c": 3,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2016-01-16T00:00:00.000",
+      "ecb_total": 4,
+      "ecb_active": 0,
+      "ecb_penalty_total": 2650,
+      "ecb_balance_due": 0,
+      "dob_total": 3,
+      "dob_open": 0
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "10086645",
+        "bbl": "1012110037",
+        "bin": "1031980",
+        "class": "C",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": true,
+        "description": "§ 27-2029 ADM CODE PROVIDE AN ADEQUATE SUPPLY OF HEAT FOR THE APARTMENT IN THE ENTIRE APARTMENT LOCATED AT APT 1R, 1st STORY, 1st APARTMENT FROM EAST AT SOUTH",
+        "apartment": "1R",
+        "story": "1",
+        "inspection_date": "2014-01-06T00:00:00.000",
+        "nov_issued_date": "2014-01-09T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2014-03-31T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "10086656",
+        "bbl": "1012110037",
+        "bin": "1031980",
+        "class": "C",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": true,
+        "description": "§ 27-2031 ADM CODE PROVIDE HOT WATER AT ALL HOT WATER FIXTURES IN THE ENTIRE APARTMENT LOCATED AT APT 1R, 1st STORY, 1st APARTMENT FROM EAST AT SOUTH",
+        "apartment": "1R",
+        "story": "1",
+        "inspection_date": "2014-01-06T00:00:00.000",
+        "nov_issued_date": "2014-01-09T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2014-03-31T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "10086670",
+        "bbl": "1012110037",
+        "bin": "1031980",
+        "class": "C",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "SECTION 27-2033 ADM CODE PROVIDE READY ACCESS TO BUILDINGS HEATING SYSTEM LOCK BOILER ROOM AT CELLAR",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2014-01-06T00:00:00.000",
+        "nov_issued_date": "2014-01-09T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2014-03-31T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "11077750",
+        "bbl": "1012110037",
+        "bin": "1031980",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "SECTION 27-2104 ADM CODE POST AND MAINTAIN A PROPER SIGN ON WALL OF ENTRANCE STORY SHOWING THE REGISTRATION NUMBER ASSIGNED BY THE DEPARTMENT AND THE ADDRESS OF THE BUILDING.",
+        "apartment": null,
+        "story": "0",
+        "inspection_date": "2016-01-16T00:00:00.000",
+        "nov_issued_date": "2016-01-19T00:00:00.000",
+        "current_status": "VIOLATION CLOSED",
+        "current_status_date": "2016-05-12T00:00:00.000"
+      }
+    ],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "35096551N",
+        "bin": "1031980",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Unknown",
+        "description": "FAILURE TO MAINTAIN BLDG IN A CODE COMPLIANT MANNER: FAILURE TO PROVIDE # OF REQUIRED MEANS OF EGRESS FOR EVERY FLOOR PER BC 1018.1 & 27-366WORDED TRANSIENTLY OCCUPIED BLDG W/O REQUIRED MEANS OF EGRESS.",
+        "infraction_code": "189",
+        "penalty_imposed": 1200,
+        "amount_paid": 1200,
+        "balance_due": 0,
+        "issue_date": "20140911",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "BREN-EL REALTY LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35096553R",
+        "bin": "1031980",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Unknown",
+        "description": "SEC. 907.2.8 FAILURE TO PROVIDE FIRE ALARM SYSTEM IN TRANSIENTLY OCCUPIED BLDG. REMEDY: DISCONTINUE ILLEGAL OCCUPANCY.",
+        "infraction_code": "206",
+        "penalty_imposed": 400,
+        "amount_paid": 400,
+        "balance_due": 0,
+        "issue_date": "20140911",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "BREN-EL REALTY LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35096550L",
+        "bin": "1031980",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Unknown",
+        "description": "PERMANENT DWELLING USED/CONVERTED FOR OTHER THAN PERMANENT - RESIDENTIAL PURPOSES. NOTED: C OF O #52239 INDICATES 3 STY BLDG TO BE LEGALLY APPROVED AS MULTIPLE DWELLING. CLASS'A' APT #1F ON 1ST FL NOW CONVERTED",
+        "infraction_code": "2F3",
+        "penalty_imposed": 800,
+        "amount_paid": 800,
+        "balance_due": 0,
+        "issue_date": "20140911",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "BREN EL REALTY LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35096552P",
+        "bin": "1031980",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Plumbing",
+        "description": "FAILURE TO MAINTAIN BLDG IN CODE COMPLIANT MANNER: LACK OF A SYSTEM OFAUTOMATIC SPRINKLERS WHERE REQUIRED PER BC 903.2;27-954. NOTED: TRANSIENTLY OCCUPIED BLDG W/O SPRINKLERS INSIDE APT (1F EXCEPT KITCHEN).",
+        "infraction_code": "255",
+        "penalty_imposed": 250,
+        "amount_paid": 250,
+        "balance_due": 0,
+        "issue_date": "20140911",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "BREN-EL REALTY LLC"
+      }
+    ],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "04917",
+        "bin": "1031980",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "LL6291-LOCAL LAW 62/91 - BOILERS BOILER REQUIRED",
+        "type_code": "LL6291",
+        "description": null,
+        "issue_date": "19940901",
+        "disposition_comments": "FINE PAID 500 DOLLARS FOR 1993 CHECK #10216 VIOLATION DISMISSED"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "00048",
+        "bin": "1031980",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "AEUHAZ1-FAIL TO CERTIFY CLASS 1 NONE",
+        "type_code": "AEUHAZ1",
+        "description": "FAILURE TO CERTIFY CORRECTION ON IMMEDIATELY HAZARDOUS (CLASS 1) ECB VIOLATION",
+        "issue_date": "20141217",
+        "disposition_comments": "ECB DOWNGRADED TO CLASS 2 OR 3"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "00047",
+        "bin": "1031980",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "AEUHAZ1-FAIL TO CERTIFY CLASS 1 NONE",
+        "type_code": "AEUHAZ1",
+        "description": "FAILURE TO CERTIFY CORRECTION ON IMMEDIATELY HAZARDOUS (CLASS 1) ECB VIOLATION",
+        "issue_date": "20141217",
+        "disposition_comments": "INVOICE 12791994"
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "1012110037-2r.json"
+}

@@ -1,0 +1,209 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5058232",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/fabric-astoria/2j",
+  "borough": "queens",
+  "neighborhood": "Ditmars-Steinway",
+  "address": "22-51 45th Street",
+  "unit": "2J",
+  "zip": "11105",
+  "bbl": "4007697502",
+  "bin": "4624960",
+  "geocode_match": "22-51 45 STREET, Astoria, NY, USA",
+  "latitude": 40.76936,
+  "longitude": -73.90457,
+  "rent": 3220,
+  "net_effective_rent": 2725,
+  "gross_over_3000": true,
+  "no_fee": false,
+  "months_free": 2,
+  "lease_term_months": 13,
+  "price_delta": null,
+  "price_changed_at": "2026-06-01T17:06:05.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-06-30",
+  "transit": {
+    "nearest_station": "Astoria-Ditmars Blvd",
+    "nearest_lines": [
+      "N",
+      "W"
+    ],
+    "nearest_distance_mi": 0.546,
+    "nearest_walk_min": 11,
+    "all_nearby_lines": [
+      "N",
+      "W"
+    ],
+    "stations": [
+      {
+        "station": "Astoria-Ditmars Blvd",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.546,
+        "walk_min": 11
+      },
+      {
+        "station": "Astoria Blvd",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.655,
+        "walk_min": 13
+      },
+      {
+        "station": "30 Av",
+        "lines": [
+          "N",
+          "W"
+        ],
+        "distance_mi": 0.865,
+        "walk_min": 17
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 6,
+      "ecb_active": 0,
+      "ecb_penalty_total": 25000,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "39519990M",
+        "bin": "4624960",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Unknown",
+        "description": "RESPONDING TO INCIDENT WHERE WORKER INJURED HIS LEFT ARM. INSPECTION REVEAL INADEQUATE PRE-SHIFT MEETING, FAIL TO INCLUDE SPECIFIC USE OF EQUIPMENT. FULL SCOPE OF WORK WAS NOT ADEQUATE, PREPARATION OR VENTILATI",
+        "infraction_code": "1K1",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20230731",
+        "hearing_status": "DISMISSED",
+        "respondent": "MEGA CONTRACTING GP LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39519989P",
+        "bin": "4624960",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Construction",
+        "description": "INCIDENT WHERE A WORKER GOT BURN WHILE HANDLING A FLAMMABLE GAS KETTLE. INSPECTION REVEAL THAT WORKER WAS NOT CERTIFIED FOR OPERATION, NO PERMITS ACQUIRE FOR KETTLE USE(630-02,68) & NO ADDITIONAL SAFETY MEASURE",
+        "infraction_code": "106",
+        "penalty_imposed": 12500,
+        "amount_paid": 12500,
+        "balance_due": 0,
+        "issue_date": "20230731",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "MEGA CONTRACTING GP LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35659606H",
+        "bin": "4624960",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Unknown",
+        "description": "FAILURE TO MAINTAIN SUPPORTED SCAFFOLD IN CODE-COMPLIANCE. AT TIME OF INSPECTION OF A CLOSED SITE, OBSERVED A SUPPORTED SCAFFOLD AT EXP. #1-APPROX. 80FT IN HEIGHT WITH LOOSE AND TORN NETTING, LARGE GAPS IN NETT",
+        "infraction_code": "2P7",
+        "penalty_imposed": 2500,
+        "amount_paid": 2500,
+        "balance_due": 0,
+        "issue_date": "20231217",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "MEGA CONTRACTING GP LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39519994J",
+        "bin": "4624960",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Construction",
+        "description": "AT TIME OF MY INSPECTION ON A ACTIVE JOBSITE OF A 8 STORY NB,OBSERVED THAT GUARDRAILS WERE MISSING OR NOT BUILD/MAINTAINED AS PER CODE-LOSE NETTINGS ,HOLES GURDRAIL NOT SECURED THROUGHOUT ENTIRE JOBSITE.THIS C",
+        "infraction_code": "115",
+        "penalty_imposed": 5000,
+        "amount_paid": 5000,
+        "balance_due": 0,
+        "issue_date": "20230731",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "MEGA CONTRACTING GP LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39519988N",
+        "bin": "4624960",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Construction",
+        "description": "AT TIME OF MY INSPECTION ON A ACTIVE JOBSITE OF A 8 STORY NB, OBSERVED SUPORTED SCAFFOLD AT EXP#1,2,3,,4 WITCH HAD LOSE PLANKS,LOSE NETTINGS,NOT CLEAN AND MAINTAIN AS PER CODE.THIS CREATES A HAZARDOUS CONDITION",
+        "infraction_code": "106",
+        "penalty_imposed": 2500,
+        "amount_paid": 2500,
+        "balance_due": 0,
+        "issue_date": "20230731",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "MEGA CONTRACTING GP LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39519993H",
+        "bin": "4624960",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Construction",
+        "description": "AT TIME OF MY INSPECTION ON A ACTIVE JOBSITE OF A 8 STORY NB, I OBSERVED AT EXP#4 ADJ.ROOF PROTECTION WERE INADEQUATE,MISSING OSHA PLANKS / NOT FULLY PROTECTED.FAILURE TO PROVIDE/MANTAIN ROOF PROTECTION CREA",
+        "infraction_code": "106",
+        "penalty_imposed": 2500,
+        "amount_paid": 2500,
+        "balance_due": 0,
+        "issue_date": "20230731",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "MEGA CONTRACTING GP LLC"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4007697502-2j.json"
+}

@@ -1,0 +1,259 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5057573",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/186-orchard-street-new_york/5fs",
+  "borough": "manhattan",
+  "neighborhood": "Lower East Side",
+  "address": "186 Orchard Street",
+  "unit": "5FS",
+  "zip": "10002",
+  "bbl": "1004120008",
+  "bin": "1005391",
+  "geocode_match": "186 ORCHARD STREET, New York, NY, USA",
+  "latitude": 40.721951,
+  "longitude": -73.98801,
+  "rent": 2700,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": 50,
+  "price_changed_at": "2026-06-24T02:25:17.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-09-01",
+  "transit": {
+    "nearest_station": "2 Av",
+    "nearest_lines": [
+      "F"
+    ],
+    "nearest_distance_mi": 0.077,
+    "nearest_walk_min": 2,
+    "all_nearby_lines": [
+      "F",
+      "M",
+      "J",
+      "Z"
+    ],
+    "stations": [
+      {
+        "station": "2 Av",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 0.077,
+        "walk_min": 2
+      },
+      {
+        "station": "Delancey St-Essex St",
+        "lines": [
+          "F",
+          "M",
+          "J",
+          "Z"
+        ],
+        "distance_mi": 0.204,
+        "walk_min": 4
+      },
+      {
+        "station": "Bowery",
+        "lines": [
+          "J",
+          "Z"
+        ],
+        "distance_mi": 0.305,
+        "walk_min": 6
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 2,
+      "hpd_open": 0,
+      "hpd_class_a": 1,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 1,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2021-04-01T00:00:00.000",
+      "ecb_total": 6,
+      "ecb_active": 0,
+      "ecb_penalty_total": 5000,
+      "ecb_balance_due": 0,
+      "dob_total": 1,
+      "dob_open": 0
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "14102564",
+        "bbl": "1004120008",
+        "bin": "1005391",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2021-04-01T00:00:00.000",
+        "nov_issued_date": "2021-04-01T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2021-04-15T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "14102565",
+        "bbl": "1004120008",
+        "bin": "1005391",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2021-04-01T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2021-04-08T00:00:00.000"
+      }
+    ],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34316177H",
+        "bin": "1005391",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Non-Hazardous",
+        "violation_type": "Construction",
+        "description": "FAILURE TO PROVIDE APPROVED PLANS AT TIME OF INSPECTION. NOTED: WORK IN PROGRESS UNDER PERMIT #102491484 WITHOUT HAVING APPROVED PLANS ON JOB SITE AT TIME OF INSPECTION. REMEDY: STOP ALL WORK: PROVIDE APPROVED",
+        "infraction_code": "B27",
+        "penalty_imposed": 0,
+        "amount_paid": 130,
+        "balance_due": 0,
+        "issue_date": "20020222",
+        "hearing_status": "CURED/IN-VIO",
+        "respondent": "ALLAN ORCHARD LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "34699523M",
+        "bin": "1005391",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "FAILURE TO PROVIDE POST SIGNS AT JOBSITE PURSUANT TO SUBSECTION NOTED THERE IS NO VISIBLE SIGNAGE ON PARAPET OR OTHERWISE REMEDY: PROVIDE CONTRACTORS SIGN",
+        "infraction_code": "217",
+        "penalty_imposed": 4000,
+        "amount_paid": 4008,
+        "balance_due": 0,
+        "issue_date": "20080729",
+        "hearing_status": "DEFAULT",
+        "respondent": "S&C BRIDGE & SCAFFOLD LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "34699524Y",
+        "bin": "1005391",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "FAILURE TO PROVIDE APPROVED ACCEPTED PLANS AT JOB SITE AT TIME OF INSPNOTED THERE ARE NO PLANS AVAILABLE FOR INSP REMEDY: PROVIDE PLANS",
+        "infraction_code": "210",
+        "penalty_imposed": 500,
+        "amount_paid": 500,
+        "balance_due": 0,
+        "issue_date": "20080729",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "S&E BRIDGE & SCAFFOLD LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "34699521Z",
+        "bin": "1005391",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "FAILED TO OBTAIN A TEMPORARY CONSTRUCTION PERMIT PRIOR TO INSTALLATIONUSE OF SIDEWALK SHED NOTED THERE IS NO PERMIT ON FILE DOB DATABASE OR POSTED ON SHED REMEDY: OBTAIN TEMPORARY CONSTRUCTION PERMIT.",
+        "infraction_code": "250",
+        "penalty_imposed": 500,
+        "amount_paid": 500,
+        "balance_due": 0,
+        "issue_date": "20080729",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "S&E BRIDGE & SCAFFOLD LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35438703K",
+        "bin": "1005391",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "PEDESTRIAN PROTECTION DOES NOT MEET CODE REQUIREMENTS NOTED:OBSERVED SWS THAT WAS HIT BY TRUCK IN FROM OF 6 STORY BUILDING MANAGER OF STORE ON 1ST FLOOR STATED THAT A TRUCK HIT PARTIALLY ERECTED SWS COMPROMISIN",
+        "infraction_code": "223",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20190802",
+        "hearing_status": "DISMISSED",
+        "respondent": "TIME CONTRACTING"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35438702Z",
+        "bin": "1005391",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Construction",
+        "description": "FAILURE TO IMMEDIATELY NOTIFY THE DEPARTMENT OF AN ACCIDENT OR DAMAGE TO ADJOINING PROPERTY AT A CONSTRUCTION/DEMOSITE NOTE:AT TIME OF INSPECTION OBSERVED SWS PARTIALLY COMPLETED ONLY POSTS GIRDERS AND BRACES E",
+        "infraction_code": "192",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20190802",
+        "hearing_status": "DISMISSED",
+        "respondent": "TIME CONTRACTING"
+      }
+    ],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "00007",
+        "bin": "1005391",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "AEUHAZ1-FAIL TO CERTIFY CLASS 1 NONE",
+        "type_code": "AEUHAZ1",
+        "description": "FAILURE TO CERTIFY CORRECTION ON IMMEDIATELY HAZARDOUS (CLASS 1) ECB VIOLATION",
+        "issue_date": "20191030",
+        "disposition_comments": "ECB DISMISSED"
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "1004120008-5fs.json"
+}

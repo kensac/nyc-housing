@@ -1,0 +1,139 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5082080",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/1116-halsey-street-brooklyn/1b",
+  "borough": "brooklyn",
+  "neighborhood": "Bushwick",
+  "address": "1116 Halsey Street",
+  "unit": "1B",
+  "zip": "11207",
+  "bbl": "3034100022",
+  "bin": "3078797",
+  "geocode_match": "1116 HALSEY STREET, Brooklyn, NY, USA",
+  "latitude": 40.689209,
+  "longitude": -73.911505,
+  "rent": 2995,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-24T10:55:42.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1.5,
+  "sqft": null,
+  "building_type": "THREEFAMILY",
+  "status": "ACTIVE",
+  "available_date": "2026-08-01",
+  "transit": {
+    "nearest_station": "Halsey St",
+    "nearest_lines": [
+      "J"
+    ],
+    "nearest_distance_mi": 0.313,
+    "nearest_walk_min": 6,
+    "all_nearby_lines": [
+      "J",
+      "L",
+      "Z"
+    ],
+    "stations": [
+      {
+        "station": "Halsey St",
+        "lines": [
+          "J"
+        ],
+        "distance_mi": 0.313,
+        "walk_min": 6
+      },
+      {
+        "station": "Wilson Av",
+        "lines": [
+          "L"
+        ],
+        "distance_mi": 0.355,
+        "walk_min": 7
+      },
+      {
+        "station": "Chauncey St",
+        "lines": [
+          "J",
+          "Z"
+        ],
+        "distance_mi": 0.398,
+        "walk_min": 8
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 2,
+      "ecb_active": 1,
+      "ecb_penalty_total": 500,
+      "ecb_balance_due": 500,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "35273784Z",
+        "bin": "3078797",
+        "status": "ACTIVE",
+        "is_open": true,
+        "severity": "CLASS - 3",
+        "violation_type": "Zoning",
+        "description": "ZR25-621/ZONING NON-CONFORMING-LOCATION OF ACCESSORY PARKING PAD.OBSERVED FRONT YARD (EXP 1)BEING USES AS OPEN OFF STREET ACCESSORY PARKING AREA IN VIOLATION OF ZR25-621,MAROON PLYMOUT CARAVAN WITH NY PLATE NUM",
+        "infraction_code": "384",
+        "penalty_imposed": 500,
+        "amount_paid": 0,
+        "balance_due": 500,
+        "issue_date": "20180922",
+        "hearing_status": "DEFAULT",
+        "respondent": "WILLIAM MELVINA B"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "35001577R",
+        "bin": "3078797",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 3",
+        "violation_type": "Construction",
+        "description": "WORK W/O A PERMIT: WORK NOTED OUTSIDE 10'X15'PARKING PARD, GATES & FENCE ENCLOSURE AT FRONT. RMDY: OBTAIN A PERMIT AND/OR RESTORE TO PRIOR LEGAL USE.",
+        "infraction_code": "301",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20130506",
+        "hearing_status": "DISMISSED",
+        "respondent": "MILFORD P WILLIAMS"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3034100022-1b.json"
+}

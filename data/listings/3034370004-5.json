@@ -1,0 +1,171 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5083488",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/893-knickerbocker-avenue-brooklyn/5",
+  "borough": "brooklyn",
+  "neighborhood": "Bushwick",
+  "address": "893 Knickerbocker Avenue",
+  "unit": "5",
+  "zip": "11207",
+  "bbl": "3034370004",
+  "bin": "3079805",
+  "geocode_match": "893 KNICKERBOCKER AVENUE, Brooklyn, NY, USA",
+  "latitude": 40.691179,
+  "longitude": -73.904513,
+  "rent": 3245,
+  "net_effective_rent": 2975,
+  "gross_over_3000": true,
+  "no_fee": false,
+  "months_free": 1,
+  "lease_term_months": 12,
+  "price_delta": null,
+  "price_changed_at": "2026-06-25T14:52:15.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "TWOFAMILY",
+  "status": "ACTIVE",
+  "available_date": "2026-06-25",
+  "transit": {
+    "nearest_station": "Wilson Av",
+    "nearest_lines": [
+      "L"
+    ],
+    "nearest_distance_mi": 0.164,
+    "nearest_walk_min": 3,
+    "all_nearby_lines": [
+      "L"
+    ],
+    "stations": [
+      {
+        "station": "Wilson Av",
+        "lines": [
+          "L"
+        ],
+        "distance_mi": 0.164,
+        "walk_min": 3
+      },
+      {
+        "station": "Halsey St",
+        "lines": [
+          "L"
+        ],
+        "distance_mi": 0.282,
+        "walk_min": 6
+      },
+      {
+        "station": "Bushwick Av-Aberdeen St",
+        "lines": [
+          "L"
+        ],
+        "distance_mi": 0.613,
+        "walk_min": 12
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 3,
+      "hpd_open": 1,
+      "hpd_class_a": 2,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 1,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2026-06-15T00:00:00.000",
+      "ecb_total": 1,
+      "ecb_active": 0,
+      "ecb_penalty_total": 800,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "16471623",
+        "bbl": "3034370004",
+        "bin": "3079805",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2023-11-28T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2024-11-22T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "19006737",
+        "bbl": "3034370004",
+        "bin": "3079805",
+        "class": "A",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "§ 27-2104 ADM CODE POST AND MAINTAIN A PROPER SIGN ON WALL OF ENTRANCE STORY SHOWING THE REGISTRATION NUMBER ASSIGNED BY THE DEPARTMENT AND THE ADDRESS OF THE BUILDING. AT PUBLIC HALL, 1st STORY",
+        "apartment": null,
+        "story": "1",
+        "inspection_date": "2026-06-15T00:00:00.000",
+        "nov_issued_date": "2026-06-18T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2026-06-18T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "17990804",
+        "bbl": "3034370004",
+        "bin": "3079805",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2025-06-10T00:00:00.000",
+        "nov_issued_date": "2025-06-10T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2025-06-11T00:00:00.000"
+      }
+    ],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34386033M",
+        "bin": "3079805",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Hazardous",
+        "violation_type": "Plumbing",
+        "description": "PLUMBING WORK WITHOUT A PERMIT. AT TIME OF INSPECTION OBSERVED FULL BATHROOM IN BASEMENT CONSISTING OF TUB, TOILET, AND LAVATORY. REMEDY: OBTAIN A PERMIT IF FEASIBLE OR RESTORE TO PRIOR LEGAL CONDITION.",
+        "infraction_code": "BA2",
+        "penalty_imposed": 800,
+        "amount_paid": 800,
+        "balance_due": 0,
+        "issue_date": "20030415",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "CARLOS LANDI"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3034370004-5.json"
+}

@@ -1,0 +1,157 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5067985",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/42_22-bell-boulevard-bayside/2r",
+  "borough": "queens",
+  "neighborhood": "Bayside",
+  "address": "42-28 Bell Boulevard",
+  "unit": "2R",
+  "zip": "11361",
+  "bbl": "4062840036",
+  "bin": "4138221",
+  "geocode_match": "42-28 BELL BOULEVARD, Bayside, NY, USA",
+  "latitude": 40.762011,
+  "longitude": -73.770472,
+  "rent": 2300,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": 100,
+  "price_changed_at": "2026-06-15T14:07:30.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "MIXED_USE",
+  "status": "ACTIVE",
+  "available_date": "2026-07-01",
+  "transit": {
+    "nearest_station": "Flushing-Main St",
+    "nearest_lines": [
+      "7"
+    ],
+    "nearest_distance_mi": 3.036,
+    "nearest_walk_min": 61,
+    "all_nearby_lines": [
+      "7",
+      "F"
+    ],
+    "stations": [
+      {
+        "station": "Flushing-Main St",
+        "lines": [
+          "7"
+        ],
+        "distance_mi": 3.036,
+        "walk_min": 61
+      },
+      {
+        "station": "Jamaica-179 St",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 3.427,
+        "walk_min": 69
+      },
+      {
+        "station": "169 St",
+        "lines": [
+          "F"
+        ],
+        "distance_mi": 3.714,
+        "walk_min": 74
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 1,
+      "ecb_active": 0,
+      "ecb_penalty_total": 500,
+      "ecb_balance_due": 0,
+      "dob_total": 3,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34916423N",
+        "bin": "4138221",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 3",
+        "violation_type": "Construction",
+        "description": "WORK PERFORMED DOES NOT CONFORM TO APPROVED CONST DOCUMENTS SUBMITTED FOR SIGN OFF,PERMIT EXPIRED NON-CONFORMING WORK OBSERVED(1)@ CELLAR TWO PIECE TOILET NO MECHIANICAL VENT INSTALLED AS INDICATED ON PLANS.BAT",
+        "infraction_code": "382",
+        "penalty_imposed": 500,
+        "amount_paid": 466,
+        "balance_due": 0,
+        "issue_date": "20140623",
+        "hearing_status": null,
+        "respondent": "CORONA GROUP LLC"
+      }
+    ],
+    "dob": [
+      {
+        "source": "DOB",
+        "violation_id": "ER01JM",
+        "bin": "4138221",
+        "category": "VW*-VIOLATION - WORK W/O PERMIT DISMISSED",
+        "is_open": false,
+        "violation_type": "C-CONSTRUCTION OTHER OPTIONAL",
+        "type_code": "C",
+        "description": null,
+        "issue_date": "20081227",
+        "disposition_comments": "OK TO DISMISS DATA ENTERED UNDER ADDRESSINCORRECTLY SHOULD BE 47-22"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "CNE01DG",
+        "bin": "4138221",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "C-CONSTRUCTION OTHER OPTIONAL",
+        "type_code": "C",
+        "description": "DUE TO FIRE",
+        "issue_date": "20190115",
+        "disposition_comments": "OK TO DISMISS VACATING CONDITIONS HAVE BEEN CORRECTED, RESCINDED"
+      },
+      {
+        "source": "DOB",
+        "violation_id": "12514",
+        "bin": "4138221",
+        "category": "V*-DOB VIOLATION - DISMISSED",
+        "is_open": false,
+        "violation_type": "IMEGNCY-IMMEDIATE EMERGENCY ANYTHINGOPTIONAL",
+        "type_code": "IMEGNCY",
+        "description": "INSTALL APPROX. 30 LINEAR FEET OF SIDEWALK SHED AT EXP#1 TO SAFEGUARD PUBLIC AND PROPERTY .SEAL ALL ACCESSIBLE OPENINGS TO SECURE AGAINST UNAUTHORIZED ACCESS & SAFEGUARD PUBLIC",
+        "issue_date": "20190117",
+        "disposition_comments": "OK TO DISMISS VACATING CONDITIONS HAVE BEEN CORRECTED, RESCINDED"
+      }
+    ]
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4062840036-2r.json"
+}

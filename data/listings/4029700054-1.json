@@ -1,0 +1,124 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5042423",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/62_47-82-place-middle_village/1",
+  "borough": "queens",
+  "neighborhood": "Middle Village",
+  "address": "62-47 82nd Place",
+  "unit": "1",
+  "zip": "11379",
+  "bbl": "4029700054",
+  "bin": "4068515",
+  "geocode_match": "62-47 82 PLACE, Middle Village, NY, USA",
+  "latitude": 40.723165,
+  "longitude": -73.874057,
+  "rent": 2300,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-05-13T22:29:41.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "HOUSE",
+  "status": "ACTIVE",
+  "available_date": "2026-05-13",
+  "transit": {
+    "nearest_station": "Woodhaven Blvd",
+    "nearest_lines": [
+      "M",
+      "R"
+    ],
+    "nearest_distance_mi": 0.711,
+    "nearest_walk_min": 14,
+    "all_nearby_lines": [
+      "M",
+      "R"
+    ],
+    "stations": [
+      {
+        "station": "Woodhaven Blvd",
+        "lines": [
+          "M",
+          "R"
+        ],
+        "distance_mi": 0.711,
+        "walk_min": 14
+      },
+      {
+        "station": "63 Dr-Rego Park",
+        "lines": [
+          "M",
+          "R"
+        ],
+        "distance_mi": 0.756,
+        "walk_min": 15
+      },
+      {
+        "station": "Grand Av-Newtown",
+        "lines": [
+          "M",
+          "R"
+        ],
+        "distance_mi": 0.892,
+        "walk_min": 18
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 1,
+      "ecb_active": 0,
+      "ecb_penalty_total": 800,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34507283N",
+        "bin": "4068515",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Hazardous",
+        "violation_type": "Quality of Life",
+        "description": "WORK WITHOUT A PERMIT. WORK NOTED: AT BASEMENT LEVEL. ERECTED FULL HEIGHT PARTITIONS, CREATED 3 ROOMS WITH CONVERSION OF 2 CAR GARAGE INTO 2ROOMS. REMEDY: OBTAIN A PERMIT OR RESTORE TO PRIOR LEGAL CONDITION.",
+        "infraction_code": "BQ2",
+        "penalty_imposed": 800,
+        "amount_paid": 800,
+        "balance_due": 0,
+        "issue_date": "20060118",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "KRYSTYNA SZYMCZYK"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "4029700054-1.json"
+}

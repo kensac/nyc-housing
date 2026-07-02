@@ -1,0 +1,227 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5081938",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/1193-nostrand-avenue-brooklyn/3b",
+  "borough": "brooklyn",
+  "neighborhood": "Prospect Lefferts Gardens",
+  "address": "1193 Nostrand Avenue",
+  "unit": "3B",
+  "zip": "11225",
+  "bbl": "3048140005",
+  "bin": "3107259",
+  "geocode_match": "1193 NOSTRAND AVENUE, Brooklyn, NY, USA",
+  "latitude": 40.658203,
+  "longitude": -73.950121,
+  "rent": 2998,
+  "net_effective_rent": 0,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 0,
+  "lease_term_months": null,
+  "price_delta": null,
+  "price_changed_at": "2026-06-23T23:54:28.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "MIXED_USE",
+  "status": "ACTIVE",
+  "available_date": "2026-08-01",
+  "transit": {
+    "nearest_station": "Winthrop St",
+    "nearest_lines": [
+      "2",
+      "5"
+    ],
+    "nearest_distance_mi": 0.07,
+    "nearest_walk_min": 1,
+    "all_nearby_lines": [
+      "2",
+      "5"
+    ],
+    "stations": [
+      {
+        "station": "Winthrop St",
+        "lines": [
+          "2",
+          "5"
+        ],
+        "distance_mi": 0.07,
+        "walk_min": 1
+      },
+      {
+        "station": "Sterling St",
+        "lines": [
+          "2",
+          "5"
+        ],
+        "distance_mi": 0.349,
+        "walk_min": 7
+      },
+      {
+        "station": "Church Av",
+        "lines": [
+          "2",
+          "5"
+        ],
+        "distance_mi": 0.5,
+        "walk_min": 10
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 3,
+      "hpd_open": 2,
+      "hpd_class_a": 2,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 1,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2026-05-05T00:00:00.000",
+      "ecb_total": 4,
+      "ecb_active": 0,
+      "ecb_penalty_total": 8125,
+      "ecb_balance_due": 3977,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "18886042",
+        "bbl": "3048140005",
+        "bin": "3107259",
+        "class": "A",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2026-05-05T00:00:00.000",
+        "nov_issued_date": "2026-05-05T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2026-05-05T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "17996458",
+        "bbl": "3048140005",
+        "bin": "3107259",
+        "class": "A",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2025-06-10T00:00:00.000",
+        "nov_issued_date": "2025-06-10T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2025-06-10T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "18417863",
+        "bbl": "3048140005",
+        "bin": "3107259",
+        "class": "I",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§27-2107 ADM CODE OWNER FAILED TO FILE A VALID REGISTRATION STATEMENT WITH THE DEPARTMENT AS REQUIRED BY ADM CODE §27-2097 AND IS THEREFORE SUBJECT TO CIVIL PENALTIES, PROHIBITED FROM CERTIFYING VIOLATIONS, AND DENIED THE RIGHT TO RECOVER POSSESSION OF PREMISES FOR NONPAYMENT OF RENT UNTIL A VALID REGISTRATION STATEMENT IS FILED.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2025-11-20T00:00:00.000",
+        "nov_issued_date": null,
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2026-01-13T00:00:00.000"
+      }
+    ],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "39521352K",
+        "bin": "3107259",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Construction",
+        "description": "LOADS IMPOSED. RESPONDING A COMPLAINT OBSERVED: ACTIVE JOB SITE PUMPJACK INSTALLED AND USE AT EXPO# 2, UPON REQUEST FOR IMPOSED LOAD LETTER NONE WAS PROVIDED, NO CALCULATIONS CREATE A POTENTIAL SAFETY HAZARDOUS",
+        "infraction_code": "206",
+        "penalty_imposed": 625,
+        "amount_paid": 625,
+        "balance_due": 0,
+        "issue_date": "20230905",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "ROGERS DEVELOPERS GRP LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39517545P",
+        "bin": "3107259",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Site Safety",
+        "description": "AT THE TIME OF MY INSPECTION RESPONDING TO COMPLAINT CONSTRUCTION IN PROGRESS OBSERVED SHORING IN CELLAR. UPON REQUEST DETAILS DESIGN DRAWING FROM CONSTRUCTION SUPERINTENDENT NONE WERE PROVIDE WHICH CREATE COLL",
+        "infraction_code": "1F2",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20230607",
+        "hearing_status": "DISMISSED",
+        "respondent": "ROGERS DEVELOPERS GRP LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39521353M",
+        "bin": "3107259",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Construction",
+        "description": "RESPONDING A COMPLAINT OBSERVED: ACTIVE JOB SITE PUMPJACK INSTALLED AND USE AT EXPO# 2, UPON REQUEST FOR DETAILS FOR TIE BACKS AND SAFETY LINES NONE WAS PROVIDED, CREATING A POTENTIAL SAFETY HAZARDOUS FOR PUBLI",
+        "infraction_code": "2F7",
+        "penalty_imposed": 1250,
+        "amount_paid": 0,
+        "balance_due": 1250,
+        "issue_date": "20230905",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "ROGERS DEVELOPERS GRP LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39521728J",
+        "bin": "3107259",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Construction",
+        "description": "AT THE TIME OF MY INSPECTION OF A 5 STORY BUILDING, I OBSERVED PUMP JACK SCAFFOLDING ON ADJACENT PROPERTY ROOF AT EXPOSURE #2 UPON REQUEST FOR ACCESS AGREEMENT AND PERMISSION TO INSTALL SCAFFOLDING ON ROOF, ACC",
+        "infraction_code": "182",
+        "penalty_imposed": 6250,
+        "amount_paid": 3862,
+        "balance_due": 2727,
+        "issue_date": "20230913",
+        "hearing_status": "DEFAULT",
+        "respondent": "ROGERS DEVELOPERS GRP LLC"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3048140005-3b.json"
+}

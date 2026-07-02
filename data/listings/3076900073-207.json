@@ -1,0 +1,104 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5082956",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/2900-nostrand-avenue/207",
+  "borough": "brooklyn",
+  "neighborhood": "Madison",
+  "address": "2900 Nostrand Avenue",
+  "unit": "207",
+  "zip": "11229",
+  "bbl": "3076900073",
+  "bin": "3000000",
+  "geocode_match": "2900 NOSTRAND AVENUE, Brooklyn, NY, USA",
+  "latitude": 40.6137,
+  "longitude": -73.94474,
+  "rent": 3000,
+  "net_effective_rent": 2769,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 1,
+  "lease_term_months": 13,
+  "price_delta": null,
+  "price_changed_at": "2026-06-24T21:27:17.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-07-01",
+  "transit": {
+    "nearest_station": "Kings Hwy",
+    "nearest_lines": [
+      "B",
+      "Q"
+    ],
+    "nearest_distance_mi": 0.757,
+    "nearest_walk_min": 15,
+    "all_nearby_lines": [
+      "B",
+      "Q"
+    ],
+    "stations": [
+      {
+        "station": "Kings Hwy",
+        "lines": [
+          "B",
+          "Q"
+        ],
+        "distance_mi": 0.757,
+        "walk_min": 15
+      },
+      {
+        "station": "Avenue M",
+        "lines": [
+          "Q"
+        ],
+        "distance_mi": 0.825,
+        "walk_min": 17
+      },
+      {
+        "station": "Avenue J",
+        "lines": [
+          "Q"
+        ],
+        "distance_mi": 1.155,
+        "walk_min": 23
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 0,
+      "ecb_active": 0,
+      "ecb_penalty_total": 0,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "3076900073-207.json"
+}

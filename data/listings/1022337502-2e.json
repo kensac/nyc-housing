@@ -1,0 +1,205 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5089068",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/tryon-north/2e",
+  "borough": "manhattan",
+  "neighborhood": "Inwood",
+  "address": "4778 Broadway",
+  "unit": "2E",
+  "zip": "10034",
+  "bbl": "1022337502",
+  "bin": "1091659",
+  "geocode_match": "4778 BROADWAY, New York, NY, USA",
+  "latitude": 40.86558,
+  "longitude": -73.92604,
+  "rent": 3245,
+  "net_effective_rent": 2496,
+  "gross_over_3000": true,
+  "no_fee": false,
+  "months_free": 3,
+  "lease_term_months": 13,
+  "price_delta": null,
+  "price_changed_at": "2026-07-01T15:50:29.000Z",
+  "beds": 0,
+  "unit_type": "studio",
+  "baths": 1,
+  "sqft": null,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-07-01",
+  "transit": {
+    "nearest_station": "Dyckman St",
+    "nearest_lines": [
+      "A"
+    ],
+    "nearest_distance_mi": 0.051,
+    "nearest_walk_min": 1,
+    "all_nearby_lines": [
+      "A",
+      "1"
+    ],
+    "stations": [
+      {
+        "station": "Dyckman St",
+        "lines": [
+          "A"
+        ],
+        "distance_mi": 0.051,
+        "walk_min": 1
+      },
+      {
+        "station": "Inwood-207 St",
+        "lines": [
+          "A"
+        ],
+        "distance_mi": 0.279,
+        "walk_min": 6
+      },
+      {
+        "station": "Dyckman St",
+        "lines": [
+          "1"
+        ],
+        "distance_mi": 0.31,
+        "walk_min": 6
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 0,
+      "hpd_open": 0,
+      "hpd_class_a": 0,
+      "hpd_class_b": 0,
+      "hpd_class_c": 0,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": null,
+      "ecb_total": 6,
+      "ecb_active": 0,
+      "ecb_penalty_total": 3605,
+      "ecb_balance_due": 0,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "34013182Y",
+        "bin": "1091659",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Non-Hazardous",
+        "violation_type": "Construction",
+        "description": "ALTERED BUILDING OCCUPIED WITHOUT A VALID C OF O. REMEDY: OBTAIN A VALID C OF O OR RESTORE TO PRIOR LEGAL USE.",
+        "infraction_code": "B02",
+        "penalty_imposed": 250,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "19880912",
+        "hearing_status": "WRITTEN OFF",
+        "respondent": "JOSE VASQUEZ"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "34178251Y",
+        "bin": "1091659",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "Non-Hazardous",
+        "violation_type": "Zoning",
+        "description": "FAILURE TO COMPLY WITH ZONING RESOLUTION IN THAT SPECIAL PERMIT/VARIANCE ISSUED BY B.S.A. HAS EXPIRED ON 5-24-98 AND HAS NOT BEEN RENEWED. REMEDY: COMPLY WITH ZONING RESOLUTION.",
+        "infraction_code": "B60",
+        "penalty_imposed": 480,
+        "amount_paid": 480,
+        "balance_due": 0,
+        "issue_date": "19980910",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "BRDWY HAND CAR WASH NO"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39505648J",
+        "bin": "1091659",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "AT TIME OF INSPECTION ON A NON-ACTIVE JOBSITE, I OBSERVED A PROJECT INFORMATION PANEL POSTED ON THE CONSTRUCTION FENCE AT EXPOSURE #1 WITH MULTIPLE UNLAWFUL VANDALIZED MARKINGS. PROJECT INFORMATION PANELS SHALL",
+        "infraction_code": "217",
+        "penalty_imposed": 1250,
+        "amount_paid": 1250,
+        "balance_due": 0,
+        "issue_date": "20220826",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "JOY CONSTRUCTION CORP"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39505646X",
+        "bin": "1091659",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "AT TIME OF MY INSPECTION ON A NON-ACTIVE JOBSITE, I OBSERVED A CONSTRUCTION FENCE POORLY MAINTAINED. FOR INSTANCE, FENCE HAS MULTIPLE UNLAWFUL VANDALIZED MARKINGS AND ADVERTISEMENTS UNRELATED TO CONSTRUCTION. I",
+        "infraction_code": "211",
+        "penalty_imposed": 1000,
+        "amount_paid": 1000,
+        "balance_due": 0,
+        "issue_date": "20220826",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "JOY CONSTRUCTION CORP"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39505647H",
+        "bin": "1091659",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "AT TIME OF INSPECTION ON A NON-ACTIVE JOBSITE, OBSERVED A CONSTRUCTION FENCE IN PLACE AT EXPOSURE #1 AND NO PERMITS WERE POSTED ANYWHERE ON THE FENCE. FOR PUBLIC SAFETY, CODE STIPULATES THAT THE BUILDING PERMIT",
+        "infraction_code": "220",
+        "penalty_imposed": 625,
+        "amount_paid": 625,
+        "balance_due": 0,
+        "issue_date": "20220826",
+        "hearing_status": "IN VIOLATION",
+        "respondent": "JOY CONSTRUCTION CORP"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39517433K",
+        "bin": "1091659",
+        "status": "RESOLVE",
+        "is_open": false,
+        "severity": "CLASS - 1",
+        "violation_type": "Cranes and Derricks",
+        "description": "AT TIME OF INSPECTION OF A PROPOSED 12 STOREYS NEW BUILDING UNDER CONSTRUCTION AT POURING OF 8TH FLOOR SLAB IN PROGRESS, UPON REVIEW THE DEPARTMENT RECORD TO VERIFY COMPLIANCE IT WAS REVEAL THAT THE CONCRETE C",
+        "infraction_code": "148",
+        "penalty_imposed": 0,
+        "amount_paid": 0,
+        "balance_due": 0,
+        "issue_date": "20230605",
+        "hearing_status": "DISMISSED",
+        "respondent": "FINALE CONCRETE CORP"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "1022337502-2e.json"
+}

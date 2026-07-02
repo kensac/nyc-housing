@@ -1,0 +1,243 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-07-02T00:00:00Z",
+  "listing_id": "5086651",
+  "source": "streeteasy",
+  "source_url": "https://streeteasy.com/building/2196-3-avenue-new_york/1",
+  "borough": "manhattan",
+  "neighborhood": "East Harlem",
+  "address": "2196 3rd Avenue",
+  "unit": "1",
+  "zip": "10035",
+  "bbl": "1017680039",
+  "bin": "1054373",
+  "geocode_match": "2196 3 AVENUE, New York, NY, USA",
+  "latitude": 40.800487,
+  "longitude": -73.93858,
+  "rent": 2795,
+  "net_effective_rent": 2562,
+  "gross_over_3000": false,
+  "no_fee": false,
+  "months_free": 1,
+  "lease_term_months": 12,
+  "price_delta": 177,
+  "price_changed_at": "2026-06-30T15:32:14.000Z",
+  "beds": 1,
+  "unit_type": "1BR",
+  "baths": 1,
+  "sqft": 625,
+  "building_type": "RENTAL",
+  "status": "ACTIVE",
+  "available_date": "2026-06-29",
+  "transit": {
+    "nearest_station": "116 St",
+    "nearest_lines": [
+      "6"
+    ],
+    "nearest_distance_mi": 0.19,
+    "nearest_walk_min": 4,
+    "all_nearby_lines": [
+      "6",
+      "4",
+      "5"
+    ],
+    "stations": [
+      {
+        "station": "116 St",
+        "lines": [
+          "6"
+        ],
+        "distance_mi": 0.19,
+        "walk_min": 4
+      },
+      {
+        "station": "125 St",
+        "lines": [
+          "4",
+          "5",
+          "6"
+        ],
+        "distance_mi": 0.262,
+        "walk_min": 5
+      },
+      {
+        "station": "110 St",
+        "lines": [
+          "6"
+        ],
+        "distance_mi": 0.491,
+        "walk_min": 10
+      }
+    ],
+    "note": "Distances are straight-line miles from the building to the nearest entrance of each station; walk_min ≈ 20 min/mi."
+  },
+  "violations": {
+    "summary": {
+      "hpd_total": 6,
+      "hpd_open": 2,
+      "hpd_class_a": 2,
+      "hpd_class_b": 1,
+      "hpd_class_c": 3,
+      "hpd_class_i": 0,
+      "hpd_open_class_c": 0,
+      "hpd_rent_impairing_open": 0,
+      "hpd_last_inspection": "2026-04-29T00:00:00.000",
+      "ecb_total": 2,
+      "ecb_active": 2,
+      "ecb_penalty_total": 7530,
+      "ecb_balance_due": 7530,
+      "dob_total": 0,
+      "dob_open": 0
+    },
+    "hpd": [
+      {
+        "source": "HPD",
+        "violation_id": "16884470",
+        "bbl": "1017680039",
+        "bin": "1054373",
+        "class": "A",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2024-04-15T00:00:00.000",
+        "nov_issued_date": "2024-04-15T00:00:00.000",
+        "current_status": "VIOLATION DISMISSED",
+        "current_status_date": "2024-04-24T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "18336442",
+        "bbl": "1017680039",
+        "bin": "1054373",
+        "class": "C",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 27-2037, 2038 HMC: PROVIDE A SAFE AND ADEQUATE SUPPLY OF ELECTRIC SERVICE TO THE FIXTURES THROUGHOUT IN THE ENTIRE APARTMENT LOCATED AT APT 1B, 1st STORY, 1st APARTMENT FROM WEST AT NORTH",
+        "apartment": "1B",
+        "story": "1",
+        "inspection_date": "2025-10-31T00:00:00.000",
+        "nov_issued_date": "2025-11-17T00:00:00.000",
+        "current_status": "VIOLATION CLOSED",
+        "current_status_date": "2026-02-21T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "18835380",
+        "bbl": "1017680039",
+        "bin": "1054373",
+        "class": "A",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "(A) § HMC:FILE ANNUAL BEDBUG REPORT IN ACCORDANCE WITH HPD RULE AS DESCRIBED ON THE BACK OF THIS NOTICE OF VIOLATION OR AS DESCRIBED ON HPD\u001aS WEBSITE, WWW.NYC.GOV\\HPD, SEARCH BED BUGS.",
+        "apartment": null,
+        "story": null,
+        "inspection_date": "2026-04-29T00:00:00.000",
+        "nov_issued_date": "2026-04-29T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2026-04-29T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "18336443",
+        "bbl": "1017680039",
+        "bin": "1054373",
+        "class": "C",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": true,
+        "description": "§ 27-2024 ADM CODE PROVIDE ADEQUATE SUPPLY OF HOT WATER FOR THE FIXTURES THROUGHOUT IN THE ENTIRE APARTMENT LOCATED AT APT 1B, 1st STORY, 1st APARTMENT FROM WEST AT NORTH",
+        "apartment": "1B",
+        "story": "1",
+        "inspection_date": "2025-10-31T00:00:00.000",
+        "nov_issued_date": "2025-11-17T00:00:00.000",
+        "current_status": "VIOLATION CLOSED",
+        "current_status_date": "2026-02-21T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "18336444",
+        "bbl": "1017680039",
+        "bin": "1054373",
+        "class": "B",
+        "status": "Open",
+        "is_open": true,
+        "rent_impairing": false,
+        "description": "566 (B) 27-2021.4 HMC: ABATE THE NUISANCE CONSISTING OF PESTS. EVIDENCE OF FLIES IN THE ENTIRE APARTMENT LOCATED AT APT 1B, 1st STORY, 1st APARTMENT FROM WEST AT NORTH",
+        "apartment": "1B",
+        "story": "1",
+        "inspection_date": "2025-10-31T00:00:00.000",
+        "nov_issued_date": "2025-11-03T00:00:00.000",
+        "current_status": "NOV SENT OUT",
+        "current_status_date": "2025-11-03T00:00:00.000"
+      },
+      {
+        "source": "HPD",
+        "violation_id": "18509033",
+        "bbl": "1017680039",
+        "bin": "1054373",
+        "class": "C",
+        "status": "Close",
+        "is_open": false,
+        "rent_impairing": false,
+        "description": "§ 27-2005, 27-2007, 27-2041.1 HMC, §238, § 309; § 107 (2) ( C) MDL AND 28 RCNY §25-171: REPLACE OR REPAIR THE SELF-CLOSING DOORS THAT IS MISSING OR DEFECTIVE HINGES AT BUILDING ENTRANCE DOOR",
+        "apartment": null,
+        "story": "0",
+        "inspection_date": "2025-12-15T00:00:00.000",
+        "nov_issued_date": "2025-12-16T00:00:00.000",
+        "current_status": "VIOLATION CLOSED",
+        "current_status_date": "2026-02-02T00:00:00.000"
+      }
+    ],
+    "ecb": [
+      {
+        "source": "ECB",
+        "violation_id": "39170519L",
+        "bin": "1054373",
+        "status": "ACTIVE",
+        "is_open": true,
+        "severity": "CLASS - 2",
+        "violation_type": "Construction",
+        "description": "ATOI, ISSUED WORK WITHOUT PERMIT FOR SIGN OVER STORE APPROX. 72 SF. WHICH EXTENDS 3 FEET OFF WALL WITH LIGHTING. NO PERMIT ON FILE FOR THIS WORK., OBTAIN ALL PERMITS; OBTAIN PERMIT",
+        "infraction_code": "201",
+        "penalty_imposed": 6250,
+        "amount_paid": 0,
+        "balance_due": 6250,
+        "issue_date": "20251215",
+        "hearing_status": "DEFAULT",
+        "respondent": "CL MANAGEMENT GROUP LLC"
+      },
+      {
+        "source": "ECB",
+        "violation_id": "39181917K",
+        "bin": "1054373",
+        "status": "ACTIVE",
+        "is_open": true,
+        "severity": "CLASS - 2",
+        "violation_type": "Unknown",
+        "description": "ATOI, OBSERVED WORK WITHOUT A PERMIT FOR INSTALLATION OF TWO DISCONNECT BOXES LOCATED IN FRONT OF BUILDING ABOVE COMMERCIAL STORE. DISCONNECT BOXES ARE CONNECTED TO TWO SPLIT SYSTEM AC UNITS WITH ELECTRICAL WIR",
+        "infraction_code": "2C4",
+        "penalty_imposed": 1280,
+        "amount_paid": 0,
+        "balance_due": 1280,
+        "issue_date": "20260325",
+        "hearing_status": "DEFAULT",
+        "respondent": "CL MANAGEMENT GROUP LLC"
+      }
+    ],
+    "dob": []
+  },
+  "data_sources": {
+    "listing": "StreetEasy GraphQL (api-v6)",
+    "geocode_bbl_bin": "NYC Planning GeoSearch v2",
+    "hpd": "NYC OpenData wvxf-dwi5",
+    "ecb": "NYC OpenData 6bgk-3dad",
+    "dob": "NYC OpenData 3h2n-5cm9",
+    "subway": "MTA i9wp-a4ja (Subway Entrances and Exits)"
+  },
+  "file": "1017680039-1.json"
+}
