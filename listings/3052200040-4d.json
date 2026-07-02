@@ -1,0 +1,287 @@
+{
+  "address": "1011 Ocean Avenue",
+  "amenities": [
+    "hardwood floors",
+    "city view",
+    "laundry in building",
+    "live-in super"
+  ],
+  "analysis_tier": "deep_dive",
+  "available_date": "now",
+  "baths": 1,
+  "bbl": "3052200040",
+  "beds": 0,
+  "borough": "brooklyn",
+  "broker_fee": "none",
+  "broker_fee_detail": "No-fee under NYC FARE Act; listed by landlord's agent",
+  "broker_message": "Hi Mikhail \u2014 I'm very interested in 1011 Ocean Ave #4D. Before applying, could you confirm the floor and whether it's a walk-up, the square footage/floor plan, whether it's rent-stabilized with the legal rent, the lease term and total move-in costs, and whether utilities are included? I'm ready to move quickly if it's a fit. Thanks!",
+  "broker_questions": [
+    "Is 4D a walk-up or is there an elevator? What floor exactly and does it face the street or rear?",
+    "What is the square footage and can I see a floor plan?",
+    "Is the unit rent-stabilized, and what is the legal registered rent vs. this asking rent?",
+    "What lease term is offered and what are the renewal terms?",
+    "What are total move-in costs (first month, security deposit, any fees)?",
+    "What is the pet policy?",
+    "Has this unit or building had bedbug or pest treatment in the past year?",
+    "Are utilities (heat/hot water, cooking gas, electric) included or tenant-paid?",
+    "Is there in-unit or only building laundry, and where?"
+  ],
+  "brokerage": "Apartment Rentals and Sales Realty LLC",
+  "building_issue_flags": [
+    "pests"
+  ],
+  "building_risk": "low",
+  "building_risk_rationale": "Only 3 open HPD violations over 10 years \u2014 violations-per-unit better than the NYC average (0.81). No evictions, no recent Class C. One flag: an aggregator reports 7 bedbug filings in the past year, which contradicts its own 'no bedbug history' line and needs verification. Rent-stabilized / good-cause building, which adds tenant protection.",
+  "building_type": "walkup",
+  "commute_notes": "Q is an express to Midtown Manhattan in roughly 40 minutes; B (weekday) supplements. 2/5 within ~12 min adds an East Side option. Solid transit for outer Brooklyn.",
+  "complaints_311": null,
+  "comps": [
+    {
+      "address": "2026 Ocean Avenue #19 (Midwood)",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": 1.5,
+      "rent": 1850,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/2026-ocean-avenue-brooklyn/19",
+      "verdict": "similar"
+    },
+    {
+      "address": "900 Rogers Avenue #1F (Flatbush)",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": 0.9,
+      "rent": 1999,
+      "sqft": 400,
+      "url": "https://streeteasy.com/building/900-rogers-avenue-brooklyn/1f",
+      "verdict": "similar"
+    },
+    {
+      "address": "641 East 28th Street #1A (Flatbush)",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": 0.8,
+      "rent": 2150,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/641-east-28-street-brooklyn/1a",
+      "verdict": "worse"
+    },
+    {
+      "address": "1180 Ocean Parkway #6C (Midwood, co-op)",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": 1.7,
+      "rent": 1950,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/1176-ocean-parkway-brooklyn/6c",
+      "verdict": "similar"
+    },
+    {
+      "address": "590 Parkside Avenue #1EE (Prospect Lefferts Gardens, co-op)",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": 1.4,
+      "rent": 1995,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/590-parkside-avenue-brooklyn/1ee",
+      "verdict": "similar"
+    },
+    {
+      "address": "2650 Ocean Parkway #10E (Gravesend, co-op)",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": 3.0,
+      "rent": 2000,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/2650-ocean-parkway-brooklyn/10e",
+      "verdict": "worse"
+    },
+    {
+      "address": "1115 Willmohr Street #B (Brownsville)",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": 2.8,
+      "rent": 1799,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/1115-willmohr-street-brooklyn/b",
+      "verdict": "worse"
+    }
+  ],
+  "concession": null,
+  "concessions_to_ask": [
+    "Confirm no move-in fees beyond security + first month",
+    "Longer lease at same rent to lock the below-market price"
+  ],
+  "cons": [
+    "Sparse listing (no sqft, no floor plan, only 6 images) hides layout/light quality",
+    "Likely top-floor walk-up in a 1931 building",
+    "Unverified 7 bedbug filings in the past year per an aggregator"
+  ],
+  "days_on_market": 4,
+  "dob_complaints": null,
+  "ecb_penalties": null,
+  "fair_rent_high": 2100,
+  "fair_rent_low": 1800,
+  "floor": 4,
+  "generated_at": "2026-07-02T00:00:00Z",
+  "heat_hot_water_recurring": false,
+  "hpd_violations_open": 3,
+  "hpd_violations_total": null,
+  "is_stale": false,
+  "latitude": 40.637596,
+  "lease_term_months": null,
+  "leverage_notes": "Rent is already below neighborhood median ($2,350) and at/under most comps, with no broker fee. Little room or reason to push on price; the play is to move quickly and lock a longer term rather than negotiate down.",
+  "listed_by": "Mikhail Kayumov, Licensed Real Estate Salesperson",
+  "listing_flags": [
+    "no_sqft",
+    "no_floor_plan",
+    "thin_photos_6",
+    "no_pet_policy",
+    "no_lease_term"
+  ],
+  "listing_platform": "streeteasy",
+  "location_score": 7,
+  "longitude": -73.95832,
+  "management_company": null,
+  "most_likely_sitting_reason": null,
+  "nearest_subway": [
+    {
+      "confidence": "high",
+      "distance_mi": 0.29,
+      "lines": [
+        "B",
+        "Q"
+      ],
+      "station": "Newkirk Plaza (Newkirk Av)",
+      "walk_min": 8
+    },
+    {
+      "confidence": "high",
+      "distance_mi": 0.39,
+      "lines": [
+        "B",
+        "Q"
+      ],
+      "station": "Cortelyou Rd",
+      "walk_min": 10
+    },
+    {
+      "confidence": "high",
+      "distance_mi": 0.53,
+      "lines": [
+        "2",
+        "5"
+      ],
+      "station": "Newkirk Av (Nostrand Line)",
+      "walk_min": 12
+    }
+  ],
+  "neighborhood": "Ditmas Park",
+  "neighborhood_avg_violations": 0.81,
+  "noise_risks": [
+    "Ocean Avenue is a wide, moderately busy arterial \u2014 some traffic noise likely"
+  ],
+  "open_construction": false,
+  "original_list_date": "2026-06-27",
+  "owner_entity": null,
+  "owner_name": null,
+  "pet_policy": "unknown",
+  "plain_english": "This is a well-priced no-fee studio in a low-risk, rent-stabilized Ditmas Park building with good B/Q access \u2014 a genuinely attractive combination that at $1,799 sits below the neighborhood median and most comps. It's only been listed 4 days, so it is NOT sitting; below-market no-fee studios move fast, so act quickly if it shows well. The listing is thin, though: verify the exact floor/walk-up status, square footage, rent-stabilized legal rent, and the bedbug question on the tour before applying. Don't expect to negotiate the price down \u2014 the value is already in your favor; instead lock it in and consider a longer lease.",
+  "price_assessment": "underpriced",
+  "price_changes": [],
+  "pros": [
+    "Below-market rent ($1,799 vs $2,350 neighborhood median) with no broker fee",
+    "Rent-stabilized / good-cause building: renewal rights and capped increases",
+    "Low building risk \u2014 violations per unit better than NYC average, no evictions; strong B/Q transit"
+  ],
+  "recent_class_c": false,
+  "recommendation": "worth_touring",
+  "red_flags": [
+    {
+      "how_to_verify": "Tour in person; ask for sqft and a floor plan",
+      "issue": "No square footage, floor plan, or interior detail beyond 5 photos",
+      "severity": "medium",
+      "why": "Studio value hinges on layout and light; sparse listing hides whether it's genuinely 'large' as advertised"
+    },
+    {
+      "how_to_verify": "Confirm elevator vs walk-up with the agent",
+      "issue": "Likely 4th-floor walk-up (1931 building, 4 stories, no elevator listed)",
+      "severity": "medium",
+      "why": "Top-floor walk-up affects daily livability and move-in"
+    },
+    {
+      "how_to_verify": "Ask landlord for the building's annual bedbug (BBLNYC) filing and NYC's bedbug report",
+      "issue": "Aggregator reports 7 bedbug filings in past year (contradicts its own 'no history' line)",
+      "severity": "medium",
+      "why": "Bedbug history is a real habitability concern if accurate"
+    },
+    {
+      "how_to_verify": "Request the DHCR rent registration history before signing",
+      "issue": "Rent-stabilized: advertised rent may exceed the legal registered rent",
+      "severity": "low",
+      "why": "A preferential rent could later reset, or the legal rent history could reveal overcharge"
+    }
+  ],
+  "rent_gross_monthly": 1799,
+  "rent_net_effective": null,
+  "rent_stabilized": "yes",
+  "schema_version": "1.0",
+  "score_building_risk": 8,
+  "score_location": 7,
+  "score_negotiation": 3,
+  "score_overall": 8,
+  "score_value": 9,
+  "should_negotiate": false,
+  "sitting_reasons": [],
+  "source_url": "https://streeteasy.com/building/1011-ocean-avenue-brooklyn/4d",
+  "sources": [
+    {
+      "accessed": true,
+      "category": "listing",
+      "label": "StreetEasy \u2014 1011 Ocean Ave #4D",
+      "url": "https://streeteasy.com/building/1011-ocean-avenue-brooklyn/4d"
+    },
+    {
+      "accessed": true,
+      "category": "building_records",
+      "label": "Openigloo \u2014 1011 Ocean Avenue (violations, stabilization, bedbug)",
+      "url": "https://www.openigloo.com/building/nyc/3120583-3052200040/brooklyn-flatbush-1011-ocean-avenue-11226"
+    },
+    {
+      "accessed": false,
+      "category": "building_records",
+      "label": "PropertyShark \u2014 1011 Ocean Ave (BBL 3052200040)",
+      "url": "https://www.propertyshark.com/mason/Property/249082/1011-Ocean-Ave-Brooklyn-NY-11226/"
+    },
+    {
+      "accessed": false,
+      "category": "building_records",
+      "label": "HPD Online (primary source for violations)",
+      "url": "https://hpdonline.nyc.gov/hpdonline/"
+    },
+    {
+      "accessed": true,
+      "category": "transit",
+      "label": "Newkirk Plaza station (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Newkirk_Plaza_station"
+    }
+  ],
+  "sqft": null,
+  "suggested_rent": 1799,
+  "unit": "4D",
+  "units_available_in_building": 1,
+  "unverified": [
+    "Exact live HPD open violation count and whether the '3' includes any Class B/C",
+    "The 7 bedbug filings figure (aggregator, internally inconsistent)",
+    "Owner/management entity name",
+    "Whether unit is walk-up vs elevator and its true square footage",
+    "Legal rent-stabilized registered rent vs. advertised $1,799",
+    "311/DOB complaint history (portals not directly accessed)"
+  ],
+  "verification": {
+    "building_records": true,
+    "comps": true,
+    "transit": true
+  },
+  "zip": "11226"
+}
