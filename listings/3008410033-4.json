@@ -1,0 +1,262 @@
+{
+  "address": "666 56th Street",
+  "amenities": [
+    "Live-in super",
+    "High ceilings",
+    "Natural light",
+    "Separate kitchen"
+  ],
+  "analysis_tier": "deep_dive",
+  "available_date": "now",
+  "baths": 1,
+  "bbl": "3008410033",
+  "beds": 1,
+  "borough": "brooklyn",
+  "broker_fee": "none",
+  "broker_fee_detail": "No broker fee under NYC FARE Act; agent represents landlord (AM Residential)",
+  "broker_message": "Hi \u2014 interested in 666 56th St #4. Could you confirm the floor, whether the half-room/office has a window, the lease term, and full move-in costs? I also saw a few open HPD violations on the building; are those resolved? If the unit shows well I'd like to discuss $1,875. Thanks!",
+  "broker_questions": [
+    "Which floor is unit 4, and is it a full walk-up?",
+    "Is the 'half bedroom/office' a legal room with a window and egress?",
+    "Is this rent-stabilized? Prior legal rent?",
+    "What are the 3 open Class C HPD violations, and are they corrected?",
+    "Full move-in cost?",
+    "Lease term and are pets allowed?",
+    "Are heat/hot water included, any winter outages?"
+  ],
+  "brokerage": "AM Residential",
+  "building_issue_flags": [
+    "pests"
+  ],
+  "building_risk": "medium",
+  "building_risk_rationale": "12 open HPD violations across 16 units = 0.75/unit, marginally BELOW the NYC average of 0.81, so overall load is not alarming. However the mix includes 3 open Class C (immediately hazardous) plus 7 Class B, and the building shows 2 evictions and 1 litigation case. The Class C items in a small 1905 walk-up keep this out of Low; verify whether the 3 C violations are heat/pest related and still open.",
+  "building_type": "walkup",
+  "commute_notes": "N express (Sea Beach) at 8th Ave or R local at 53rd St; 59th St is a key N/R/W transfer. To Midtown ~45-55 min via N. Sunset Park is a hike from Manhattan but has three lines within a 10-min walk.",
+  "complaints_311": null,
+  "comps": [
+    {
+      "address": "315 61st Street #D9, Sunset Park",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": 0.4,
+      "rent": 1975,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/315-61-street-brooklyn/d9",
+      "verdict": "similar"
+    },
+    {
+      "address": "1970 85th Street #A2, Bensonhurst",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": 2.4,
+      "rent": 1899,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/1970-85-street-brooklyn/a2",
+      "verdict": "similar"
+    },
+    {
+      "address": "7606 17th Avenue #1, Bensonhurst",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": 2.6,
+      "rent": 1775,
+      "sqft": 700,
+      "url": "https://streeteasy.com/building/7606-17-avenue-brooklyn/1",
+      "verdict": "better"
+    },
+    {
+      "address": "8621 17th Avenue #1, Bath Beach",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": 3.5,
+      "rent": 1800,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/8621-17-avenue-brooklyn/1",
+      "verdict": "worse"
+    },
+    {
+      "address": "3033 Coney Island Avenue #5, Brighton Beach",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": 4.5,
+      "rent": 1875,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/3033-coney-island-avenue-brooklyn/5",
+      "verdict": "similar"
+    }
+  ],
+  "concession": null,
+  "concessions_to_ask": [
+    "$50/mo reduction to ~$1,875",
+    "Landlord corrects open Class C violations before move-in",
+    "Fresh paint / confirm appliance condition"
+  ],
+  "cons": [
+    "3 open Class C violations and an eviction/litigation history",
+    "'1.5BR' marketing likely a windowless office room",
+    "Prewar walk-up, no floor plan/sqft, undisclosed floor"
+  ],
+  "days_on_market": 5,
+  "dob_complaints": null,
+  "ecb_penalties": null,
+  "fair_rent_high": 2000,
+  "fair_rent_low": 1850,
+  "floor": null,
+  "generated_at": "2026-07-02T00:00:00Z",
+  "heat_hot_water_recurring": null,
+  "hpd_violations_open": 12,
+  "hpd_violations_total": null,
+  "is_stale": false,
+  "latitude": 40.639256,
+  "lease_term_months": null,
+  "leverage_notes": "Priced mid-pack among comps ($1,775-$2,090) and below the Sunset Park 1BR median asking ($2,349), so limited pure-price leverage. Best leverage is the 3 open Class C violations and undisclosed floor/room-legality \u2014 push for a small reduction or repairs.",
+  "listed_by": "Leasing Team, AM Residential",
+  "listing_flags": [
+    "no_sqft",
+    "no_floor_plan",
+    "no_lease_term",
+    "policy_info_missing",
+    "1.5BR_marketing_listed_as_1_bed",
+    "half_room_may_be_office",
+    "only_6_photos"
+  ],
+  "listing_platform": "streeteasy",
+  "location_score": 7,
+  "longitude": -74.01015,
+  "management_company": null,
+  "most_likely_sitting_reason": null,
+  "nearest_subway": [
+    {
+      "confidence": "high",
+      "distance_mi": 0.33,
+      "lines": [
+        "N"
+      ],
+      "station": "8th Ave (Sea Beach line)",
+      "walk_min": 7
+    },
+    {
+      "confidence": "high",
+      "distance_mi": 0.43,
+      "lines": [
+        "R"
+      ],
+      "station": "53rd St (4th Ave line)",
+      "walk_min": 9
+    },
+    {
+      "confidence": "high",
+      "distance_mi": 0.41,
+      "lines": [
+        "N",
+        "R",
+        "W"
+      ],
+      "station": "59th St",
+      "walk_min": 9
+    }
+  ],
+  "neighborhood": "Sunset Park",
+  "neighborhood_avg_violations": 0.81,
+  "noise_risks": [
+    "Dense mixed retail corridor near 5th/8th Aves",
+    "Prewar walk-up windows offer little sound insulation"
+  ],
+  "open_construction": null,
+  "original_list_date": "2026-06-24",
+  "owner_entity": "Erlis Inc",
+  "owner_name": "Ernest Saasto",
+  "pet_policy": "unknown",
+  "plain_english": "A fairly priced, no-fee 1BR in a small prewar Sunset Park walk-up with solid transit. Only listed 5 days, so NOT sitting. The building's overall violation count is normal, but a few immediately-hazardous (Class C) violations and the '1.5BR' spin on what's probably a windowless office are worth verifying on tour. Reasonable to tour and gently negotiate on repairs or ~$50/mo.",
+  "price_assessment": "fairly_priced",
+  "price_changes": [],
+  "pros": [
+    "No broker fee and priced at/below neighborhood 1BR median",
+    "Three subway lines within a 10-minute walk",
+    "Building violation load slightly below NYC average"
+  ],
+  "recent_class_c": true,
+  "recommendation": "worth_touring",
+  "red_flags": [
+    {
+      "how_to_verify": "On tour confirm the half-room has a window/egress; ask if it is on the C of O",
+      "issue": "Marketed as '1.5BR' but listed as 1 bed; the 'half bedroom' is an office with likely no legal window",
+      "severity": "medium",
+      "why": "A windowless interior room cannot legally be a bedroom and inflates perceived value"
+    },
+    {
+      "how_to_verify": "Request floor plan; measure on tour",
+      "issue": "No square footage, no floor plan, only 6 photos",
+      "severity": "low",
+      "why": "Common concealment of small/awkward layout in prewar walk-ups"
+    },
+    {
+      "how_to_verify": "Ask which floor unit 4 is on",
+      "issue": "Walk-up building, unit floor not disclosed (up to 4 stories)",
+      "severity": "low",
+      "why": "A 3rd/4th-floor walk-up is a daily burden"
+    },
+    {
+      "how_to_verify": "Pull HPD Online for the C violations; ask super about resolution",
+      "issue": "3 open Class C HPD violations in a 16-unit building",
+      "severity": "medium",
+      "why": "Class C = immediately hazardous (heat/hot water/pests)"
+    }
+  ],
+  "rent_gross_monthly": 1925,
+  "rent_net_effective": null,
+  "rent_stabilized": "likely",
+  "schema_version": "1.0",
+  "score_building_risk": 6,
+  "score_location": 7,
+  "score_negotiation": 5,
+  "score_overall": 6,
+  "score_value": 6,
+  "should_negotiate": true,
+  "sitting_reasons": [],
+  "source_url": "https://streeteasy.com/building/666-56-street-brooklyn/4",
+  "sources": [
+    {
+      "accessed": true,
+      "category": "listing",
+      "label": "StreetEasy 666 56th St #4",
+      "url": "https://streeteasy.com/building/666-56-street-brooklyn/4"
+    },
+    {
+      "accessed": true,
+      "category": "building_records",
+      "label": "openigloo 666 56 Street (violations, ownership, evictions)",
+      "url": "https://www.openigloo.com/building/nyc/3015460-3008410033/brooklyn-sunset-park-666-56-street-11220"
+    },
+    {
+      "accessed": true,
+      "category": "comps",
+      "label": "StreetEasy similar-homes carousel",
+      "url": "https://streeteasy.com/building/666-56-street-brooklyn/4"
+    },
+    {
+      "accessed": true,
+      "category": "maps",
+      "label": "BMT Sea Beach (N) / 4th Ave (R) near coords",
+      "url": "http://www.google.com/maps/place/40.639256,-74.01015"
+    }
+  ],
+  "sqft": null,
+  "suggested_rent": 1875,
+  "unit": "4",
+  "units_available_in_building": 1,
+  "unverified": [
+    "exact unit floor",
+    "legality/window of the half-room",
+    "lease term and pet policy",
+    "nature/status of the 3 Class C violations",
+    "live HPD total (only open count shown)",
+    "rent-stabilization confirmed via DHCR"
+  ],
+  "verification": {
+    "building_records": true,
+    "comps": true,
+    "transit": true
+  },
+  "zip": "11220"
+}

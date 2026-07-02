@@ -1,0 +1,264 @@
+{
+  "address": "1673 East 18th Street",
+  "amenities": [
+    "Hardwood floors"
+  ],
+  "analysis_tier": "deep_dive",
+  "available_date": "now",
+  "baths": 1,
+  "bbl": "3067810050",
+  "beds": 0,
+  "borough": "brooklyn",
+  "broker_fee": "none",
+  "broker_fee_detail": "No-fee under NYC FARE Act",
+  "broker_message": "Hi Norman \u2014 I'm interested in 1673 East 18th #F9 but noticed it's shown 'in contract' and has cycled on and off the market. Is it actually available? If so, could you confirm the floor/walk-up, whether it's rent-stabilized (and the prior legal rent), full move-in costs, and whether the owner would consider $1,650 given how long it's been listed? Thanks.",
+  "broker_questions": [
+    "Is F9 still available, or is the 7/1/2026 contract firm?",
+    "Why have prior contracts fallen through?",
+    "Which floor is F9, and is there an elevator?",
+    "Is 400 sqft the apartment interior only?",
+    "Is it rent-stabilized? Prior legal rent?",
+    "How reliable is heat/hot water in winter?",
+    "Full move-in costs?"
+  ],
+  "brokerage": "Norman Raindel, LREB (Individual Broker)",
+  "building_issue_flags": [
+    "pests",
+    "leak",
+    "construction"
+  ],
+  "building_risk": "medium",
+  "building_risk_rationale": "Raw HPD count (10; augrented lists 11 'open' \u2014 open>total is inconsistent so exact open number unverified) is at/below the Sheepshead Bay avg of 16.1, but the pattern is the concern: recurring Heat/Hot Water complaints across 2024-2026 with an open Class C no-heat, plus above-average DOB (8 vs 2.1) and ECB (9 vs 0.9) and a 2/2024 bedbug filing. augrented model: 88% 12-month serious-failure risk. Medium, leaning high.",
+  "building_type": "walkup",
+  "commute_notes": "Kings Highway B/Q is close (~0.13 mi). Q express ~45-55 min to Midtown; B weekday express. Solid transit for deep-south Brooklyn.",
+  "complaints_311": 17,
+  "comps": [
+    {
+      "address": "1011 Ocean Avenue #4D, Ditmas Park",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": null,
+      "rent": 1799,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/1011-ocean-avenue-brooklyn/4d",
+      "verdict": "similar"
+    },
+    {
+      "address": "353 Bay Ridge Parkway #1, Bay Ridge",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": null,
+      "rent": 1695,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/353-bay-ridge-parkway-brooklyn/1",
+      "verdict": "similar"
+    },
+    {
+      "address": "2026 Ocean Avenue #19, Midwood",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": null,
+      "rent": 1850,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/2026-ocean-avenue-brooklyn/19",
+      "verdict": "worse"
+    },
+    {
+      "address": "179 Gelston Avenue #4, Fort Hamilton",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": null,
+      "rent": 1649,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/179-gelston-avenue-brooklyn/4",
+      "verdict": "similar"
+    },
+    {
+      "address": "1180 Ocean Parkway #6C, Midwood",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": null,
+      "rent": 1950,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/1176-ocean-parkway-brooklyn/6c",
+      "verdict": "worse"
+    }
+  ],
+  "concession": null,
+  "concessions_to_ask": [
+    "Reduced or waived security deposit",
+    "Landlord-paid minor repairs / fresh paint",
+    "Flexible start date"
+  ],
+  "cons": [
+    "Shows 'in contract' with a history of failed deals \u2014 may not be available",
+    "Recurring building heat/hot-water complaints incl. open Class C",
+    "Very small 400 sqft footprint, floor/walk-up status undisclosed"
+  ],
+  "days_on_market": 37,
+  "dob_complaints": 8,
+  "ecb_penalties": 9,
+  "fair_rent_high": 1850,
+  "fair_rent_low": 1650,
+  "floor": null,
+  "generated_at": "2026-07-02T00:00:00Z",
+  "heat_hot_water_recurring": true,
+  "hpd_violations_open": 11,
+  "hpd_violations_total": 10,
+  "is_stale": true,
+  "latitude": 40.609173,
+  "lease_term_months": null,
+  "leverage_notes": "37 days on market with repeated failed contracts and a small footprint give leverage; comps span $1,649-$1,850, so $1,750 is mid-range with room to push toward the low end.",
+  "listed_by": "Norman Raindel, LREB",
+  "listing_flags": [
+    "no_floor_plan",
+    "no_pet_policy",
+    "no_lease_term",
+    "in_contract_at_fetch",
+    "relist_churn",
+    "building_type_inferred"
+  ],
+  "listing_platform": "streeteasy",
+  "location_score": 7,
+  "longitude": -73.95516,
+  "management_company": null,
+  "most_likely_sitting_reason": "Repeated contracts falling through (churn) on a small studio, plus a building with recurring maintenance complaints",
+  "nearest_subway": [
+    {
+      "confidence": "high",
+      "distance_mi": 0.13,
+      "lines": [
+        "B",
+        "Q"
+      ],
+      "station": "Kings Highway (Brighton Line)",
+      "walk_min": 4
+    },
+    {
+      "confidence": "high",
+      "distance_mi": 0.65,
+      "lines": [
+        "B",
+        "Q"
+      ],
+      "station": "Avenue M",
+      "walk_min": 13
+    }
+  ],
+  "neighborhood": "Homecrest",
+  "neighborhood_avg_violations": 16.1,
+  "noise_risks": [
+    "Kings Highway is a busy commercial corridor one block away",
+    "Older 1940 building \u2014 inter-unit and street noise possible"
+  ],
+  "open_construction": false,
+  "original_list_date": "2026-06-15",
+  "owner_entity": "1675 E 18th Street, LLC",
+  "owner_name": "Jacob Landau",
+  "pet_policy": "unknown",
+  "plain_english": "A small, no-fee renovated studio a short walk from the Kings Highway B/Q \u2014 decent transit and a fair mid-range price. Catches: it keeps going into contract and coming back, it was 'in contract' when checked, and the building has a recurring winter heat/hot-water problem incl. an open immediately-hazardous violation. Only pursue if the broker confirms it's actually available, gives the floor, and you can negotiate toward ~$1,650. Confirm rent-stabilization and prior legal rent.",
+  "price_assessment": "fairly_priced",
+  "price_changes": [],
+  "pros": [
+    "No broker fee and close to Kings Highway B/Q (~0.13 mi)",
+    "Priced mid-range vs area studio comps with room to negotiate",
+    "Renovated kitchen/bath and hardwood floors per listing"
+  ],
+  "recent_class_c": true,
+  "recommendation": "tour_if_negotiable",
+  "red_flags": [
+    {
+      "how_to_verify": "Ask directly whether F9 is still available before touring",
+      "issue": "Unit shows 'In contract 7/1/2026' at fetch",
+      "severity": "high",
+      "why": "May already be spoken for; could be a lead-harvesting listing"
+    },
+    {
+      "how_to_verify": "Measure on tour; confirm whether 400 SF is the apartment only",
+      "issue": "Tiny 400 sqft studio described as '2 rooms' with 12x17 LR and 10x12 kitchen",
+      "severity": "medium",
+      "why": "Cited room dimensions barely fit in 400 sqft, leaving little for bath/closets"
+    },
+    {
+      "how_to_verify": "Ask which floor F9 is on and whether there is an elevator",
+      "issue": "Floor not disclosed in a walk-up building",
+      "severity": "medium",
+      "why": "If upper floor, a walk-up burden with no elevator noted"
+    },
+    {
+      "how_to_verify": "Ask super and current/former tenants; check HPD Online",
+      "issue": "Recurring winter heat/hot-water failures building-wide",
+      "severity": "medium",
+      "why": "Multiple 311/HPD heat complaints incl. open Class C"
+    }
+  ],
+  "rent_gross_monthly": 1750,
+  "rent_net_effective": null,
+  "rent_stabilized": "likely",
+  "schema_version": "1.0",
+  "score_building_risk": 5,
+  "score_location": 7,
+  "score_negotiation": 7,
+  "score_overall": 5,
+  "score_value": 6,
+  "should_negotiate": true,
+  "sitting_reasons": [
+    {
+      "ask_before_applying": "Ask why prior applicants backed out and whether the 7/1 contract is firm",
+      "evidence": "Price history shows a cycle: listed 6/15, in-contract 6/16, relisted, and again 'In contract 7/1/2026' at a flat $1,750",
+      "reason": "Repeated in-contract / relist churn (deals falling through)",
+      "seriousness": "medium"
+    },
+    {
+      "ask_before_applying": "Ask about winter heat reliability and the unit's floor / walk-up status",
+      "evidence": "augrented shows recurring Heat/Hot Water 311/HPD across 2024-2026 incl. an open Class C no-heat item",
+      "reason": "400 sqft studio in a 1940 walk-up with recurring building heat/hot-water complaints",
+      "seriousness": "medium"
+    }
+  ],
+  "source_url": "https://streeteasy.com/building/1673-east-18-street-brooklyn/f9",
+  "sources": [
+    {
+      "accessed": true,
+      "category": "listing",
+      "label": "StreetEasy \u2014 1673 East 18th St #F9",
+      "url": "https://streeteasy.com/building/1673-east-18-street-brooklyn/f9"
+    },
+    {
+      "accessed": true,
+      "category": "building_records",
+      "label": "Augrented building report (BBL 3067810050)",
+      "url": "https://augrented.com/nyc/3067810050-1675-east-18th-street-brooklyn"
+    },
+    {
+      "accessed": true,
+      "category": "comps",
+      "label": "StreetEasy similar-homes carousel",
+      "url": "https://streeteasy.com/building/1673-east-18-street-brooklyn/f9"
+    },
+    {
+      "accessed": true,
+      "category": "maps",
+      "label": "Coordinates for transit verification",
+      "url": "http://www.google.com/maps/place/40.609173,-73.95516"
+    }
+  ],
+  "sqft": 400,
+  "suggested_rent": 1650,
+  "unit": "F9",
+  "units_available_in_building": 1,
+  "unverified": [
+    "Exact live HPD open count (11 open vs 10 total \u2014 inconsistent)",
+    "Whether unit F9 is genuinely available or in contract",
+    "Floor number and elevator/walk-up status",
+    "Rent-stabilized status and prior legal rent",
+    "Exact move-in costs and lease term",
+    "Precise subway walk times"
+  ],
+  "verification": {
+    "building_records": true,
+    "comps": true,
+    "transit": true
+  },
+  "zip": "11229"
+}

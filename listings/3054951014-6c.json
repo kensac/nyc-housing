@@ -1,0 +1,250 @@
+{
+  "address": "1180 Ocean Parkway",
+  "amenities": [
+    "elevator",
+    "laundry_in_building",
+    "live_in_super",
+    "hardwood_floors"
+  ],
+  "analysis_tier": "deep_dive",
+  "available_date": "now",
+  "baths": 1,
+  "bbl": "3054951014",
+  "beds": 0,
+  "borough": "brooklyn",
+  "broker_fee": "none",
+  "broker_fee_detail": "FARE Act notice shown; listed by building's broker (Supreme Plus Realty). Confirm no tenant-paid fee.",
+  "broker_message": "Hi Harry, I'm interested in 1180 Ocean Parkway #6C. Could you confirm square footage, whether there's any tenant-paid or co-op fee, the board-approval timeline, and total move-in costs? Given a couple of similar studios nearby around $1,850, would the owner consider $1,850? I can move quickly for the right terms.",
+  "broker_questions": [
+    "What is the square footage and can you send a floor plan?",
+    "Any tenant-paid broker/application/co-op sublet fee?",
+    "Does the co-op board require approval, and how long?",
+    "Max sublet term and is renewal guaranteed?",
+    "How reliable is the single elevator?",
+    "Why are two units currently available?",
+    "Total move-in costs?"
+  ],
+  "brokerage": "Supreme Plus Realty Group Inc",
+  "building_issue_flags": [],
+  "building_risk": "low",
+  "building_risk_rationale": "openigloo reports this 120-unit co-op at/below the NYC average on violations-per-unit, no bedbug reports in the past year, only minor recent items. Managing agent Miller Management LLC carries ~22 open violations across a ~58-unit portfolio \u2014 a modest yellow flag, not chronic neglect. Exact live open count behind paywall (unverified); direction favorable.",
+  "building_type": "elevator",
+  "commute_notes": "Q (Brighton) east and F (Culver) west both serve this stretch. Q express to Midtown ~45-55 min; F ~50-60 min. StreetEasy transit table is garbled \u2014 verify station/walk on a map before touring.",
+  "complaints_311": null,
+  "comps": [
+    {
+      "address": "2026 Ocean Avenue #1O",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": 1.1,
+      "rent": 1999,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/2026-ocean-avenue-brooklyn/1o",
+      "verdict": "similar"
+    },
+    {
+      "address": "2026 Ocean Avenue #19",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": 1.1,
+      "rent": 1850,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/2026-ocean-avenue-brooklyn/19",
+      "verdict": "similar"
+    },
+    {
+      "address": "483 Ocean Parkway #3F (Kensington)",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": 2.4,
+      "rent": 1864,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/483-ocean-parkway-brooklyn/3f",
+      "verdict": "similar"
+    },
+    {
+      "address": "2650 Ocean Parkway #10E (Gravesend co-op)",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": 2.9,
+      "rent": 2000,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/2650-ocean-parkway-brooklyn/10e",
+      "verdict": "worse"
+    }
+  ],
+  "concession": null,
+  "concessions_to_ask": [
+    "Waive/cap any co-op sublet/application fee",
+    "Reduced security deposit",
+    "Flexible start date"
+  ],
+  "cons": [
+    "No sqft/floor plan; studio 'separate kitchen' may be tight or windowless",
+    "Co-op sublet adds board approval and possible fees/renewal limits",
+    "Top floor of an aging building reliant on one elevator"
+  ],
+  "days_on_market": 2,
+  "dob_complaints": null,
+  "ecb_penalties": null,
+  "fair_rent_high": 2050,
+  "fair_rent_low": 1800,
+  "floor": 6,
+  "generated_at": "2026-07-02T00:00:00Z",
+  "heat_hot_water_recurring": null,
+  "hpd_violations_open": null,
+  "hpd_violations_total": null,
+  "is_stale": false,
+  "latitude": 40.61971,
+  "lease_term_months": null,
+  "leverage_notes": "Priced mid-range vs comps ($1,850-$2,000); two-unit vacancy and generic studio (no sqft) give mild leverage. Fresh (2 days) so a modest ~$100 ask is realistic; don't overplay.",
+  "listed_by": "Harry Frenkel",
+  "listing_flags": [
+    "no_sqft",
+    "no_floor_plan",
+    "no_pet_policy",
+    "top_floor_studio_marketed_as_2_rooms"
+  ],
+  "listing_platform": "streeteasy",
+  "location_score": 7,
+  "longitude": -73.97051,
+  "management_company": "Miller Management LLC (Eli Miller)",
+  "most_likely_sitting_reason": null,
+  "nearest_subway": [
+    {
+      "confidence": "low",
+      "distance_mi": 0.45,
+      "lines": [
+        "Q"
+      ],
+      "station": "Avenue H (Brighton line)",
+      "walk_min": 9
+    },
+    {
+      "confidence": "low",
+      "distance_mi": 0.55,
+      "lines": [
+        "F"
+      ],
+      "station": "Avenue I / Bay Parkway (Culver line)",
+      "walk_min": 12
+    },
+    {
+      "confidence": "low",
+      "distance_mi": 0.6,
+      "lines": [
+        "Q"
+      ],
+      "station": "Avenue J (Brighton line)",
+      "walk_min": 13
+    }
+  ],
+  "neighborhood": "Midwood",
+  "neighborhood_avg_violations": 0.81,
+  "noise_risks": [
+    "Ocean Parkway is a wide multi-lane arterial with a service road; front units may get traffic noise"
+  ],
+  "open_construction": null,
+  "original_list_date": "2026-06-29",
+  "owner_entity": "Miller Management LLC",
+  "owner_name": "Eli Miller",
+  "pet_policy": "unknown",
+  "plain_english": "A fresh, fee-free, fairly priced Midwood studio in a clean-record elevator co-op. Main unknowns are size (no sqft) and co-op sublet mechanics. Only 2 days old so not sitting. Worth touring; confirm size and fees, and try a light $100 ask.",
+  "price_assessment": "fairly_priced",
+  "price_changes": [],
+  "pros": [
+    "No broker fee, priced at/below the local studio cluster",
+    "Elevator building with laundry and live-in super; clean building record",
+    "Good dual F/Q access on Ocean Parkway"
+  ],
+  "recent_class_c": null,
+  "recommendation": "worth_touring",
+  "red_flags": [
+    {
+      "how_to_verify": "Ask for sqft and floor plan; measure on tour",
+      "issue": "Studio marketed as 'spacious'/'2 rooms' with no sqft",
+      "severity": "medium",
+      "why": "No sqft or floor plan; 'separate kitchen area' can mean a windowless pass-through"
+    },
+    {
+      "how_to_verify": "Ask about elevator reliability; check DOB elevator records",
+      "issue": "6th-floor unit in a 6-story 1952 building \u2014 elevator dependency",
+      "severity": "low",
+      "why": "Single elevator in a 74-year-old building; outages strand a top-floor tenant"
+    },
+    {
+      "how_to_verify": "Ask why both are open and how long each sat",
+      "issue": "Two units available in the same small co-op line",
+      "severity": "low",
+      "why": "Two vacancies can signal turnover (not alarming in 120 units)"
+    },
+    {
+      "how_to_verify": "Ask about board process, sublet fee, max term",
+      "issue": "Co-op sublet \u2014 board approval/rules",
+      "severity": "medium",
+      "why": "Board application, fees, and sublet-term limits"
+    }
+  ],
+  "rent_gross_monthly": 1950,
+  "rent_net_effective": null,
+  "rent_stabilized": "unlikely",
+  "schema_version": "1.0",
+  "score_building_risk": 7,
+  "score_location": 7,
+  "score_negotiation": 5,
+  "score_overall": 7,
+  "score_value": 7,
+  "should_negotiate": true,
+  "sitting_reasons": [],
+  "source_url": "https://streeteasy.com/building/1176-ocean-parkway-brooklyn/6c",
+  "sources": [
+    {
+      "accessed": true,
+      "category": "listing",
+      "label": "StreetEasy listing 1180 Ocean Pkwy #6C",
+      "url": "https://streeteasy.com/building/1176-ocean-parkway-brooklyn/6c"
+    },
+    {
+      "accessed": true,
+      "category": "building_records",
+      "label": "openigloo 1180 Ocean Parkway",
+      "url": "https://www.openigloo.com/building/nyc/3131067-3054951014/brooklyn-ocean-parkway-1180-ocean-parkway-11230"
+    },
+    {
+      "accessed": true,
+      "category": "building_records",
+      "label": "openigloo Miller Management LLC portfolio",
+      "url": "https://www.openigloo.com/contact/nyc/392b0ec9-08a5-40a1-bfbc-e0eda028e4aa/miller-management-llc"
+    },
+    {
+      "accessed": true,
+      "category": "comps",
+      "label": "StreetEasy similar-homes carousel",
+      "url": "https://streeteasy.com/building/1176-ocean-parkway-brooklyn/6c"
+    },
+    {
+      "accessed": true,
+      "category": "location",
+      "label": "Google Maps pin (coords)",
+      "url": "http://www.google.com/maps/place/40.61971,-73.97051"
+    }
+  ],
+  "sqft": null,
+  "suggested_rent": 1850,
+  "unit": "6C",
+  "units_available_in_building": 2,
+  "unverified": [
+    "exact live HPD open violation count for 1180",
+    "square footage",
+    "co-op board/sublet fees and rules",
+    "pet policy",
+    "precise subway walk times",
+    "broker/agent reputation"
+  ],
+  "verification": {
+    "building_records": true,
+    "comps": true,
+    "transit": true
+  },
+  "zip": "11230"
+}

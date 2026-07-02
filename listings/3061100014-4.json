@@ -1,0 +1,266 @@
+{
+  "address": "179 Gelston Avenue",
+  "amenities": [
+    "live-in super",
+    "hardwood floors",
+    "heat and hot water included",
+    "open-concept kitchen",
+    "bathtub"
+  ],
+  "analysis_tier": "deep_dive",
+  "available_date": "now",
+  "baths": 1,
+  "bbl": "3061100014",
+  "beds": 0,
+  "borough": "brooklyn",
+  "broker_fee": "none",
+  "broker_fee_detail": "No-fee under FARE Act; listed by Leonidas Realty",
+  "broker_message": "Hi Christina \u2014 I'm very interested in 179 Gelston Ave #4 at $1,649. Could you confirm it's rent-stabilized and share the DHCR rent history / legal rent, and confirm heat and hot water are included? I'd also like total move-in cost and confirmation there's no broker fee. If those check out I'd like to move quickly. Thanks!",
+  "broker_questions": [
+    "Is it genuinely rent-stabilized? Can I see DHCR rent history and legal rent?",
+    "Source of the '0% increases 2-3 yrs' claim \u2014 a written rider?",
+    "How many flights up, any elevator?",
+    "Why didn't it rent at $1,785 this spring?",
+    "How reliable is winter heat (Class C on record)?",
+    "Total move-in costs and any broker fee?",
+    "Pet policy and income/guarantor requirements?"
+  ],
+  "brokerage": "Leonidas Realty",
+  "building_issue_flags": [
+    "heat",
+    "pests",
+    "mold",
+    "leak"
+  ],
+  "building_risk": "medium",
+  "building_risk_rationale": "Total HPD (~22) runs above the Fort Hamilton avg (~13) and includes at least one Class C 'no heat' (Apt 3B, open 11/2024) plus a building-wide heat complaint as recent as Feb 2026 \u2014 a recurring winter pattern, with prior roach (Class C) and mold/leak filings. Offsetting: zero ECB, zero evictions, zero bedbugs, below-avg 311 (9) and DOB (1); facade/scaffold permits signed off. Exact open count inconsistent, unverified. Net: manageable Medium.",
+  "building_type": "walkup",
+  "commute_notes": "Far end of the R at the 95th St terminal, ~1 block \u2014 always a seat but the longest ride in the borough, ~55-70 min to Midtown on the R local. No express nearby.",
+  "complaints_311": 9,
+  "comps": [
+    {
+      "address": "353 Bay Ridge Parkway #1, Bay Ridge",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": 1.0,
+      "rent": 1695,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/353-bay-ridge-parkway-brooklyn/1",
+      "verdict": "similar"
+    },
+    {
+      "address": "2016 Albemarle Road #4D, Flatbush",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": null,
+      "rent": 1825,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/2016-albemarle-road-brooklyn/4d",
+      "verdict": "worse"
+    },
+    {
+      "address": "1180 Ocean Parkway #6C, Midwood",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": null,
+      "rent": 1950,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/1176-ocean-parkway-brooklyn/6c",
+      "verdict": "worse"
+    },
+    {
+      "address": "483 Ocean Parkway #3F, Kensington",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": null,
+      "rent": 1864,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/483-ocean-parkway-brooklyn/3f",
+      "verdict": "worse"
+    },
+    {
+      "address": "2026 Ocean Avenue #19, Midwood",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": null,
+      "rent": 1850,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/2026-ocean-avenue-brooklyn/19",
+      "verdict": "worse"
+    }
+  ],
+  "concession": null,
+  "concessions_to_ask": [
+    "get rent-stabilized status and legal rent in writing",
+    "confirm heat/hot water included in writing",
+    "confirm no broker fee and move-in cost",
+    "minor repairs before move-in"
+  ],
+  "cons": [
+    "4th-floor walk-up with only 2 photos and no floor plan/sqft",
+    "Recurring heat/hot-water pattern incl. Class C 'no heat'",
+    "Longest commute in the borough \u2014 R local only, ~55-70 min to Midtown"
+  ],
+  "days_on_market": 0,
+  "dob_complaints": 1,
+  "ecb_penalties": 0,
+  "fair_rent_high": 1800,
+  "fair_rent_low": 1600,
+  "floor": 4,
+  "generated_at": "2026-07-02T00:00:00Z",
+  "heat_hot_water_recurring": true,
+  "hpd_violations_open": null,
+  "hpd_violations_total": 22,
+  "is_stale": false,
+  "latitude": 40.616867,
+  "lease_term_months": null,
+  "leverage_notes": "Already cheapest studio in the comp set and below fair range; just cut $136. Little room to push rent \u2014 the smarter play is locking the stabilization/frozen-rent claim in writing.",
+  "listed_by": "Christina Saketos (Leonidas Realty)",
+  "listing_flags": [
+    "no_sqft",
+    "no_floor_plan",
+    "no_pet_policy",
+    "only_2_photos",
+    "4th_floor_walkup",
+    "relisted_lower_same_day"
+  ],
+  "listing_platform": "streeteasy",
+  "location_score": 6,
+  "longitude": -74.02852,
+  "management_company": null,
+  "most_likely_sitting_reason": null,
+  "nearest_subway": [
+    {
+      "confidence": "high",
+      "distance_mi": 0.1,
+      "lines": [
+        "R"
+      ],
+      "station": "95th St / 4th Ave (BMT terminal)",
+      "walk_min": 3
+    },
+    {
+      "confidence": "high",
+      "distance_mi": 0.4,
+      "lines": [
+        "R"
+      ],
+      "station": "86th St",
+      "walk_min": 9
+    }
+  ],
+  "neighborhood": "Fort Hamilton",
+  "neighborhood_avg_violations": 0.81,
+  "noise_risks": [
+    "4th-floor walk-up (stair burden)",
+    "quiet residential block; low ambient noise"
+  ],
+  "open_construction": false,
+  "original_list_date": "2026-07-01",
+  "owner_entity": "Gelston Holdings LLC",
+  "owner_name": null,
+  "pet_policy": "unknown",
+  "plain_english": "Best-value pick on paper: a no-fee, heat-included, rent-stabilized studio at $1,649 \u2014 cheapest comparable studio around, freshly cut from $1,785. The prize is stabilization with flat renewals, so get that in writing on tour (DHCR + legal rent). Trade-offs: 4th-floor walk-up, thin photos, longest-in-borough R-only commute, and a recurring winter heat problem. If the stairs work for you and stabilization checks out, this is close to a strong apply.",
+  "price_assessment": "underpriced",
+  "price_changes": [
+    {
+      "date": "2026-07-01",
+      "new_rent": 1649,
+      "old_rent": 1785
+    },
+    {
+      "date": "2026-03-26",
+      "new_rent": 1785,
+      "old_rent": null
+    }
+  ],
+  "pros": [
+    "Cheapest studio in the comp set ($1,649), just cut from $1,785, heat/hot water included, no fee",
+    "Rent-stabilized claim with flat renewals \u2014 strong long-term value if verified",
+    "Quiet block, live-in super, R terminal one block away (guaranteed seat)"
+  ],
+  "recent_class_c": true,
+  "recommendation": "worth_touring",
+  "red_flags": [
+    {
+      "how_to_verify": "Climb it on tour; check stair condition.",
+      "issue": "4th-floor walk-up",
+      "severity": "medium",
+      "why": "Four flights, no elevator \u2014 a real daily burden."
+    },
+    {
+      "how_to_verify": "Tour; measure; check windows/closets.",
+      "issue": "Only 2 photos, no floor plan or sqft",
+      "severity": "medium",
+      "why": "Layout/light unknown."
+    },
+    {
+      "how_to_verify": "Request DHCR rent history; get legal rent in writing.",
+      "issue": "Rent-stabilized '0% increases' claim unverified",
+      "severity": "medium",
+      "why": "Stabilization/frozen-rent is marketing until confirmed."
+    },
+    {
+      "how_to_verify": "Ask super; check HPD Online; talk to tenants.",
+      "issue": "Building heat/hot-water history incl. Class C 'no heat' and Feb-2026 complaint",
+      "severity": "medium",
+      "why": "Heating reliability matters on a top floor."
+    }
+  ],
+  "rent_gross_monthly": 1649,
+  "rent_net_effective": null,
+  "rent_stabilized": "likely",
+  "schema_version": "1.0",
+  "score_building_risk": 6,
+  "score_location": 6,
+  "score_negotiation": 4,
+  "score_overall": 7,
+  "score_value": 8,
+  "should_negotiate": false,
+  "sitting_reasons": [],
+  "source_url": "https://streeteasy.com/building/179-gelston-avenue-brooklyn/4",
+  "sources": [
+    {
+      "accessed": true,
+      "category": "listing",
+      "label": "StreetEasy 179 Gelston Ave #4",
+      "url": "https://streeteasy.com/building/179-gelston-avenue-brooklyn/4"
+    },
+    {
+      "accessed": true,
+      "category": "building_records",
+      "label": "Augrented (BBL 3061100014)",
+      "url": "https://augrented.com/nyc/3061100014-179-gelston-ave-brooklyn"
+    },
+    {
+      "accessed": false,
+      "category": "public_records",
+      "label": "DHCR rent registration",
+      "url": "https://apps.hcr.ny.gov/BuildingSearch/"
+    },
+    {
+      "accessed": true,
+      "category": "maps",
+      "label": "Coordinates + subway (R at 95th St)",
+      "url": "http://www.google.com/maps/place/40.616867,-74.02852"
+    }
+  ],
+  "sqft": null,
+  "suggested_rent": 1649,
+  "unit": "4",
+  "units_available_in_building": 1,
+  "unverified": [
+    "exact live HPD open count (inconsistent)",
+    "rent-stabilization, '0% increases' claim, legal rent",
+    "pet policy",
+    "unit sqft/layout/light",
+    "exact walk-up flights",
+    "precise subway walk times"
+  ],
+  "verification": {
+    "building_records": true,
+    "comps": true,
+    "transit": true
+  },
+  "zip": "11209"
+}

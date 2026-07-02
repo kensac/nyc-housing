@@ -1,0 +1,289 @@
+{
+  "address": "1320 Coney Island Avenue",
+  "amenities": [
+    "live_in_super",
+    "hardwood_floors",
+    "high_ceilings",
+    "three_closets"
+  ],
+  "analysis_tier": "deep_dive",
+  "available_date": "now",
+  "baths": 1,
+  "bbl": "3065230023",
+  "beds": 1,
+  "borough": "brooklyn",
+  "broker_fee": "none",
+  "broker_fee_detail": "FARE Act notice shown; listed by AM Residential leasing team. 'Small pets OK.'",
+  "broker_message": "Hi, I'm interested in 1320 Coney Island Ave #41. Can you confirm it's a 4th-floor walk-up, the square footage, and whether it's rent-stabilized (with rent history)? I saw it was in contract at $2,390 last December before the price came down, and city records show open fire-escape/egress and heat/hot-water items \u2014 how have those been addressed? Given nearby 1-beds around $1,850-$1,900, would the owner consider $1,900? I can tour this week.",
+  "broker_questions": [
+    "Confirm it's a 4th-floor walk-up \u2014 how many flights?",
+    "Why did the December 2025 contract at $2,390 not close, and is $1,995 firm?",
+    "City record shows obstructed fire-escape/egress violations \u2014 resolved?",
+    "How has heat/hot water performed the last two winters?",
+    "Square footage and floor plan?",
+    "Is it rent-stabilized? Rent history?",
+    "What size pets are allowed, any pet deposit?",
+    "Total move-in costs and any tenant-paid fee?"
+  ],
+  "brokerage": "AM Residential",
+  "building_issue_flags": [
+    "heat",
+    "leak",
+    "fire_escape",
+    "plumbing",
+    "construction"
+  ],
+  "building_risk": "medium",
+  "building_risk_rationale": "Augrented: 10 HPD violations with 17 shown open (below Midwood avg 34.8) and 37 lifetime 311 calls (near avg 36.7), so on raw counts around neighborhood-typical for a 32-unit walk-up. Raising to Medium: 87% 12-month failure forecast, recurring Heat/Hot-Water (Class C 'no heat' 3B; building/apartment complaints Jan-Feb 2026), repeated 'HPD unable to gain access', an emergency plumbing complaint (May 2026), and three ACTIVE ECB penalties ~$22,500 including $6,250 (May 2026) and $6,250/$10,000 (2023) for OBSTRUCTED FIRE-ESCAPE landings and unpermitted scaffolding \u2014 an egress-safety flag. Per-unit open load (17/32) elevated; bedbugs clean since 2019.",
+  "building_type": "walkup",
+  "commute_notes": "Closest is the Q (Brighton) at Avenue J, ~6 min \u2014 the listing's 'nearby Q train' is accurate. Q express to Midtown ~45-55 min, one of the better south-Brooklyn commutes. B runs rush-hours only.",
+  "complaints_311": 37,
+  "comps": [
+    {
+      "address": "1500 Ocean Parkway #4G (Midwood co-op)",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": 0.9,
+      "rent": 1950,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/1500-ocean-parkway-brooklyn/4g",
+      "verdict": "similar"
+    },
+    {
+      "address": "3320 Avenue H #6F (East Flatbush co-op)",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": 1.2,
+      "rent": 1949,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/3320-avenue-h-brooklyn/6f",
+      "verdict": "similar"
+    },
+    {
+      "address": "815 Gravesend Neck Road #3P (Sheepshead Bay)",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": 2.0,
+      "rent": 1900,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/815-gravesend-neck-road-brooklyn/3p",
+      "verdict": "similar"
+    },
+    {
+      "address": "1970 85th Street #A2 (Bensonhurst)",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": 2.9,
+      "rent": 1899,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/1970-85-street-brooklyn/a2",
+      "verdict": "better"
+    },
+    {
+      "address": "3033 Coney Island Avenue #5 (Brighton Beach)",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": 2.5,
+      "rent": 1875,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/3033-coney-island-avenue-brooklyn/5",
+      "verdict": "better"
+    }
+  ],
+  "concession": null,
+  "concessions_to_ask": [
+    "$1,900 or a partial free month",
+    "Written fire-escape/egress and heat repair assurances",
+    "Confirm rent-stabilized lease with rider",
+    "Fresh paint / stair-condition fixes"
+  ],
+  "cons": [
+    "Top-floor walk-up in a 1926 building (no elevator)",
+    "Active obstructed-fire-escape/egress ECB violations plus recurring heat/hot-water complaints",
+    "Elevated open-violation load per unit (17/32); busy commercial-corridor noise"
+  ],
+  "days_on_market": 15,
+  "dob_complaints": 5,
+  "ecb_penalties": 3,
+  "fair_rent_high": 2000,
+  "fair_rent_low": 1850,
+  "floor": 4,
+  "generated_at": "2026-07-02T00:00:00Z",
+  "heat_hot_water_recurring": true,
+  "hpd_violations_open": 17,
+  "hpd_violations_total": 10,
+  "is_stale": false,
+  "latitude": 40.625427,
+  "lease_term_months": null,
+  "leverage_notes": "Strong leverage: price already cut ~17% and a prior contract collapsed, 15 days out, top-floor walk-up (a real turnoff at this rent). Comps $1,800-$2,000. A push to $1,900 or a concession is well supported; active fire-escape violations add a bargaining point.",
+  "listed_by": "AM Residential Leasing Team",
+  "listing_flags": [
+    "no_sqft",
+    "no_floor_plan",
+    "no_pet_policy_panel",
+    "top_floor_walkup",
+    "large_recent_price_cut",
+    "high_saved_count_262"
+  ],
+  "listing_platform": "streeteasy",
+  "location_score": 7,
+  "longitude": -73.96567,
+  "management_company": null,
+  "most_likely_sitting_reason": null,
+  "nearest_subway": [
+    {
+      "confidence": "high",
+      "distance_mi": 0.28,
+      "lines": [
+        "Q"
+      ],
+      "station": "Avenue J (Brighton line)",
+      "walk_min": 6
+    },
+    {
+      "confidence": "high",
+      "distance_mi": 0.4,
+      "lines": [
+        "Q"
+      ],
+      "station": "Avenue H (Brighton line)",
+      "walk_min": 9
+    },
+    {
+      "confidence": "low",
+      "distance_mi": 0.62,
+      "lines": [
+        "Q"
+      ],
+      "station": "Avenue M (Brighton line)",
+      "walk_min": 13
+    }
+  ],
+  "neighborhood": "Midwood",
+  "neighborhood_avg_violations": 0.81,
+  "noise_risks": [
+    "Coney Island Avenue is a busy commercial corridor \u2014 traffic, buses, storefront noise; top-floor unit mitigates street noise somewhat",
+    "Elevated Brighton line a few blocks east"
+  ],
+  "open_construction": false,
+  "original_list_date": "2026-06-16",
+  "owner_entity": "Sethrach Properties LLC",
+  "owner_name": "Steven Frey",
+  "pet_policy": "case_by_case",
+  "plain_english": "The most negotiable of the group. Price already fell ~17% (a prior $2,390 contract fell through), so at $1,995 it's fair, no fee, small pets OK, and a 6-minute walk to the Q. Catches: 4th-floor walk-up in a 1926 building, and active fire-escape/egress violations plus recurring heat complaints. Not stale at 15 days, but with a fresh cut and a collapsed prior deal you have real leverage \u2014 tour it, inspect stairs and fire escape, confirm stabilization, and try for $1,900 or a concession.",
+  "price_assessment": "fairly_priced",
+  "price_changes": [
+    {
+      "date": "2026-06-16",
+      "new_rent": 1995,
+      "old_rent": 2390
+    }
+  ],
+  "pros": [
+    "Big ~17% price cut to a now-fair $1,995, no fee, small pets OK",
+    "6-min walk to the Q at Avenue J \u2014 a solid Midtown commute",
+    "1-bed with high ceilings, three closets; likely rent-stabilized"
+  ],
+  "recent_class_c": true,
+  "recommendation": "tour_if_negotiable",
+  "red_flags": [
+    {
+      "how_to_verify": "Confirm walk-up and count flights on tour; assess stairs",
+      "issue": "Top floor (4th) of a four-story WALK-UP",
+      "severity": "medium",
+      "why": "No elevator; four flights every trip"
+    },
+    {
+      "how_to_verify": "Ask why the Dec 2025 contract didn't close and whether the price is firm",
+      "issue": "Large price drop from $2,390 to $1,995 (~-17%)",
+      "severity": "medium",
+      "why": "Unit was 'in contract' at $2,390 in Dec 2025 then delisted; relisted ~17% lower \u2014 prior deal likely fell through, $2,390 was over-market"
+    },
+    {
+      "how_to_verify": "Inspect fire escape/egress on tour; ask about open ECB cases",
+      "issue": "Obstructed fire-escape / egress ECB violations (active)",
+      "severity": "high",
+      "why": "Active penalties cite fire-escape landings obstructed by A/C units and equipment, plus a prohibited-locking egress gate ($6,250 May 2026) \u2014 life-safety in a walk-up"
+    },
+    {
+      "how_to_verify": "Ask about heat last two winters; check HPD Online; speak with a tenant",
+      "issue": "Recurring heat/hot-water complaints and 'no access' inspection pattern",
+      "severity": "medium",
+      "why": "Multiple 2024-2026 heat complaints incl. Class C, plus repeated HPD inability to gain access \u2014 hints at slow response"
+    },
+    {
+      "how_to_verify": "Measure on tour; request a floor plan",
+      "issue": "No sqft/floor plan on a 'spacious' unit",
+      "severity": "low",
+      "why": "Size/queen-bedroom claims unverified"
+    },
+    {
+      "how_to_verify": "Tour promptly and inspect condition/stairs",
+      "issue": "262 saves but 15 days on market",
+      "severity": "low",
+      "why": "High interest without quick rental can indicate an in-person turnoff (walk-up, condition)"
+    }
+  ],
+  "rent_gross_monthly": 1995,
+  "rent_net_effective": null,
+  "rent_stabilized": "likely",
+  "schema_version": "1.0",
+  "score_building_risk": 5,
+  "score_location": 7,
+  "score_negotiation": 8,
+  "score_overall": 6,
+  "score_value": 7,
+  "should_negotiate": true,
+  "sitting_reasons": [],
+  "source_url": "https://streeteasy.com/building/1320-coney-island-avenue-brooklyn/41",
+  "sources": [
+    {
+      "accessed": true,
+      "category": "listing",
+      "label": "StreetEasy listing 1320 Coney Island Ave #41",
+      "url": "https://streeteasy.com/building/1320-coney-island-avenue-brooklyn/41"
+    },
+    {
+      "accessed": true,
+      "category": "building_records",
+      "label": "Augrented 1320 Coney Island Avenue (BBL 3065230023)",
+      "url": "https://augrented.com/nyc/3065230023-1320-coney-island-avenue-brooklyn"
+    },
+    {
+      "accessed": true,
+      "category": "building_records",
+      "label": "openigloo 1320 Coney Island Avenue",
+      "url": "https://www.openigloo.com/building/nyc/3170999-3065230023/brooklyn-midwood-1320-coney-island-avenue-11230"
+    },
+    {
+      "accessed": true,
+      "category": "comps",
+      "label": "StreetEasy similar-homes carousel",
+      "url": "https://streeteasy.com/building/1320-coney-island-avenue-brooklyn/41"
+    },
+    {
+      "accessed": true,
+      "category": "location",
+      "label": "Google Maps pin (coords)",
+      "url": "http://www.google.com/maps/place/40.625427,-73.96567"
+    }
+  ],
+  "sqft": null,
+  "suggested_rent": 1900,
+  "unit": "41",
+  "units_available_in_building": 1,
+  "unverified": [
+    "square footage",
+    "exact current open HPD count (aggregator 17 open, full paywall)",
+    "rent-stabilization status (verify with DHCR)",
+    "outcome of Dec 2025 contract",
+    "pet size limits",
+    "precise subway walk times"
+  ],
+  "verification": {
+    "building_records": true,
+    "comps": true,
+    "transit": true
+  },
+  "zip": "11230"
+}

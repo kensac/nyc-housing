@@ -1,0 +1,276 @@
+{
+  "address": "1800 Ocean Parkway",
+  "amenities": [
+    "elevator",
+    "live_in_super",
+    "hardwood_floors"
+  ],
+  "analysis_tier": "deep_dive",
+  "available_date": "now",
+  "baths": 1,
+  "bbl": "3066810399",
+  "beds": 1,
+  "borough": "brooklyn",
+  "broker_fee": "none",
+  "broker_fee_detail": "FARE Act notice shown. Listed by NYC Luxury Apt Rentals; confirm no tenant-paid/co-op sublet fee.",
+  "broker_message": "Hi Arman, I'm interested in 1800 Ocean Parkway #C4. Can you tell me the floor and square footage, and confirm whether it's rent-stabilized (with rent history)? I noticed the unit was listed and delisted in January and see city records of recurring heat/hot-water complaints and elevator violations \u2014 how have those been addressed? Given comparable 1-beds nearby around $1,800, would the owner do $1,800 or a month free? Happy to tour the exact unit.",
+  "broker_questions": [
+    "Which floor is C4 and what is the square footage?",
+    "Why was the January 2026 listing delisted after a week?",
+    "The building has recurring heat/hot-water complaints \u2014 how has heat performed?",
+    "Are the elevator fireman-service/recall issues resolved?",
+    "What is the 1st-floor medical office and any open DOB enforcement?",
+    "Is it rent-stabilized, with rent history?",
+    "Any tenant-paid/co-op sublet fee, and total move-in costs?"
+  ],
+  "brokerage": "NYC Luxury Apt Rentals Co LLC",
+  "building_issue_flags": [
+    "pests",
+    "leak",
+    "elevator",
+    "heat"
+  ],
+  "building_risk": "medium",
+  "building_risk_rationale": "Augrented shows only 5 HPD violations (at/below Gravesend avg 7.6) and clean bedbugs, BUT flags a 97% 12-month severe-failure forecast and recent recurring problems: repeated building-wide Heat/Hot-Water complaints (Nov 2024 Class C 'no heat'; scalding-hot-water Class C Mar 2026; more May 2026), Sept 2024 rodent, July 2024 ceiling leak, and multiple ACTIVE ECB penalties (inoperative lobby fireman elevator recall ~$1,250; failure-to-maintain $655; unpermitted 1st-floor medical-office conversion contrary to C of O). Low raw count but a genuine recurring-heat + elevator-safety + illegal-conversion pattern pushes to Medium. Exact current OPEN count behind paywall (unverified).",
+  "building_type": "elevator",
+  "commute_notes": "Closest is the F at Kings Highway (Culver), a short flat ~6-min walk. F to Midtown ~55-65 min \u2014 a long single-seat ride. StreetEasy table garbled; the N does not stop here. Long commute to Manhattan.",
+  "complaints_311": null,
+  "comps": [
+    {
+      "address": "1500 Ocean Parkway #4G (Midwood co-op)",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": 1.4,
+      "rent": 1950,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/1500-ocean-parkway-brooklyn/4g",
+      "verdict": "similar"
+    },
+    {
+      "address": "815 Gravesend Neck Road #3P (Sheepshead Bay)",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": 1.0,
+      "rent": 1900,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/815-gravesend-neck-road-brooklyn/3p",
+      "verdict": "similar"
+    },
+    {
+      "address": "1974 51st Street #3A (Mapleton)",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": 1.8,
+      "rent": 2000,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/1974-51-street-brooklyn/3a",
+      "verdict": "similar"
+    },
+    {
+      "address": "7606 17th Avenue #1 (Bensonhurst)",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": 2.3,
+      "rent": 1775,
+      "sqft": 700,
+      "url": "https://streeteasy.com/building/7606-17-avenue-brooklyn/1",
+      "verdict": "better"
+    },
+    {
+      "address": "1320 Coney Island Avenue #41 (Midwood walk-up)",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": 2.2,
+      "rent": 1995,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/1320-coney-island-avenue-brooklyn/41",
+      "verdict": "worse"
+    }
+  ],
+  "concession": null,
+  "concessions_to_ask": [
+    "One month free or $1,800 net",
+    "Written heat/hot-water and elevator repair assurances",
+    "Waived application/sublet fee",
+    "Lower security deposit"
+  ],
+  "cons": [
+    "Recurring building-wide heat/hot-water complaints incl. a Class C no-heat",
+    "Active elevator fireman-service and unpermitted-conversion violations; 97% maintenance-risk forecast",
+    "Long F-train commute; thin listing with relist churn"
+  ],
+  "days_on_market": 6,
+  "dob_complaints": 5,
+  "ecb_penalties": 5,
+  "fair_rent_high": 1975,
+  "fair_rent_low": 1800,
+  "floor": null,
+  "generated_at": "2026-07-02T00:00:00Z",
+  "heat_hot_water_recurring": true,
+  "hpd_violations_open": null,
+  "hpd_violations_total": 5,
+  "is_stale": false,
+  "latitude": 40.60507,
+  "lease_term_months": null,
+  "leverage_notes": "History is the leverage: the same $1,899 listing was pulled after a week in January and is back; comps sit at $1,800-$1,975. Recurring heat and active elevator/illegal-conversion violations are legitimate points to press. A $1,800 ask or a free month is defensible.",
+  "listed_by": "Arman Ohevshalom",
+  "listing_flags": [
+    "no_sqft",
+    "no_floor_plan",
+    "no_floor_number",
+    "no_pet_policy",
+    "only_4_photos",
+    "hype_language",
+    "text_only_contact",
+    "relisted_after_prior_delist"
+  ],
+  "listing_platform": "streeteasy",
+  "location_score": 6,
+  "longitude": -73.967445,
+  "management_company": "Ocean Parkway Management LLC",
+  "most_likely_sitting_reason": null,
+  "nearest_subway": [
+    {
+      "confidence": "high",
+      "distance_mi": 0.28,
+      "lines": [
+        "F"
+      ],
+      "station": "Kings Highway (Culver line)",
+      "walk_min": 6
+    },
+    {
+      "confidence": "low",
+      "distance_mi": 0.4,
+      "lines": [
+        "F"
+      ],
+      "station": "Avenue P (Culver line)",
+      "walk_min": 9
+    },
+    {
+      "confidence": "low",
+      "distance_mi": 0.65,
+      "lines": [
+        "Q"
+      ],
+      "station": "Kings Highway (Brighton line)",
+      "walk_min": 13
+    }
+  ],
+  "neighborhood": "Gravesend",
+  "neighborhood_avg_violations": 0.81,
+  "noise_risks": [
+    "Ocean Parkway is a wide arterial with a service road; front units get traffic noise",
+    "1st-floor commercial/medical conversion in the building"
+  ],
+  "open_construction": false,
+  "original_list_date": "2026-06-25",
+  "owner_entity": "1800 Ocean Parkway Corp. (registered); managed by Ocean Parkway Management LLC",
+  "owner_name": null,
+  "pet_policy": "unknown",
+  "plain_english": "A fee-free, fairly priced 1-bed near the F, but the building record is the catch: low raw violation count yet recurring heat/hot-water failures, active elevator-safety fines, and an unpermitted 1st-floor medical office. Only 6 days old (not stale), but the same listing was pulled after a week in January, which gives negotiating room. Tour only if you can get a rent-stabilized confirmation, heat/elevator assurances, and ideally $1,800 or a free month.",
+  "price_assessment": "fairly_priced",
+  "price_changes": [],
+  "pros": [
+    "No fee, 1-bed at a fair ~$1,899 with elevator and live-in super",
+    "Short flat walk to the F at Kings Highway",
+    "Likely rent-stabilized (pre-1974, 84 units) \u2014 increase protection"
+  ],
+  "recent_class_c": true,
+  "recommendation": "tour_if_negotiable",
+  "red_flags": [
+    {
+      "how_to_verify": "Ask why the earlier listing was pulled and whether it rented",
+      "issue": "Relisted after prior delist; rent frozen at $1,899 since Jan 2026 (up from $1,749 in 2024)",
+      "severity": "medium",
+      "why": "Listed Jan 6, delisted Jan 13, relisted Jun 25 \u2014 churn suggests soft demand"
+    },
+    {
+      "how_to_verify": "Ask about heat reliability; check HPD Online; talk to a tenant",
+      "issue": "Recurring building-wide heat/hot-water complaints",
+      "severity": "high",
+      "why": "Multiple emergency complaints 2024-2026 incl. a Class C 'no heat' \u2014 winter habitability risk"
+    },
+    {
+      "how_to_verify": "Ask when elevator was last inspected/repaired; check DOB records",
+      "issue": "Active elevator safety ECB violations (fireman-service recall inoperative)",
+      "severity": "medium",
+      "why": "Fire-safety defect in an elevator building"
+    },
+    {
+      "how_to_verify": "Ask about the commercial tenant and any DOB enforcement",
+      "issue": "Unpermitted 1st-floor medical-office conversion contrary to C of O",
+      "severity": "medium",
+      "why": "Active ECB violations; can bring inspectors and enforcement"
+    },
+    {
+      "how_to_verify": "Insist on an in-person tour and floor plan/sqft",
+      "issue": "Only 4 photos, no floor/sqft, text-only contact, hype ('WILL NOT LAST')",
+      "severity": "low",
+      "why": "Thin listing and pressure language reduce transparency"
+    }
+  ],
+  "rent_gross_monthly": 1899,
+  "rent_net_effective": null,
+  "rent_stabilized": "likely",
+  "schema_version": "1.0",
+  "score_building_risk": 5,
+  "score_location": 6,
+  "score_negotiation": 7,
+  "score_overall": 5,
+  "score_value": 6,
+  "should_negotiate": true,
+  "sitting_reasons": [],
+  "source_url": "https://streeteasy.com/building/1800-ocean-parkway-brooklyn/c4",
+  "sources": [
+    {
+      "accessed": true,
+      "category": "listing",
+      "label": "StreetEasy listing 1800 Ocean Pkwy #C4",
+      "url": "https://streeteasy.com/building/1800-ocean-parkway-brooklyn/c4"
+    },
+    {
+      "accessed": true,
+      "category": "building_records",
+      "label": "Augrented 1800 Ocean Parkway (BBL 3066810399)",
+      "url": "https://augrented.com/nyc/3066810399-1800-ocean-parkway-brooklyn"
+    },
+    {
+      "accessed": true,
+      "category": "building_records",
+      "label": "openigloo Ocean Parkway Management LLC",
+      "url": "https://www.openigloo.com/contact/nyc/1aa04975-7132-4762-872e-ee42c2809e2b/ocean-parkway-management-llc"
+    },
+    {
+      "accessed": true,
+      "category": "comps",
+      "label": "StreetEasy similar-homes carousel",
+      "url": "https://streeteasy.com/building/1800-ocean-parkway-brooklyn/c4"
+    },
+    {
+      "accessed": true,
+      "category": "location",
+      "label": "Google Maps pin (coords)",
+      "url": "http://www.google.com/maps/place/40.60507,-73.967445"
+    }
+  ],
+  "sqft": null,
+  "suggested_rent": 1800,
+  "unit": "C4",
+  "units_available_in_building": 1,
+  "unverified": [
+    "floor number and square footage",
+    "exact current open HPD violation count",
+    "rent-stabilization status (verify with DHCR)",
+    "pet policy",
+    "outcome of Jan 2026 delist",
+    "precise subway walk times"
+  ],
+  "verification": {
+    "building_records": true,
+    "comps": true,
+    "transit": true
+  },
+  "zip": "11223"
+}

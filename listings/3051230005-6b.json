@@ -1,0 +1,264 @@
+{
+  "address": "650 Ocean Avenue (1916 Albemarle Road)",
+  "amenities": [
+    "Elevator",
+    "Super on site",
+    "Laundry on site",
+    "Many windows / natural light"
+  ],
+  "analysis_tier": "deep_dive",
+  "available_date": "2026-07-13",
+  "baths": 1,
+  "bbl": "3051230005",
+  "beds": 0,
+  "borough": "brooklyn",
+  "broker_fee": "none",
+  "broker_fee_detail": "No broker fee under NYC FARE Act; listing by Smart NY Realty LLC",
+  "broker_message": "Hi Joshua \u2014 interested in 650 Ocean Ave #6B. Before applying I'd like the DHCR rent registration history (I understand the building is rent-stabilized), the lease term, and full move-in costs. I also saw the building carries a large number of open HPD violations including heat/hot-water items \u2014 can you tell me which affect the 6th floor and the repair timeline? Given that, would the owner consider $1,750 or a free month? Thanks!",
+  "broker_questions": [
+    "Is 6B rent-stabilized, and what is the registered legal rent (DHCR history)?",
+    "250 open HPD violations incl. 49 Class C \u2014 which affect the 6th floor / 6B, and repair timeline?",
+    "Were there heat/hot-water outages last winter? How fast does management respond?",
+    "Actual square footage and window exposure of 6B?",
+    "Full move-in cost and lease term (available 7/13)?",
+    "Any active litigation or bedbug treatment on my floor?"
+  ],
+  "brokerage": "Smart NY Realty LLC",
+  "building_issue_flags": [
+    "pests",
+    "leak",
+    "mold"
+  ],
+  "building_risk": "high",
+  "building_risk_rationale": "250 open HPD violations across 93 units = 2.68 violations/unit, roughly 3.3x the NYC average of 0.81. The mix is severe: 49 open Class C (immediately hazardous \u2014 heat/hot water/pests/mold/defective parts), 151 Class B, 50 Class A. Plus 14 litigation cases, 3 evictions, 2 bedbug reports in the past year. openigloo reviews independently describe flooding with no landlord help, a possible illegal basement apartment, ineffective heat, and having to call 311 to get anything fixed. Owner/manager Rush Realty (Isaac Stern) draws consistent neglect complaints. Clear High-risk; the 49 open Class C count is decisive.",
+  "building_type": "elevator",
+  "commute_notes": "Excellent transit: BMT Brighton (B/Q) at Church Av ~5 min. Q to Midtown ~35-40 min; B weekday express. Multiple Brighton stations within a 10-min walk.",
+  "complaints_311": null,
+  "comps": [
+    {
+      "address": "2016 Albemarle Road #4D, Flatbush",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": 0.3,
+      "rent": 1825,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/2016-albemarle-road-brooklyn/4d",
+      "verdict": "similar"
+    },
+    {
+      "address": "483 Ocean Parkway #3F, Kensington",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": 1.0,
+      "rent": 1864,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/483-ocean-parkway-brooklyn/3f",
+      "verdict": "similar"
+    },
+    {
+      "address": "2026 Ocean Avenue #1O, Midwood",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": 1.7,
+      "rent": 1999,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/2026-ocean-avenue-brooklyn/1o",
+      "verdict": "worse"
+    },
+    {
+      "address": "900 Rogers Avenue #1F, Flatbush",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": 0.7,
+      "rent": 1999,
+      "sqft": 400,
+      "url": "https://streeteasy.com/building/900-rogers-avenue-brooklyn/1f",
+      "verdict": "worse"
+    },
+    {
+      "address": "1115 Willmohr Street #B, Brownsville",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": 2.5,
+      "rent": 1799,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/1115-willmohr-street-brooklyn/b",
+      "verdict": "worse"
+    }
+  ],
+  "concession": null,
+  "concessions_to_ask": [
+    "Reduce to $1,750 (studio comps run $1,799-$1,864 in cleaner buildings)",
+    "One month free or reduced deposit given building condition",
+    "Written commitment to correct Class C violations affecting the unit/floor before move-in",
+    "Provide DHCR rent registration history"
+  ],
+  "cons": [
+    "250 open HPD violations incl. 49 Class C; recurring heat complaints",
+    "Documented neglect, flooding, litigation and bedbug reports",
+    "Rent up 32% since 2020 on a stabilized unit \u2014 possibly above legal rent"
+  ],
+  "days_on_market": 1,
+  "dob_complaints": null,
+  "ecb_penalties": null,
+  "fair_rent_high": 1900,
+  "fair_rent_low": 1750,
+  "floor": 6,
+  "generated_at": "2026-07-02T00:00:00Z",
+  "heat_hot_water_recurring": true,
+  "hpd_violations_open": 250,
+  "hpd_violations_total": null,
+  "is_stale": false,
+  "latitude": 40.64682,
+  "lease_term_months": null,
+  "leverage_notes": "Strong tenant leverage: 250 open violations / 49 Class C, 14 litigations, and heat complaints are documented and serious; comparable studios nearby (2016 Albemarle $1,825, 483 Ocean Pkwy $1,864) sit in cleaner buildings for similar money. Rent jumped 32% since 2020 on a stabilized unit, so legal rent may cap what they can charge. Push hard on price and repairs; be ready to walk.",
+  "listed_by": "Joshua Brick, Smart NY Realty LLC",
+  "listing_flags": [
+    "no_sqft",
+    "no_floor_plan",
+    "only_5_current_photos",
+    "building_page_is_corner_address",
+    "policy_info_missing",
+    "rent_up_32pct_from_2020"
+  ],
+  "listing_platform": "streeteasy",
+  "location_score": 8,
+  "longitude": -73.96084,
+  "management_company": "Rush Realty Associates LLC",
+  "most_likely_sitting_reason": null,
+  "nearest_subway": [
+    {
+      "confidence": "high",
+      "distance_mi": 0.22,
+      "lines": [
+        "B",
+        "Q"
+      ],
+      "station": "Church Av (Brighton line)",
+      "walk_min": 5
+    },
+    {
+      "confidence": "high",
+      "distance_mi": 0.26,
+      "lines": [
+        "B",
+        "Q"
+      ],
+      "station": "Beverley Rd (Brighton line)",
+      "walk_min": 6
+    },
+    {
+      "confidence": "high",
+      "distance_mi": 0.41,
+      "lines": [
+        "B",
+        "Q"
+      ],
+      "station": "Cortelyou Rd (Brighton line)",
+      "walk_min": 9
+    }
+  ],
+  "neighborhood": "Prospect Park South",
+  "neighborhood_avg_violations": 0.81,
+  "noise_risks": [
+    "Ocean Ave is a wide, busy through-street with steady traffic",
+    "Large 93-unit prewar building \u2014 interior/hallway noise"
+  ],
+  "open_construction": null,
+  "original_list_date": "2026-06-30",
+  "owner_entity": "Rush Realty Associates LLC",
+  "owner_name": "Isaac Stern / Nelson Molina",
+  "pet_policy": "allowed",
+  "plain_english": "Location and transit are excellent, it's a no-fee rent-stabilized studio, and the price is in line with nearby studios. But the building is the problem: 250 open HPD violations including 49 immediately-hazardous Class C items, recurring heat complaints, 14 litigations, bedbug reports, and reviews about flooding and neglect make this high-risk. Just listed (not sitting). Only pursue if you get the DHCR legal-rent history, a price/free-month concession, and written commitments to fix the hazardous violations affecting your unit \u2014 otherwise walk. NOTE: this flips the screen's earlier 'low' read, which was based on a thin augrented figure; the deeper openigloo record shows the building is severely distressed.",
+  "price_assessment": "fairly_priced",
+  "price_changes": [],
+  "pros": [
+    "Outstanding transit \u2014 5 min to B/Q on the Brighton line",
+    "No fee; confirmed rent-stabilized with renewal/increase protections",
+    "Priced at/below nearby studio comps"
+  ],
+  "recent_class_c": true,
+  "recommendation": "tour_if_negotiable",
+  "red_flags": [
+    {
+      "how_to_verify": "Pull HPD Online for the C-violation list; ask which apply to 6B/6th floor; ask about last winter's heat",
+      "issue": "Studio in a building with 250 open HPD violations incl. 49 Class C and recurring heat complaints",
+      "severity": "high",
+      "why": "Signals no heat/hot water, pests, mold, and unresponsive management \u2014 core livability risk"
+    },
+    {
+      "how_to_verify": "Request DHCR rent registration history before signing",
+      "issue": "Rent up ~32% from $1,400 (2020) to $1,850 on a likely rent-stabilized unit",
+      "severity": "high",
+      "why": "If stabilized, the legal rent may be well below $1,850 (preferential/improper increase); you could be overpaying vs. legal rent"
+    },
+    {
+      "how_to_verify": "Measure on tour; confirm window count/exposure for 6B",
+      "issue": "Studio, no sqft, no floor plan, only 5 photos; reviews mention cramped units",
+      "severity": "medium",
+      "why": "Small studios in big prewar buildings can be tight/dark despite 'tons of windows'"
+    },
+    {
+      "how_to_verify": "Ask super/management; check 311 history",
+      "issue": "Reviews cite flooding, a possible illegal basement apartment, and neglect",
+      "severity": "medium",
+      "why": "Pattern of deferred maintenance and possible code issues"
+    }
+  ],
+  "rent_gross_monthly": 1850,
+  "rent_net_effective": null,
+  "rent_stabilized": "yes",
+  "schema_version": "1.0",
+  "score_building_risk": 2,
+  "score_location": 8,
+  "score_negotiation": 7,
+  "score_overall": 4,
+  "score_value": 5,
+  "should_negotiate": true,
+  "sitting_reasons": [],
+  "source_url": "https://streeteasy.com/building/1916-albemarle-road-brooklyn/6b",
+  "sources": [
+    {
+      "accessed": true,
+      "category": "listing",
+      "label": "StreetEasy 650 Ocean Ave #6B (building 1916 Albemarle Rd)",
+      "url": "https://streeteasy.com/building/1916-albemarle-road-brooklyn/6b"
+    },
+    {
+      "accessed": true,
+      "category": "building_records",
+      "label": "openigloo 650 Ocean Ave (250 open violations, 49 Class C, litigation, reviews)",
+      "url": "https://www.openigloo.com/building/nyc/3117609-3051230005/brooklyn-prospect-park-south-650-ocean-ave-11226"
+    },
+    {
+      "accessed": true,
+      "category": "comps",
+      "label": "StreetEasy similar-homes carousel",
+      "url": "https://streeteasy.com/building/1916-albemarle-road-brooklyn/6b"
+    },
+    {
+      "accessed": true,
+      "category": "maps",
+      "label": "BMT Brighton (B/Q) near coords",
+      "url": "http://www.google.com/maps/place/40.64682,-73.96084"
+    }
+  ],
+  "sqft": null,
+  "suggested_rent": 1750,
+  "unit": "6B",
+  "units_available_in_building": 1,
+  "unverified": [
+    "exact legal/registered rent (DHCR history not pulled)",
+    "which specific Class C violations affect 6B/6th floor",
+    "live HPD total (only open count shown)",
+    "last-winter heat outage specifics",
+    "exact sqft and window exposure",
+    "lease term"
+  ],
+  "verification": {
+    "building_records": true,
+    "comps": true,
+    "transit": true
+  },
+  "zip": "11226"
+}

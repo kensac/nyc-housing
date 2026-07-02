@@ -1,0 +1,276 @@
+{
+  "address": "353 Bay Ridge Parkway",
+  "amenities": [
+    "elevator",
+    "laundry in building",
+    "live-in super",
+    "hardwood floors",
+    "two closets"
+  ],
+  "analysis_tier": "deep_dive",
+  "available_date": "now",
+  "baths": 1,
+  "bbl": "3059290054",
+  "beds": 0,
+  "borough": "brooklyn",
+  "broker_fee": "none",
+  "broker_fee_detail": "No-fee under FARE Act; listed by AM Residential",
+  "broker_message": "Hi George \u2014 I'm interested in 353 Bay Ridge Pkwy #1. Before applying, could you confirm total move-in costs, that there's no broker fee, and the exact stove install date? Given it's not in yet and it's a ground-floor unit, would the owner consider $1,600 or a partial free-month? I'd also like to confirm rent-stabilization. Thanks!",
+  "broker_questions": [
+    "What floor/direction does Apt 1 face \u2014 street or courtyard?",
+    "When exactly will the stove be installed (in writing)?",
+    "Is it rent-stabilized? Can I see the DHCR rent history and legal rent?",
+    "Total move-in costs?",
+    "How reliable is heat/hot water in winter?",
+    "Status of the 2022 DOB chimney vacate order?",
+    "Pet policy and income/guarantor requirements?"
+  ],
+  "brokerage": "AM Residential",
+  "building_issue_flags": [
+    "heat",
+    "pests",
+    "construction"
+  ],
+  "building_risk": "medium",
+  "building_risk_rationale": "Total HPD violations (~12) sit well below the 0.81/unit benchmark and there are no bedbugs/evictions, but elevated 311 (42 vs ~17 nabe avg), 10 DOB complaints, 9 ECB penalties incl. a $6,250 active fine, a recurring heat/hot-water pattern (2024-2026), an active 2022 DOB Partial Vacate Order at the chimney/courtyard, and ownership linked to Michael Niamonitakis (worst-landlord watchlist) push it above 'low.' Exact open count inconsistent (openigloo ~2, augrented '16'), unverified.",
+  "building_type": "elevator",
+  "commute_notes": "Nearest is the R local at 77th St, one block away \u2014 slow local, ~50-60 min to Midtown. Transfer to the N express at 59th St for a faster ride.",
+  "complaints_311": 42,
+  "comps": [
+    {
+      "address": "2026 Ocean Avenue #19, Midwood",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": null,
+      "rent": 1850,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/2026-ocean-avenue-brooklyn/19",
+      "verdict": "similar"
+    },
+    {
+      "address": "2016 Albemarle Road #4D, Flatbush",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": null,
+      "rent": 1825,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/2016-albemarle-road-brooklyn/4d",
+      "verdict": "similar"
+    },
+    {
+      "address": "483 Ocean Parkway #3F, Kensington",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": null,
+      "rent": 1864,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/483-ocean-parkway-brooklyn/3f",
+      "verdict": "worse"
+    },
+    {
+      "address": "900 Rogers Avenue #1F, Flatbush",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": null,
+      "rent": 1999,
+      "sqft": 400,
+      "url": "https://streeteasy.com/building/900-rogers-avenue-brooklyn/1f",
+      "verdict": "worse"
+    },
+    {
+      "address": "179 Gelston Avenue #4, Fort Hamilton",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": 1.0,
+      "rent": 1649,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/179-gelston-avenue-brooklyn/4",
+      "verdict": "similar"
+    }
+  ],
+  "concession": null,
+  "concessions_to_ask": [
+    "free/reduced first month given no stove",
+    "confirm no broker fee in writing",
+    "written stove install date",
+    "waive application/amenity fees"
+  ],
+  "cons": [
+    "Ground-floor unit with incomplete kitchen (no stove yet)",
+    "Recurring heat/hot-water complaints and unresolved chimney vacate order",
+    "Owner tied to worst-landlord watchlists; slow R-only commute"
+  ],
+  "days_on_market": 1,
+  "dob_complaints": 10,
+  "ecb_penalties": 9,
+  "fair_rent_high": 1850,
+  "fair_rent_low": 1650,
+  "floor": 1,
+  "generated_at": "2026-07-02T00:00:00Z",
+  "heat_hot_water_recurring": true,
+  "hpd_violations_open": null,
+  "hpd_violations_total": 12,
+  "is_stale": false,
+  "latitude": 40.631252,
+  "lease_term_months": null,
+  "leverage_notes": "Rent already at low end of Bay Ridge studio range and below 2025 asking; modest leverage from incomplete kitchen, ground-floor, heat history \u2014 push for a small cut or concession, not a big drop.",
+  "listed_by": "George Niamonitakis (AM Residential)",
+  "listing_flags": [
+    "no_sqft",
+    "no_floor_plan",
+    "no_pet_policy",
+    "only_4_photos",
+    "stove_not_yet_installed",
+    "floor_1_ground_floor_unit"
+  ],
+  "listing_platform": "streeteasy",
+  "location_score": 7,
+  "longitude": -74.02592,
+  "management_company": null,
+  "most_likely_sitting_reason": null,
+  "nearest_subway": [
+    {
+      "confidence": "high",
+      "distance_mi": 0.12,
+      "lines": [
+        "R"
+      ],
+      "station": "77th St (4th Ave BMT)",
+      "walk_min": 3
+    },
+    {
+      "confidence": "high",
+      "distance_mi": 0.28,
+      "lines": [
+        "R"
+      ],
+      "station": "Bay Ridge Av",
+      "walk_min": 7
+    },
+    {
+      "confidence": "high",
+      "distance_mi": 0.75,
+      "lines": [
+        "N",
+        "R",
+        "W"
+      ],
+      "station": "59th St / 4th Ave",
+      "walk_min": 15
+    }
+  ],
+  "neighborhood": "Bay Ridge",
+  "neighborhood_avg_violations": 0.81,
+  "noise_risks": [
+    "ground-floor unit exposed to street/sidewalk noise",
+    "elevator/building mechanicals on a low floor"
+  ],
+  "open_construction": true,
+  "original_list_date": "2026-06-30",
+  "owner_entity": "Epsilon Holdings Ltd",
+  "owner_name": "Michael Niamonitakis (associated principal; flagged on NYC watchlists)",
+  "pet_policy": "unknown",
+  "plain_english": "A fairly-priced, no-fee Bay Ridge studio in an elevator/laundry building one block from the R \u2014 a reasonable deal at $1,695, below the neighborhood median. Catches: ground-floor, stove not installed yet, recurring winter heat history, and an owner linked to worst-landlord watchlists. Just listed (not sitting). Worth touring: verify light and kitchen in person, confirm heat reliability and stabilization, and try for $1,600 or a concession.",
+  "price_assessment": "fairly_priced",
+  "price_changes": [
+    {
+      "date": "2026-06-30",
+      "new_rent": 1695,
+      "old_rent": null
+    },
+    {
+      "date": "2025-05-08",
+      "new_rent": 1965,
+      "old_rent": null
+    }
+  ],
+  "pros": [
+    "No fee and rent below the Bay Ridge studio median and its own 2025 asking",
+    "Elevator + laundry + live-in super, R one block away",
+    "Fresh listing (1 day), priced to move"
+  ],
+  "recent_class_c": null,
+  "recommendation": "worth_touring",
+  "red_flags": [
+    {
+      "how_to_verify": "Tour; check window exposure and direction.",
+      "issue": "Ground-floor (Floor 1) unit",
+      "severity": "medium",
+      "why": "More street noise, less light, higher security/pest exposure; only 4 photos."
+    },
+    {
+      "how_to_verify": "Get install date in writing before signing.",
+      "issue": "New stove not yet installed",
+      "severity": "low",
+      "why": "Kitchen not move-in complete."
+    },
+    {
+      "how_to_verify": "Ask super about winter heat; check HPD Online.",
+      "issue": "Recurring building heat/hot-water complaints + active chimney vacate order",
+      "severity": "medium",
+      "why": "Multiple 2024-2026 heat emergencies and an unresolved 2022 DOB Partial Vacate Order."
+    },
+    {
+      "how_to_verify": "Search entity on JustFix/WhoOwnsWhat; ask current tenants.",
+      "issue": "Ownership tied to NYC worst-landlord watchlists",
+      "severity": "medium",
+      "why": "Reputation risk for responsiveness."
+    }
+  ],
+  "rent_gross_monthly": 1695,
+  "rent_net_effective": null,
+  "rent_stabilized": "likely",
+  "schema_version": "1.0",
+  "score_building_risk": 6,
+  "score_location": 7,
+  "score_negotiation": 5,
+  "score_overall": 7,
+  "score_value": 7,
+  "should_negotiate": true,
+  "sitting_reasons": [],
+  "source_url": "https://streeteasy.com/building/353-bay-ridge-parkway-brooklyn/1",
+  "sources": [
+    {
+      "accessed": true,
+      "category": "listing",
+      "label": "StreetEasy 353 Bay Ridge Pkwy #1",
+      "url": "https://streeteasy.com/building/353-bay-ridge-parkway-brooklyn/1"
+    },
+    {
+      "accessed": true,
+      "category": "building_records",
+      "label": "openigloo (BBL 3059290054)",
+      "url": "https://www.openigloo.com/building/nyc/3148285-3059290054/brooklyn-bay-ridge-353-bay-ridge-parkway-11209"
+    },
+    {
+      "accessed": true,
+      "category": "building_records",
+      "label": "Augrented (BBL 3059290054)",
+      "url": "https://augrented.com/nyc/3059290054-353-bay-ridge-parkway-brooklyn"
+    },
+    {
+      "accessed": true,
+      "category": "maps",
+      "label": "Coordinates + subway (R at 77th St)",
+      "url": "http://www.google.com/maps/place/40.631252,-74.02592"
+    }
+  ],
+  "sqft": null,
+  "suggested_rent": 1600,
+  "unit": "1",
+  "units_available_in_building": 1,
+  "unverified": [
+    "exact live HPD open count (aggregators inconsistent ~2 vs 16)",
+    "status of 2022 DOB vacate order",
+    "rent-stabilization and legal rent",
+    "pet policy",
+    "unit sqft and exposure",
+    "precise subway walk times"
+  ],
+  "verification": {
+    "building_records": true,
+    "comps": true,
+    "transit": true
+  },
+  "zip": "11209"
+}

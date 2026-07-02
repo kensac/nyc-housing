@@ -1,0 +1,265 @@
+{
+  "address": "2016 Albemarle Road",
+  "amenities": [
+    "Hardwood floors",
+    "Elevator",
+    "Laundry in building",
+    "Live-in super",
+    "Virtual doorman",
+    "Separate kitchen",
+    "Big closets",
+    "Heat and hot water included"
+  ],
+  "analysis_tier": "deep_dive",
+  "available_date": "2026-07-15",
+  "baths": 1,
+  "bbl": "3051240005",
+  "beds": 0,
+  "borough": "brooklyn",
+  "broker_fee": "none",
+  "broker_fee_detail": "'NO FEE' stated; also protected under FARE Act",
+  "broker_message": "Hi Seth \u2014 interested in 2016 Albemarle #4D. Could you confirm it's rent-stabilized and share the current legal registered rent, whether the photos are of this exact unit, that heat/hot water are included in writing, and full move-in cost and lease term? Would the owner do $1,775? Thanks.",
+  "broker_questions": [
+    "Is this rent-stabilized, and what's the current legal registered rent (DHCR)?",
+    "Are the photos of this actual unit?",
+    "What are the 6 litigation cases about?",
+    "How reliable is heat/hot water (advertised included)?",
+    "Full move-in cost and lease term?",
+    "Is it a separate-room studio or open layout?",
+    "Recent pest/mold treatment?"
+  ],
+  "brokerage": "Lang Realty LLC",
+  "building_issue_flags": [
+    "pests",
+    "mold",
+    "leak"
+  ],
+  "building_risk": "medium",
+  "building_risk_rationale": "openigloo reports 10 open violations at 0.20/unit \u2014 below the NYC avg of 0.81 \u2014 which looks fine. But 6 of the 10 open are Class C (heat/hot water, pests, mold, defective parts), plus 2 evictions and 6 litigation cases, and a tenant review citing slow repairs. The Class C concentration and 6 litigation cases push to Medium despite the low per-unit count. Total-violations and 311/DOB counts behind paywall (unverified).",
+  "building_type": "elevator",
+  "commute_notes": "Church Ave and Beverley Rd on the B/Q Brighton Line are both a short walk. Q to Midtown ~35-45 min; strong Prospect Park access. Among the best commutes of the group.",
+  "complaints_311": null,
+  "comps": [
+    {
+      "address": "650 Ocean Avenue #6B, Prospect Park South",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": null,
+      "rent": 1850,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/1916-albemarle-road-brooklyn/6b",
+      "verdict": "similar"
+    },
+    {
+      "address": "483 Ocean Parkway #3F, Kensington",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": null,
+      "rent": 1864,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/483-ocean-parkway-brooklyn/3f",
+      "verdict": "similar"
+    },
+    {
+      "address": "1011 Ocean Avenue #4D, Ditmas Park",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": null,
+      "rent": 1799,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/1011-ocean-avenue-brooklyn/4d",
+      "verdict": "similar"
+    },
+    {
+      "address": "900 Rogers Avenue #1F, Flatbush",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": null,
+      "rent": 1999,
+      "sqft": 400,
+      "url": "https://streeteasy.com/building/900-rogers-avenue-brooklyn/1f",
+      "verdict": "worse"
+    },
+    {
+      "address": "525 Ocean Parkway #3C, Kensington",
+      "baths": 1,
+      "beds": 0,
+      "distance_mi": null,
+      "rent": 2050,
+      "sqft": 600,
+      "url": "https://streeteasy.com/building/525-ocean-parkway-brooklyn/3c",
+      "verdict": "worse"
+    }
+  ],
+  "concession": null,
+  "concessions_to_ask": [
+    "Confirm heat/hot-water included in writing",
+    "Fresh paint / minor repairs before move-in",
+    "Waived or reduced deposit"
+  ],
+  "cons": [
+    "6 open Class C violations and 6 litigation cases building-wide",
+    "Listing photos likely stale (2014/2016) \u2014 verify condition",
+    "Large 2016->2026 rent jump on a 'stabilized' unit needs legal-rent check"
+  ],
+  "days_on_market": 0,
+  "dob_complaints": null,
+  "ecb_penalties": null,
+  "fair_rent_high": 1950,
+  "fair_rent_low": 1750,
+  "floor": 4,
+  "generated_at": "2026-07-02T00:00:00Z",
+  "heat_hot_water_recurring": null,
+  "hpd_violations_open": 10,
+  "hpd_violations_total": null,
+  "is_stale": false,
+  "latitude": 40.647015,
+  "lease_term_months": null,
+  "leverage_notes": "Brand-new listing (0 days), rent-stabilized, heat+HW included, strong Q/B access \u2014 priced fairly at $1,825 vs comps $1,799-$2,050. Limited price leverage; focus on terms.",
+  "listed_by": "Seth Miller (Licensed Real Estate Salesperson)",
+  "listing_flags": [
+    "no_sqft",
+    "no_floor_plan",
+    "no_pet_policy",
+    "no_lease_term",
+    "reused_past_photos_possible"
+  ],
+  "listing_platform": "streeteasy",
+  "location_score": 8,
+  "longitude": -73.95977,
+  "management_company": null,
+  "most_likely_sitting_reason": null,
+  "nearest_subway": [
+    {
+      "confidence": "high",
+      "distance_mi": 0.25,
+      "lines": [
+        "B",
+        "Q"
+      ],
+      "station": "Church Avenue (Brighton Line)",
+      "walk_min": 5
+    },
+    {
+      "confidence": "high",
+      "distance_mi": 0.31,
+      "lines": [
+        "Q"
+      ],
+      "station": "Beverley Road",
+      "walk_min": 6
+    },
+    {
+      "confidence": "high",
+      "distance_mi": 0.45,
+      "lines": [
+        "Q"
+      ],
+      "station": "Cortelyou Road",
+      "walk_min": 9
+    }
+  ],
+  "neighborhood": "Flatbush",
+  "neighborhood_avg_violations": 0.81,
+  "noise_risks": [
+    "Albemarle Rd largely residential; nearby Church Ave can be busy",
+    "1932 building \u2014 potential inter-unit noise"
+  ],
+  "open_construction": null,
+  "original_list_date": "2026-07-01",
+  "owner_entity": "Benzi Washington LLC",
+  "owner_name": "Sandra Garcia",
+  "pet_policy": "unknown",
+  "plain_english": "A fresh, no-fee, rent-stabilized studio in a well-located Flatbush elevator building with heat and hot water included and great B/Q access near Prospect Park \u2014 attractive and fairly priced. Cautions: several immediately-hazardous (Class C) violations and multiple litigation cases, and the photos look years old. Tour the actual unit, get the stabilization/legal-rent history in writing, confirm heat reliability. If those check out, a strong option.",
+  "price_assessment": "fairly_priced",
+  "price_changes": [],
+  "pros": [
+    "Rent-stabilized + Good Cause building \u2014 renewal rights and capped increases",
+    "No fee, heat/hot water included, elevator + laundry + live-in super",
+    "Excellent B/Q access (Church Ave, Beverley Rd) near Prospect Park"
+  ],
+  "recent_class_c": true,
+  "recommendation": "worth_touring",
+  "red_flags": [
+    {
+      "how_to_verify": "Insist on seeing the actual unit in person",
+      "issue": "Listing photos may be reused from a 2016/2014 rental",
+      "severity": "medium",
+      "why": "If photos are stale, actual condition may differ"
+    },
+    {
+      "how_to_verify": "Request DHCR rent history; confirm legal rent",
+      "issue": "'RENT STABILIZED' + big jump from $1,375 (2016) to $1,825 (2026)",
+      "severity": "medium",
+      "why": "If stabilized, current rent should be supported by a legal registered rent; a large jump can signal preferential-rent or improper deregulation"
+    },
+    {
+      "how_to_verify": "Check HPD Online for live open C items; ask super about heat/pests/mold",
+      "issue": "6 Class C open violations building-wide + 6 litigation cases",
+      "severity": "medium",
+      "why": "Immediately-hazardous conditions and active litigation suggest friction"
+    },
+    {
+      "how_to_verify": "Measure on tour",
+      "issue": "No sqft/floor plan despite 'LARGE STUDIO' claim",
+      "severity": "low",
+      "why": "'Large' is unverifiable without dimensions"
+    }
+  ],
+  "rent_gross_monthly": 1825,
+  "rent_net_effective": null,
+  "rent_stabilized": "yes",
+  "schema_version": "1.0",
+  "score_building_risk": 5,
+  "score_location": 8,
+  "score_negotiation": 4,
+  "score_overall": 7,
+  "score_value": 7,
+  "should_negotiate": false,
+  "sitting_reasons": [],
+  "source_url": "https://streeteasy.com/building/2016-albemarle-road-brooklyn/4d",
+  "sources": [
+    {
+      "accessed": true,
+      "category": "listing",
+      "label": "StreetEasy \u2014 2016 Albemarle Rd #4D",
+      "url": "https://streeteasy.com/building/2016-albemarle-road-brooklyn/4d"
+    },
+    {
+      "accessed": true,
+      "category": "building_records",
+      "label": "openigloo \u2014 2016 Albemarle Rd (BBL 3051240005)",
+      "url": "https://www.openigloo.com/building/nyc/3117620-3051240005/brooklyn-flatbush-2016-albemarle-road-11226"
+    },
+    {
+      "accessed": true,
+      "category": "comps",
+      "label": "StreetEasy similar-homes carousel",
+      "url": "https://streeteasy.com/building/2016-albemarle-road-brooklyn/4d"
+    },
+    {
+      "accessed": true,
+      "category": "maps",
+      "label": "Coordinates for transit verification",
+      "url": "http://www.google.com/maps/place/40.647015,-73.95977"
+    }
+  ],
+  "sqft": null,
+  "suggested_rent": 1775,
+  "unit": "4D",
+  "units_available_in_building": 2,
+  "unverified": [
+    "Exact total HPD count and 311/DOB/ECB counts (paywall)",
+    "Square footage and floor plan",
+    "Whether photos are current unit condition",
+    "Legal registered rent / rent-stabilization confirmation",
+    "Exact move-in costs and lease term",
+    "Precise subway walk times"
+  ],
+  "verification": {
+    "building_records": true,
+    "comps": true,
+    "transit": true
+  },
+  "zip": "11226"
+}

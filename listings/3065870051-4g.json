@@ -1,0 +1,276 @@
+{
+  "address": "1500 Ocean Parkway",
+  "amenities": [
+    "Hardwood floors",
+    "City view",
+    "Laundry in building",
+    "Live-in super",
+    "Elevator",
+    "Separate kitchen",
+    "King-sized bedroom",
+    "Plenty of closet space"
+  ],
+  "analysis_tier": "deep_dive",
+  "available_date": "now",
+  "baths": 1,
+  "bbl": "3065870051",
+  "beds": 1,
+  "borough": "brooklyn",
+  "broker_fee": "none",
+  "broker_fee_detail": "No-fee under NYC FARE Act",
+  "broker_message": "Hi Mikhail \u2014 interested in 1500 Ocean Parkway #4G. It looks like it's been relisted a few times since last summer \u2014 can you tell me why it hasn't rented? Also: does it need co-op board approval (fees/timeline), which way does 4G face, is it rent-stabilized with the legal rent, and full move-in costs? Given the time on market, would the owner consider $1,850? Thanks.",
+  "broker_questions": [
+    "Why relisted several times since August 2025?",
+    "Does renting need co-op board approval \u2014 fees/timeline?",
+    "Which direction does 4G face?",
+    "Is it rent-stabilized, and the legal rent?",
+    "Full move-in cost and lease term?",
+    "Is heat/hot water included and reliable?",
+    "Are laundry and elevator in service?"
+  ],
+  "brokerage": "Apartment Rentals and Sales Realty LLC",
+  "building_issue_flags": [],
+  "building_risk": "low",
+  "building_risk_rationale": "openigloo shows just 1 open violation (0/unit vs 0.81 avg), no evictions, no bedbugs, 0 Class C \u2014 the cleanest building of the group. 3 litigation cases (typical for a 72-unit co-op). Owner Chaim Babad runs ~40 buildings with a mixed portfolio-wide reputation (~75 open violations across the portfolio), so building-level cleanliness here is reassuring. Low risk for this specific building.",
+  "building_type": "elevator",
+  "commute_notes": "Nearest is the F (Culver) at Avenue N/P, ~7-8 min. F to Midtown is slow (~50-60 min). Faster B/Q at Kings Highway is farther (~13 min walk).",
+  "complaints_311": null,
+  "comps": [
+    {
+      "address": "1800 Ocean Parkway #C4, Gravesend (co-op)",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": null,
+      "rent": 1899,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/1800-ocean-parkway-brooklyn/c4",
+      "verdict": "similar"
+    },
+    {
+      "address": "815 Gravesend Neck Road #3P, Sheepshead Bay",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": null,
+      "rent": 1900,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/815-gravesend-neck-road-brooklyn/3p",
+      "verdict": "similar"
+    },
+    {
+      "address": "1320 Coney Island Avenue #41, Midwood",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": null,
+      "rent": 1995,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/1320-coney-island-avenue-brooklyn/41",
+      "verdict": "similar"
+    },
+    {
+      "address": "1970 85th Street #A2, Bensonhurst",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": null,
+      "rent": 1899,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/1970-85-street-brooklyn/a2",
+      "verdict": "similar"
+    },
+    {
+      "address": "1974 51st Street #3A, Mapleton",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": null,
+      "rent": 2000,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/1974-51-street-brooklyn/3a",
+      "verdict": "worse"
+    }
+  ],
+  "concession": null,
+  "concessions_to_ask": [
+    "Push toward $1,850 given ~10 months churn",
+    "Waived co-op application/processing fees",
+    "Reduced deposit",
+    "Landlord-paid minor repairs / paint"
+  ],
+  "cons": [
+    "Closest train is the slow F; faster B/Q is a ~13-min walk",
+    "Co-op rental may require board approval, fees, and sublet restrictions",
+    "Relisted repeatedly since Aug 2025 \u2014 find out why"
+  ],
+  "days_on_market": 6,
+  "dob_complaints": null,
+  "ecb_penalties": null,
+  "fair_rent_high": 2000,
+  "fair_rent_low": 1850,
+  "floor": 4,
+  "generated_at": "2026-07-02T00:00:00Z",
+  "heat_hot_water_recurring": null,
+  "hpd_violations_open": 1,
+  "hpd_violations_total": 1,
+  "is_stale": false,
+  "latitude": 40.61211,
+  "lease_term_months": null,
+  "leverage_notes": "Dropped from $1,995 to $1,950 and failed to rent across two brokerages since Aug 2025 \u2014 clear leverage. Comps $1,875-$2,025, so $1,950 is fair but churn justifies pushing to ~$1,850 plus waived app fees.",
+  "listed_by": "Mikhail Kayumov (Licensed Real Estate Salesperson)",
+  "listing_flags": [
+    "no_sqft",
+    "no_floor_plan",
+    "no_pet_policy",
+    "no_lease_term",
+    "relist_churn",
+    "brokerage_changed"
+  ],
+  "listing_platform": "streeteasy",
+  "location_score": 6,
+  "longitude": -73.968925,
+  "management_company": "1500 Ocean Parkway Corp.",
+  "most_likely_sitting_reason": "Priced slightly high for a slow-F-train Ocean Parkway 1BR and possibly slowed by co-op board/sublet friction; the cut and churn point to price/terms, not a defect",
+  "nearest_subway": [
+    {
+      "confidence": "high",
+      "distance_mi": 0.3,
+      "lines": [
+        "F"
+      ],
+      "station": "Avenue P (Culver Line)",
+      "walk_min": 7
+    },
+    {
+      "confidence": "high",
+      "distance_mi": 0.3,
+      "lines": [
+        "F"
+      ],
+      "station": "Avenue N (Culver Line)",
+      "walk_min": 7
+    },
+    {
+      "confidence": "high",
+      "distance_mi": 0.62,
+      "lines": [
+        "B",
+        "Q"
+      ],
+      "station": "Kings Highway (Brighton Line)",
+      "walk_min": 13
+    }
+  ],
+  "neighborhood": "Midwood",
+  "neighborhood_avg_violations": 0.81,
+  "noise_risks": [
+    "Ocean Parkway is a wide multi-lane arterial \u2014 traffic noise on the avenue side",
+    "1940 building \u2014 inter-unit noise possible"
+  ],
+  "open_construction": null,
+  "original_list_date": "2026-06-25",
+  "owner_entity": "1500 Ocean Parkway Corp.",
+  "owner_name": "Chaim Babad",
+  "pet_policy": "unknown",
+  "plain_english": "A no-fee real 1-bedroom in a notably clean, well-run Midwood co-op (only 1 open violation, no evictions/bedbugs) with elevator, laundry, live-in super \u2014 the safest building of the group. Trade-offs: nearest subway is the slow F (faster B/Q is a longer walk), and as a co-op rental it may need board approval and fees. It has bounced on/off market since last summer with a small cut \u2014 your opening to negotiate toward ~$1,850 and waived app fees. Worth touring; ask why it hasn't rented and clarify the co-op process.",
+  "price_assessment": "fairly_priced",
+  "price_changes": [
+    {
+      "date": "2026-06-25",
+      "new_rent": 1950,
+      "old_rent": 1995
+    }
+  ],
+  "pros": [
+    "Cleanest building of the group \u2014 1 open violation, no evictions, no bedbugs",
+    "No fee, elevator + laundry + live-in super, real 1-bedroom",
+    "Relist churn gives genuine negotiating leverage toward ~$1,850"
+  ],
+  "recent_class_c": false,
+  "recommendation": "worth_touring",
+  "red_flags": [
+    {
+      "how_to_verify": "Ask why it didn't rent before",
+      "issue": "Relist churn across two brokerages",
+      "severity": "low",
+      "why": "Listed 8/2025 at $1,950, relisted 12/2025 at $1,995, now $1,950 by a new brokerage \u2014 struggled to rent over ~10 months"
+    },
+    {
+      "how_to_verify": "Tour at a busy time; ask which way 4G faces",
+      "issue": "'City view' 4th-floor unit facing Ocean Parkway",
+      "severity": "low",
+      "why": "Busy arterial; facing unit may get traffic noise"
+    },
+    {
+      "how_to_verify": "Measure on tour",
+      "issue": "No sqft/floor plan despite 'Large 1 Bed' claim",
+      "severity": "low",
+      "why": "Size claims unverifiable"
+    },
+    {
+      "how_to_verify": "Ask about board approval, fees, sublet term limits",
+      "issue": "Co-op rental \u2014 board approval/sublet rules may apply",
+      "severity": "medium",
+      "why": "Board application, fees, and sublet limits can add time/cost"
+    }
+  ],
+  "rent_gross_monthly": 1950,
+  "rent_net_effective": null,
+  "rent_stabilized": "likely",
+  "schema_version": "1.0",
+  "score_building_risk": 8,
+  "score_location": 6,
+  "score_negotiation": 7,
+  "score_overall": 7,
+  "score_value": 7,
+  "should_negotiate": true,
+  "sitting_reasons": [],
+  "source_url": "https://streeteasy.com/building/1500-ocean-parkway-brooklyn/4g",
+  "sources": [
+    {
+      "accessed": true,
+      "category": "listing",
+      "label": "StreetEasy \u2014 1500 Ocean Parkway #4G",
+      "url": "https://streeteasy.com/building/1500-ocean-parkway-brooklyn/4g"
+    },
+    {
+      "accessed": true,
+      "category": "building_records",
+      "label": "openigloo \u2014 1500 Ocean Parkway (BBL 3065870051)",
+      "url": "https://www.openigloo.com/building/nyc/3173783-3065870051/brooklyn-ocean-parkway-1500-ocean-parkway-11230"
+    },
+    {
+      "accessed": true,
+      "category": "reviews",
+      "label": "openigloo \u2014 owner Chaim Babad portfolio/reputation",
+      "url": "https://www.openigloo.com/contact/nyc/e61d9c3b-db94-4e7a-bd55-2205a2fcf561/chaim-babad"
+    },
+    {
+      "accessed": true,
+      "category": "comps",
+      "label": "StreetEasy similar-homes carousel",
+      "url": "https://streeteasy.com/building/1500-ocean-parkway-brooklyn/4g"
+    },
+    {
+      "accessed": true,
+      "category": "maps",
+      "label": "Coordinates for transit verification",
+      "url": "http://www.google.com/maps/place/40.61211,-73.968925"
+    }
+  ],
+  "sqft": null,
+  "suggested_rent": 1850,
+  "unit": "4G",
+  "units_available_in_building": 2,
+  "unverified": [
+    "Exact 311/DOB/ECB counts (paywall)",
+    "Square footage and floor plan",
+    "Whether unit requires co-op board approval and fees",
+    "Rent-stabilization confirmation and legal rent",
+    "Exact move-in costs and lease term",
+    "Why the unit has repeatedly failed to rent since Aug 2025",
+    "Precise subway walk times"
+  ],
+  "verification": {
+    "building_records": true,
+    "comps": true,
+    "transit": true
+  },
+  "zip": "11230"
+}

@@ -1,0 +1,267 @@
+{
+  "address": "315 61st Street",
+  "amenities": [
+    "laundry in building",
+    "live-in super",
+    "hardwood floors"
+  ],
+  "analysis_tier": "deep_dive",
+  "available_date": "2026-08-01",
+  "baths": 1,
+  "bbl": "3057810062",
+  "beds": 1,
+  "borough": "brooklyn",
+  "broker_fee": "none",
+  "broker_fee_detail": "NO BROKER FEE stated; listed by Voro Purple LLC (out-of-state principal office)",
+  "broker_message": "Hi Edwin \u2014 I'm interested in 315 61st St #D9 for the 8/1 move-in. Since it's rent-stabilized, could you share the DHCR rent history confirming the $1,974.71 legal rent, confirm there's no broker fee, and total move-in costs? Also, who handles repairs locally, and can you confirm the photos are the actual D9 unit? Thanks!",
+  "broker_questions": [
+    "Can I see the DHCR rent history confirming the $1,974.71 legal rent and no overcharge?",
+    "Who manages/repairs locally (brokerage is out of state)?",
+    "Why has this unit relisted several times since April 2026?",
+    "How reliable is winter heat/hot water?",
+    "What floor is D9 exactly, full 4-flight walk-up?",
+    "Total move-in costs, truly no-fee?",
+    "Pet policy and income/guarantor requirements?",
+    "Do current photos reflect the actual D9 unit?"
+  ],
+  "brokerage": "Voro Purple LLC",
+  "building_issue_flags": [
+    "heat",
+    "construction"
+  ],
+  "building_risk": "medium",
+  "building_risk_rationale": "Total HPD (~12) well below the 0.81/unit benchmark, spotless 5-yr bedbug/rodent record, zero evictions, most violations resolved. But modestly above Sunset Park avgs on 311 (15), DOB (4), ECB (3 x $2,500 for unpermitted retaining-wall work) and a recurring heat/hot-water pattern (Jan-Feb 2026, Dec 2024, Nov 2019) plus a historical Class C 'no heat.' Exact open count inconsistent, unverified. Retaining-wall permit signed off.",
+  "building_type": "walkup",
+  "commute_notes": "Best transit of the strong picks: N/R/W hub at 59th St under 500 ft (~3 min). N express to Midtown ~35-40 min. R local also available.",
+  "complaints_311": 15,
+  "comps": [
+    {
+      "address": "666 56th Street #4, Sunset Park",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": 0.4,
+      "rent": 1925,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/666-56-street-brooklyn/4",
+      "verdict": "similar"
+    },
+    {
+      "address": "1970 85th Street #A2, Bensonhurst",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": null,
+      "rent": 1899,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/1970-85-street-brooklyn/a2",
+      "verdict": "similar"
+    },
+    {
+      "address": "1570 66th Street #1, Bensonhurst",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": null,
+      "rent": 2025,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/1570-66-street-brooklyn/1",
+      "verdict": "similar"
+    },
+    {
+      "address": "8621 17th Avenue #1, Bath Beach",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": null,
+      "rent": 1800,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/8621-17-avenue-brooklyn/1",
+      "verdict": "worse"
+    },
+    {
+      "address": "7606 17th Avenue #1, Bensonhurst",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": null,
+      "rent": 1775,
+      "sqft": 700,
+      "url": "https://streeteasy.com/building/7606-17-avenue-brooklyn/1",
+      "verdict": "better"
+    }
+  ],
+  "concession": null,
+  "concessions_to_ask": [
+    "confirm DHCR legal rent in writing and no overcharge",
+    "confirm no broker fee and move-in cost",
+    "fresh paint/repairs before 8/1",
+    "clarify local repair contact"
+  ],
+  "cons": [
+    "4th-floor walk-up in a 1924 building",
+    "Recurring winter heat/hot-water incl. a historical Class C 'no heat'",
+    "Out-of-state brokerage and repeated relists; no room to negotiate rent (at legal cap)"
+  ],
+  "days_on_market": 0,
+  "dob_complaints": 4,
+  "ecb_penalties": 3,
+  "fair_rent_high": 2050,
+  "fair_rent_low": 1850,
+  "floor": 4,
+  "generated_at": "2026-07-02T00:00:00Z",
+  "heat_hot_water_recurring": true,
+  "hpd_violations_open": null,
+  "hpd_violations_total": 12,
+  "is_stale": false,
+  "latitude": 40.641407,
+  "lease_term_months": null,
+  "leverage_notes": "Priced fairly vs Sunset Park 1BR comps and offered right at the legal regulated rent, so almost no room to negotiate down. Only real ask is a minor concession; the bigger win is confirming stabilization and no overcharge.",
+  "listed_by": "Edwin Ega (Voro Purple LLC)",
+  "listing_flags": [
+    "no_sqft",
+    "no_floor_plan",
+    "no_pet_policy",
+    "4th_floor_walkup",
+    "out_of_state_brokerage",
+    "advertised_rent_at_legal_rent"
+  ],
+  "listing_platform": "streeteasy",
+  "location_score": 8,
+  "longitude": -74.02046,
+  "management_company": null,
+  "most_likely_sitting_reason": null,
+  "nearest_subway": [
+    {
+      "confidence": "high",
+      "distance_mi": 0.09,
+      "lines": [
+        "N",
+        "R",
+        "W"
+      ],
+      "station": "59th St / 4th Ave",
+      "walk_min": 3
+    },
+    {
+      "confidence": "high",
+      "distance_mi": 0.38,
+      "lines": [
+        "R"
+      ],
+      "station": "53rd St",
+      "walk_min": 8
+    }
+  ],
+  "neighborhood": "Sunset Park",
+  "neighborhood_avg_violations": 0.81,
+  "noise_risks": [
+    "4th-floor walk-up (stair burden)",
+    "near 4th Ave / Gowanus Expwy \u2014 some traffic noise possible",
+    "busy subway hub nearby"
+  ],
+  "open_construction": false,
+  "original_list_date": "2026-07-01",
+  "owner_entity": "Registered contact: Demetrius Partridge (Astoria); owner shown inconsistently",
+  "owner_name": null,
+  "pet_policy": "unknown",
+  "plain_english": "Strongest all-around pick: a no-fee, rent-stabilized 1BR at $1,975 (right at its legal rent, below the Sunset Park median) with the best commute of the group \u2014 N express and R under 500 ft, ~35-40 min to Midtown. Low violation load, no bedbugs/evictions. Catches: 4th-floor walk-up, recurring winter heat, out-of-state brokerage that has relisted a few times. Little rent to negotiate (at legal cap). Worth touring; confirm DHCR legal rent, winter heat, and local repairs, then likely apply.",
+  "price_assessment": "fairly_priced",
+  "price_changes": [
+    {
+      "date": "2026-07-01",
+      "new_rent": 1975,
+      "old_rent": null
+    },
+    {
+      "date": "2026-04-11",
+      "new_rent": 1975,
+      "old_rent": null
+    }
+  ],
+  "pros": [
+    "Rent-stabilized 1BR at $1,975 \u2014 at legal rent and below the Sunset Park median, no fee",
+    "Excellent transit: N express + R at 59th St under 500 ft, ~35-40 min to Midtown",
+    "Low absolute violation count, no bedbugs/evictions; laundry + live-in super"
+  ],
+  "recent_class_c": true,
+  "recommendation": "worth_touring",
+  "red_flags": [
+    {
+      "how_to_verify": "Request DHCR rent history to confirm the legal rent and no overcharge.",
+      "issue": "Advertised rent ($1,975) is at/just above the stated legal rent ($1,974.71)",
+      "severity": "low",
+      "why": "Offered right at the legal cap \u2014 no preferential cushion, little room to be found illegally high."
+    },
+    {
+      "how_to_verify": "Climb it on tour; confirm floor.",
+      "issue": "4th-floor walk-up",
+      "severity": "medium",
+      "why": "No elevator; four flights daily."
+    },
+    {
+      "how_to_verify": "Confirm who manages/repairs locally; ask why it relisted.",
+      "issue": "Out-of-state brokerage; unit relisted repeatedly since April",
+      "severity": "low",
+      "why": "Remote brokerage can mean slower local response."
+    },
+    {
+      "how_to_verify": "Ask super; check HPD Online; talk to tenants.",
+      "issue": "Recurring heat/hot-water complaints + historical Class C 'no heat'",
+      "severity": "medium",
+      "why": "1924 walk-up with repeated winter heat emergencies, esp. top floor."
+    }
+  ],
+  "rent_gross_monthly": 1975,
+  "rent_net_effective": null,
+  "rent_stabilized": "yes",
+  "schema_version": "1.0",
+  "score_building_risk": 6,
+  "score_location": 8,
+  "score_negotiation": 3,
+  "score_overall": 8,
+  "score_value": 7,
+  "should_negotiate": false,
+  "sitting_reasons": [],
+  "source_url": "https://streeteasy.com/building/315-61-street-brooklyn/d9",
+  "sources": [
+    {
+      "accessed": true,
+      "category": "listing",
+      "label": "StreetEasy 315 61st St #D9",
+      "url": "https://streeteasy.com/building/315-61-street-brooklyn/d9"
+    },
+    {
+      "accessed": true,
+      "category": "building_records",
+      "label": "Augrented (BBL 3057810062)",
+      "url": "https://augrented.com/nyc/3057810062-315-61st-street-brooklyn"
+    },
+    {
+      "accessed": false,
+      "category": "public_records",
+      "label": "DHCR rent registration",
+      "url": "https://apps.hcr.ny.gov/BuildingSearch/"
+    },
+    {
+      "accessed": true,
+      "category": "maps",
+      "label": "Coordinates + subway (N/R/W at 59th St)",
+      "url": "http://www.google.com/maps/place/40.641407,-74.02046"
+    }
+  ],
+  "sqft": null,
+  "suggested_rent": 1950,
+  "unit": "D9",
+  "units_available_in_building": 1,
+  "unverified": [
+    "exact live HPD open count (inconsistent)",
+    "DHCR legal rent $1,974.71 and no overcharge",
+    "owner/management identity and local repair contact",
+    "pet policy",
+    "unit sqft/floor plan and whether photos are the actual D9",
+    "precise subway walk times",
+    "why the unit relisted repeatedly"
+  ],
+  "verification": {
+    "building_records": true,
+    "comps": true,
+    "transit": true
+  },
+  "zip": "11220"
+}

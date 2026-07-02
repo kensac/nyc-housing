@@ -1,0 +1,265 @@
+{
+  "address": "3320 Avenue H",
+  "amenities": [
+    "Elevator",
+    "Live-in super (24/7)",
+    "Hardwood floors",
+    "Renovated kitchen",
+    "Stainless appliances",
+    "Closet space"
+  ],
+  "analysis_tier": "deep_dive",
+  "available_date": "now",
+  "baths": 1,
+  "bbl": "3075790029",
+  "beds": 1,
+  "borough": "brooklyn",
+  "broker_fee": "none",
+  "broker_fee_detail": "No broker fee under NYC FARE Act; listing by NYC Luxury Apt Rentals Co LLC",
+  "broker_message": "Hi Arman \u2014 interested in 3320 Avenue H #6F. Can you confirm whether this is a rental lease or a co-op needing board approval, the lease term, and full move-in costs? I'd also like to confirm the renovation is recent and ask about pest control, since I saw a building review mention roaches. If it shows well I'd like to discuss $1,875. Thanks!",
+  "broker_questions": [
+    "Is this a co-op requiring board approval, or a straightforward lease? Any board fee?",
+    "Is it rent-stabilized? Prior legal rent?",
+    "The building has 2 open Class C violations \u2014 what are they and are they fixed?",
+    "A review mentions roaches and plumbing backing up \u2014 pest control and plumbing on the 6th floor?",
+    "Full move-in costs and lease term?",
+    "Who is my contact \u2014 Ira or Arman \u2014 and who signs the lease?"
+  ],
+  "brokerage": "NYC LUXURY APT RENTALS CO LLC",
+  "building_issue_flags": [
+    "pests",
+    "leak"
+  ],
+  "building_risk": "medium",
+  "building_risk_rationale": "Only 3 open HPD violations across ~90 units = 0.03/unit, far below the NYC average of 0.81 \u2014 a genuinely clean violation profile. What pushes to Medium: 2 of the 3 open are Class C (immediately hazardous), 5 evictions and 3 litigation cases, and a tenant review describing roaches and poor plumbing. Managing entities in the Victor Fein/Medallion orbit carry a below-average 2.9 owner rating. Low count, but qualitative signals and Class C items warrant direct questions.",
+  "building_type": "elevator",
+  "commute_notes": "IRT Nostrand Ave line terminal (2/5) at Flatbush Av\u2013Brooklyn College is a ~5-min walk \u2014 you board at the origin, usually a seat. To Downtown Brooklyn ~20 min, Midtown/Union Sq ~45-50 min. StreetEasy's 'Q/B at Av H' is nearly a mile away; the 2/5 is the real access.",
+  "complaints_311": null,
+  "comps": [
+    {
+      "address": "1500 Ocean Parkway #4G, Midwood",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": 1.4,
+      "rent": 1950,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/1500-ocean-parkway-brooklyn/4g",
+      "verdict": "similar"
+    },
+    {
+      "address": "3420 Newkirk Avenue #4B, East Flatbush",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": 0.5,
+      "rent": 1758,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/3420-newkirk-avenue-brooklyn/4b",
+      "verdict": "better"
+    },
+    {
+      "address": "1800 Ocean Parkway #C4, Gravesend",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": 2.5,
+      "rent": 1899,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/1800-ocean-parkway-brooklyn/c4",
+      "verdict": "similar"
+    },
+    {
+      "address": "3033 Coney Island Avenue #5, Brighton Beach",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": 3.0,
+      "rent": 1875,
+      "sqft": null,
+      "url": "https://streeteasy.com/building/3033-coney-island-avenue-brooklyn/5",
+      "verdict": "similar"
+    },
+    {
+      "address": "1830 East 29th Street #GF, Madison",
+      "baths": 1,
+      "beds": 1,
+      "distance_mi": 1.6,
+      "rent": 1949,
+      "sqft": 775,
+      "url": "https://streeteasy.com/building/1830-east-29-street-brooklyn/gf",
+      "verdict": "similar"
+    }
+  ],
+  "concession": null,
+  "concessions_to_ask": [
+    "~$75/mo reduction toward $1,875",
+    "Confirm and document recent renovation",
+    "Professional extermination before move-in",
+    "Waive/limit any co-op application fee"
+  ],
+  "cons": [
+    "2 open Class C violations plus a review citing roaches/plumbing",
+    "Co-op vs. rental ambiguity could complicate the application",
+    "Priced at top of local band; a cheaper East Flatbush comp exists"
+  ],
+  "days_on_market": 6,
+  "dob_complaints": null,
+  "ecb_penalties": null,
+  "fair_rent_high": 1975,
+  "fair_rent_low": 1800,
+  "floor": 6,
+  "generated_at": "2026-07-02T00:00:00Z",
+  "heat_hot_water_recurring": null,
+  "hpd_violations_open": 3,
+  "hpd_violations_total": null,
+  "is_stale": false,
+  "latitude": 40.6315,
+  "lease_term_months": null,
+  "leverage_notes": "Sits at the top of the local 1BR band; a comparable East Flatbush unit (3420 Newkirk) is $1,758 and Gravesend/OP co-ops are $1,899. The Class C violations, pest review, and co-op ambiguity are real levers. Fresh (6 days) so expect a modest concession at most.",
+  "listed_by": "Arman Ohevshalom, NYC LUXURY APT RENTALS CO LLC",
+  "listing_flags": [
+    "no_sqft",
+    "no_floor_plan",
+    "listed_as_coop_but_operates_as_rentstabilized_rental",
+    "only_8_current_photos_generic",
+    "contact_name_mismatch"
+  ],
+  "listing_platform": "streeteasy",
+  "location_score": 7,
+  "longitude": -73.9433,
+  "management_company": null,
+  "most_likely_sitting_reason": null,
+  "nearest_subway": [
+    {
+      "confidence": "high",
+      "distance_mi": 0.22,
+      "lines": [
+        "2",
+        "5"
+      ],
+      "station": "Flatbush Av\u2013Brooklyn College",
+      "walk_min": 5
+    },
+    {
+      "confidence": "high",
+      "distance_mi": 0.64,
+      "lines": [
+        "2",
+        "5"
+      ],
+      "station": "Newkirk Av",
+      "walk_min": 13
+    },
+    {
+      "confidence": "low",
+      "distance_mi": 0.96,
+      "lines": [
+        "Q",
+        "B"
+      ],
+      "station": "Avenue H (Brighton line)",
+      "walk_min": 19
+    }
+  ],
+  "neighborhood": "East Flatbush",
+  "neighborhood_avg_violations": 0.81,
+  "noise_risks": [
+    "Near Flatbush Ave commercial corridor and Junction shopping district",
+    "Brooklyn College foot traffic"
+  ],
+  "open_construction": null,
+  "original_list_date": "2026-06-25",
+  "owner_entity": "Managed via Medallion Real Estate / associated with Victor Fein portfolio",
+  "owner_name": "Solomon Rokowsky",
+  "pet_policy": "allowed",
+  "plain_english": "A no-fee, renovated 1BR in an elevator co-op building steps from the 2/5 terminal at Brooklyn College. Listed only 6 days, so fresh, not sitting. The building's overall violation record is excellent, but a couple of hazardous (Class C) violations and a review about roaches/plumbing mean tour carefully and ask pointed pest/plumbing questions. Confirm whether renting requires co-op board approval before you invest in an application.",
+  "price_assessment": "fairly_priced",
+  "price_changes": [],
+  "pros": [
+    "Very low overall violation load (0.03/unit vs 0.81 city avg)",
+    "5-min walk to 2/5 terminal \u2014 likely a seat every morning",
+    "No fee, pets allowed, elevator + 24/7 super, renovated"
+  ],
+  "recent_class_c": true,
+  "recommendation": "worth_touring",
+  "red_flags": [
+    {
+      "how_to_verify": "Ask whether there's board approval, an application fee, and who signs the lease",
+      "issue": "Listed as a 'Co-op' but operating as a rent-stabilized rental",
+      "severity": "medium",
+      "why": "Renting within a co-op can mean stricter board approval, longer application, uncertain renewal"
+    },
+    {
+      "how_to_verify": "Tour in person; confirm the renovation is recent",
+      "issue": "Current listing shows only 8 generic photos; 25 detailed photos on file are from 2017",
+      "severity": "low",
+      "why": "May not reflect current condition despite 'newly renovated'"
+    },
+    {
+      "how_to_verify": "Ask super about extermination and the tub-drain complaint; check HPD C-violation detail",
+      "issue": "2 open Class C violations plus a review citing roaches and plumbing backups",
+      "severity": "medium",
+      "why": "Pest and plumbing issues directly affect livability"
+    },
+    {
+      "how_to_verify": "Confirm you're dealing with the licensed agent of record",
+      "issue": "Description says 'call or text Ira' but the agent is Arman Ohevshalom",
+      "severity": "low",
+      "why": "Name mismatch can indicate an unlicensed cold-caller or churn"
+    }
+  ],
+  "rent_gross_monthly": 1949,
+  "rent_net_effective": null,
+  "rent_stabilized": "likely",
+  "schema_version": "1.0",
+  "score_building_risk": 6,
+  "score_location": 7,
+  "score_negotiation": 5,
+  "score_overall": 6,
+  "score_value": 6,
+  "should_negotiate": true,
+  "sitting_reasons": [],
+  "source_url": "https://streeteasy.com/building/3320-avenue-h-brooklyn/6f",
+  "sources": [
+    {
+      "accessed": true,
+      "category": "listing",
+      "label": "StreetEasy 3320 Avenue H #6F",
+      "url": "https://streeteasy.com/building/3320-avenue-h-brooklyn/6f"
+    },
+    {
+      "accessed": true,
+      "category": "building_records",
+      "label": "openigloo 3320 Avenue H (violations, evictions, review, owners)",
+      "url": "https://www.openigloo.com/building/nyc/3413638-3075790029/brooklyn-east-flatbush-3320-avenue-h-11210"
+    },
+    {
+      "accessed": true,
+      "category": "comps",
+      "label": "StreetEasy similar-homes carousel",
+      "url": "https://streeteasy.com/building/3320-avenue-h-brooklyn/6f"
+    },
+    {
+      "accessed": true,
+      "category": "maps",
+      "label": "IRT Nostrand Ave (2/5) terminal near coords",
+      "url": "http://www.google.com/maps/place/40.6315,-73.9433"
+    }
+  ],
+  "sqft": null,
+  "suggested_rent": 1875,
+  "unit": "6F",
+  "units_available_in_building": 1,
+  "unverified": [
+    "whether unit requires co-op board approval",
+    "live HPD total (only open count shown)",
+    "nature/status of the 2 Class C violations",
+    "current condition vs. old photos",
+    "lease term",
+    "rent-stabilization confirmed via DHCR",
+    "true identity of contact 'Ira' vs listed agent"
+  ],
+  "verification": {
+    "building_records": true,
+    "comps": true,
+    "transit": true
+  },
+  "zip": "11210"
+}
